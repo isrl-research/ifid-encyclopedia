@@ -3,3 +3,5 @@ api_key.py
 .env
 *Zone.Identifier
 __pycache__/
+ *.log
+*.log
