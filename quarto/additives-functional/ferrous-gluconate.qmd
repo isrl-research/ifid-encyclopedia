@@ -1,0 +1,24 @@
+---
+title: "Ferrous Gluconate"
+slug: ferrous-gluconate
+category: "Additives & Functional"
+category-slug: additives-functional
+keywords: ["Iron supplement", "Food fortification", "Mineral", "Anaemia", "Bioavailability", "Gluconic acid", "Nutritional additive"]
+description: "Ferrous Gluconate is a synthetic iron salt of gluconic acid, not a traditional Indian culinary ingredient"
+---
+
+## History and Sourcing
+
+[Ferrous Gluconate](ferrous-gluconate.qmd) is a synthetic iron salt of gluconic acid, not a traditional Indian culinary ingredient. Its presence in India is modern, driven by nutritional science and public health efforts to combat iron deficiency anaemia. The name 'ferrous' comes from Latin 'ferrum' (iron), and 'gluconate' refers to gluconic acid. It is industrially synthesized for its specific properties as an iron source.
+
+## Home Kitchen Use
+
+Ferrous gluconate is not used directly in home cooking. Its culinary impact is indirect, through fortified food products consumed in households. While traditional Indian diets include natural iron sources, ferrous gluconate in fortified staples helps supplement daily iron intake, especially where dietary iron is insufficient.
+
+## Industrial Applications
+
+Industrially, ferrous gluconate is a vital functional additive in food and pharmaceuticals. In FMCG, it fortifies infant formulas, breakfast cereals, flours (atta), and beverages due to its high bioavailability and mild taste. Its solubility and stability suit various food matrices. In pharmaceuticals, it's a common active ingredient in oral iron supplements (tablets, capsules, syrups) for treating and preventing iron deficiency anaemia.
+
+## Distinctions and Common Confusion
+
+Consumers may confuse ferrous gluconate with elemental iron or other iron compounds. It is distinct from other iron salts like ferrous sulfate or ferric pyrophosphate. Ferrous gluconate is preferred for its superior gastrointestinal tolerance and higher bioavailability, leading to more efficient absorption and fewer side effects. It acts as a targeted supplement or fortificant, separate from naturally occurring food iron, to enhance nutritional value.

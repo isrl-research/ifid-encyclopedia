@@ -1,0 +1,24 @@
+---
+title: "Fructose"
+slug: fructose
+category: "Sweeteners"
+category-slug: sweeteners
+keywords: ["Fructose", "Levulose", "Monosaccharide", "Sweetener", "Fruit sugar", "Honey", "Sugar metabolism"]
+description: "Fructose, also known as levulose, is a simple monosaccharide sugar naturally found in many plants, where it is often bonded with glucose to form sucrose"
+---
+
+## History and Sourcing
+
+[Fructose](fructose.qmd), also known as levulose, is a simple monosaccharide sugar naturally found in many plants, where it is often bonded with glucose to form sucrose. Its name is derived from the Latin word "fructus," meaning fruit, aptly reflecting its primary natural source. In India, fructose has been an inherent part of the traditional diet for millennia, consumed through an abundance of indigenous fruits like mangoes, bananas, and grapes, as well as through honey, a revered natural sweetener. While its isolated form is a modern development, the sugar itself is deeply embedded in the subcontinent's culinary heritage through these natural sources.
+
+## Home Kitchen Use
+
+In traditional Indian home kitchens, fructose is primarily consumed indirectly as part of whole fruits and honey, which are integral to desserts, beverages, and even some savoury preparations. Fruits are often eaten fresh, incorporated into chutneys, or used to sweeten kheer and other milk-based sweets. Honey, a rich source of fructose, is used in Ayurvedic remedies, as a natural sweetener for teas, and in traditional sweets like *modak* or *ladoo*, offering a distinct flavour profile and perceived health benefits compared to refined sugars.
+
+## Industrial Applications
+
+In modern industrial applications, isolated fructose, often in its powdered form, is widely utilized as a sweetener in the FMCG sector. Its high relative sweetness, often perceived as sweeter than sucrose, makes it an attractive ingredient for manufacturers looking to achieve desired sweetness levels with potentially less quantity. It is commonly found in soft drinks, fruit juices, confectionery, baked goods, and dairy products. Beyond sweetness, fructose also acts as a humectant, helping to retain moisture in products like energy bars and certain baked goods, thereby extending shelf life and improving texture.
+
+## Distinctions and Common Confusion
+
+Consumers often encounter confusion regarding fructose, frequently conflating it with other sugars like glucose or sucrose. [Fructose](fructose.qmd) is a monosaccharide, meaning it's a single sugar molecule, distinct from glucose (another monosaccharide) and sucrose (a disaccharide composed of one glucose and one fructose molecule). While all are sugars, their metabolic pathways differ; fructose is primarily metabolized in the liver, which has implications for its dietary impact, particularly in concentrated forms like high-fructose corn syrup (though not explicitly listed, this context is crucial for understanding public perception). It is also important to distinguish fructose from artificial sweeteners, which are synthetic compounds offering sweetness without caloric content.

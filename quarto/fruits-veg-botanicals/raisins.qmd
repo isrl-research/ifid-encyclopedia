@@ -1,0 +1,24 @@
+---
+title: "Raisins"
+slug: raisins
+category: "Fruits, Veg & Botanicals"
+category-slug: fruits-veg-botanicals
+keywords: ["Dried fruit", "Kishmish", "Grapes", "Sweetener", "Indian cuisine", "Munakka", "Confectionery"]
+description: "Raisins, known colloquially as kishmish in India, are dried grapes, a culinary staple with a history stretching back millennia to ancient Persia and Egypt"
+---
+
+## History and Sourcing
+
+[Raisins](raisins.qmd), known colloquially as kishmish in India, are dried grapes, a culinary staple with a history stretching back millennia to ancient Persia and Egypt. Their introduction to the Indian subcontinent is deeply intertwined with historical trade routes, particularly from Central Asia and the Middle East, where grape cultivation flourished. Today, while India is a significant grape producer, particularly in regions like Nashik and Sangli in Maharashtra, and Bijapur in Karnataka, a substantial portion of high-quality raisins, including specific varieties like the "Afghani seedless black raisins," are also imported, reflecting their diverse global origins and varietal preferences.
+
+## Home Kitchen Use
+
+In traditional Indian home kitchens, raisins are cherished for their concentrated sweetness and chewy texture. They are a common inclusion in a myriad of sweet preparations, from rich kheer (rice pudding) and halwa to festive ladoos and barfis. Beyond desserts, raisins lend a subtle sweetness and textural contrast to savory dishes, notably in Mughlai and Kashmiri biryanis and pulaos, and occasionally in certain curries or stuffings. They are also a popular standalone snack, often consumed directly or as part of a dry fruit mix, especially during festivals or as an energy booster.
+
+## Industrial Applications
+
+Industrially, raisins are a versatile ingredient in the FMCG sector. They are widely incorporated into breakfast cereals, granola bars, trail mixes, and various baked goods such as fruit breads, muffins, and cookies. Their natural sweetness and fiber content make them a preferred choice for enhancing flavor and nutritional value in confectionery, including fruit and nut chocolates. The stability of dried fruit also makes them suitable for long shelf-life products, contributing to both texture and a natural sugar profile without added refined sugars.
+
+## Distinctions and Common Confusion
+
+Consumers often encounter confusion regarding the various forms of dried grapes. While "raisins" generally refer to any dried grape, specific terms like "sultanas" (typically golden, seedless, and often treated with a drying agent) and "currants" (small, dark, dried Zante grapes) denote different varieties or processing methods. In India, a common point of distinction is with munakka, which are typically larger, often seeded, and sometimes darker raisins, frequently used in Ayurvedic preparations for their perceived medicinal properties, contrasting with the smaller, often seedless kishmish commonly found in general culinary use.

@@ -1,0 +1,24 @@
+---
+title: "Spinach"
+slug: spinach
+category: "Fruits, Veg & Botanicals"
+category-slug: fruits-veg-botanicals
+keywords: ["Spinach", "Palak", "Leafy Green", "Palak Paneer", "Saag", "Dehydrated Spinach", "Spinach Powder"]
+description: "Spinach, known as Palak across much of India, is a leafy green vegetable with a rich history tracing its origins to ancient Persia, from where it spread to I..."
+---
+
+## History and Sourcing
+
+[Spinach](spinach.qmd), known as Palak across much of India, is a leafy green vegetable with a rich history tracing its origins to ancient Persia, from where it spread to India and China. Its name, Spinacia oleracea, is believed to derive from the Persian word "aspanakh." Introduced to India centuries ago, it quickly became a staple, valued for its nutritional density and versatility. Today, spinach is cultivated widely across India, thriving in cooler seasons, with significant production in states like Uttar Pradesh, West Bengal, and Maharashtra, making it readily available in local markets. It is celebrated for its high content of iron, vitamins A, C, and K, and various antioxidants.
+
+## Home Kitchen Use
+
+In Indian home kitchens, spinach is a culinary cornerstone, featuring prominently in a myriad of traditional dishes. Its mild, slightly earthy flavour and tender texture make it adaptable to various preparations. Classic recipes include the iconic Palak Paneer, where spinach puree is combined with cottage cheese, and Saag, a hearty medley of greens often served with makki di roti. It is also frequently incorporated into dals (lentil preparations) as Dal Palak, stir-fried as Palak ki Bhaji, or kneaded into dough for nutritious Palak Parathas and Pooris. Its common preparation involves blanching or sautéing to reduce its volume and enhance its flavour.
+
+## Industrial Applications
+
+Beyond traditional home cooking, spinach finds extensive application in the industrial food sector. Processed forms like spinach paste and puree are widely used in ready-to-cook gravies, frozen meals, and baby food products, offering convenience and consistent quality. [Spinach](spinach.qmd) powder, obtained through dehydration and grinding, serves as a natural green colourant, a nutritional fortifier in health supplements, and an ingredient in instant soups, noodles, and seasoning blends. Dehydrated spinach flakes are incorporated into instant noodle cups, snack mixes, and dehydrated vegetable blends, providing both visual appeal and nutritional value in FMCG products.
+
+## Distinctions and Common Confusion
+
+Consumers often encounter spinach in various forms, leading to occasional confusion regarding its applications. While fresh spinach is prized for its vibrant texture and flavour in home cooking, its processed counterparts—paste, puree, powder, and dehydrated flakes—are functional ingredients designed for specific industrial uses. [Spinach](spinach.qmd) paste and puree offer a smooth consistency for sauces and gravies, while spinach powder provides concentrated flavour and colour without added moisture. Dehydrated spinach is valued for its extended shelf life and ease of rehydration. These forms are distinct from other popular Indian leafy greens like methi (fenugreek) or sarson (mustard greens), each possessing unique flavour profiles and culinary roles.

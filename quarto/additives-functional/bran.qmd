@@ -1,0 +1,24 @@
+---
+title: "Bran"
+slug: bran
+category: "Additives & Functional"
+category-slug: additives-functional
+keywords: ["Fiber", "whole grains", "rice bran oil", "wheat bran", "dietary fiber", "oryzanol", "milling by-product"]
+description: "Bran, the hard outer layer of cereal grains like wheat, rice, and oats, represents a significant component often separated during the milling process"
+---
+
+## History and Sourcing
+
+[Bran](bran.qmd), the hard outer layer of cereal grains like wheat, rice, and oats, represents a significant component often separated during the milling process. Historically, this fibrous husk was frequently discarded or relegated to animal feed, particularly in traditional Indian milling practices where the focus was on refining grains for lighter, whiter flours. However, ancient Indian diets, rich in whole grains, inherently included bran, albeit not as a distinct ingredient. The term "bran" itself has Germanic roots, referring to the husks or outer coverings of grains. In modern India, the recognition of bran's nutritional value has led to its deliberate reincorporation. Major sources in India include wheat bran, a by-product of atta (whole wheat flour) production, and rice bran, derived from the extensive rice milling industry, particularly in states like Andhra Pradesh, Telangana, and West Bengal.
+
+## Home Kitchen Use
+
+In traditional Indian home kitchens, bran was primarily consumed as an integral part of whole grains, especially in *atta* used for *rotis* and *chapatis*. The coarse texture and earthy flavour of whole wheat flour are largely attributed to its bran content. In contemporary Indian households, separated bran is increasingly valued as a dietary supplement. It is commonly added to breakfast cereals, *dalia* (broken wheat porridge), smoothies, and even incorporated into doughs for *rotis*, breads, and *parathas* to boost fiber content. Rice bran oil, extracted from rice bran, has also found its way into home cooking as a versatile and healthy cooking medium, appreciated for its high smoke point and neutral flavour, making it suitable for various Indian frying and sautéing techniques.
+
+## Industrial Applications
+
+Industrially, bran plays a dual role. As a solid, it is a crucial functional ingredient in the FMCG sector, primarily for its dietary fiber content. It is extensively used to fortify a range of products, including "high-fiber" breads, biscuits, breakfast cereals, energy bars, and health drinks, catering to the growing consumer demand for healthier options. The oil extracted from bran, particularly rice bran oil, is a major player in the Indian edible oil market. Its unique composition, including gamma-oryzanol, tocopherols, and tocotrienols, makes it a preferred choice for industrial frying of *namkeen*, chips, and other snacks, offering stability and perceived health benefits. It is also incorporated into various processed foods as a cooking oil and a source of beneficial fatty acids.
+
+## Distinctions and Common Confusion
+
+A common point of confusion arises from the distinction between "bran" as the fibrous outer layer of a grain and "bran oil" (e.g., rice bran oil), which is the liquid fat extracted from it. While both originate from the same source, their functional properties and applications are vastly different. [Bran](bran.qmd), in its solid form, is primarily valued for its insoluble and soluble dietary fiber, contributing to gut health and satiety. Bran oil, on the other hand, is a cooking medium prized for its fatty acid profile, high smoke point, and antioxidant compounds like oryzanol. Consumers often mistakenly view bran as mere "chaff" or an undesirable by-product, overlooking its rich nutritional profile, or conflate its benefits directly with the oil, which has a different set of advantages.

@@ -1,0 +1,24 @@
+---
+title: "Jam"
+slug: jam
+category: "Fruits, Veg & Botanicals"
+category-slug: fruits-veg-botanicals
+keywords: ["Fruit preserve", "Pectin", "Sugar", "Spread", "Breakfast staple", "Murabba", "Processed fruit"]
+description: "Jam, a beloved fruit preserve, traces its origins to ancient methods of fruit preservation, where fruits were cooked with honey or sugar to extend their shel..."
+---
+
+## History and Sourcing
+
+[Jam](jam.qmd), a beloved fruit preserve, traces its origins to ancient methods of fruit preservation, where fruits were cooked with honey or sugar to extend their shelf life. While the concept of fruit preservation is global, the modern "jam" as a sweet, spreadable condiment gained prominence in Europe. Its introduction to India largely occurred during the British colonial era, quickly integrating into urban culinary practices. The term "jam" itself is English, derived from the verb "to jam," referring to the pressing and squeezing of fruit. In India, while specific "jam-making" regions don't exist, the availability of diverse fruits across states—from strawberries in Mahabaleshwar to mangoes in Uttar Pradesh and Andhra Pradesh—fuels both home-based and industrial production.
+
+## Home Kitchen Use
+
+In Indian home kitchens, jam is a versatile and convenient staple. It is most commonly spread on toast, bread, or chapati for breakfast or as a quick snack. Beyond simple spreads, it finds its way into children's lunchboxes as sandwich fillings and is occasionally used in homemade desserts like tarts, cakes, or as a topping for kheer or ice cream. Home-made jams, often prepared seasonally with local fruits like mango, plum, or mixed berries, tend to have a coarser texture and a more intense fruit flavour, reflecting traditional culinary practices of preserving seasonal bounty.
+
+## Industrial Applications
+
+Industrially, jam is a significant product within the Fast-Moving Consumer Goods (FMCG) sector. Mass-produced jams leverage pectin, a natural gelling agent found in fruits, along with sugar, which acts as both a sweetener and a preservative. This allows for consistent texture and extended shelf life. Modern applications extend beyond direct consumption; jam serves as a key ingredient in the bakery and confectionery industry for fillings in biscuits, pastries, donuts, and rolls. Its standardized flavour profiles and functional properties make it indispensable for large-scale food production and catering services.
+
+## Distinctions and Common Confusion
+
+Consumers often encounter confusion between "jam" and other fruit-based preparations. [Jam](jam.qmd) is characterized by its use of crushed or chopped fruit pulp, resulting in a spread with a soft, gel-like consistency. This distinguishes it from "jelly," which is made solely from fruit juice, yielding a clear, firm gel without any fruit solids. "Marmalade," typically citrus-based, includes fruit peel, offering a distinct bitter-sweet flavour and texture. More importantly in the Indian context, jam is distinct from "murabba," a traditional Indian preserve where whole or large pieces of fruit (like amla, apple, or bel) are cooked in a thick sugar syrup, often infused with spices, and consumed for its perceived health benefits or as a condiment rather than a simple spread.

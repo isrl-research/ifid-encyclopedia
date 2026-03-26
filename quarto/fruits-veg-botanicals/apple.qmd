@@ -1,0 +1,24 @@
+---
+title: "Apple"
+slug: apple
+category: "Fruits, Veg & Botanicals"
+category-slug: fruits-veg-botanicals
+keywords: ["Apple", "Fruit", "Juice", "Concentrate", "Himachal Pradesh", "Malus domestica", "Pectin"]
+description: "The apple (Malus domestica), a globally cherished pome fruit, traces its genetic origins to Central Asia, specifically the wild Malus sieversii found in the ..."
+---
+
+## History and Sourcing
+
+The apple (Malus domestica), a globally cherished pome fruit, traces its genetic origins to Central Asia, specifically the wild Malus sieversii found in the mountains of Kazakhstan. Its journey to India is ancient, likely facilitated by trade routes, with significant cultivation establishing itself in the cooler, temperate regions of the Himalayas. In India, apples are predominantly grown in states like Himachal Pradesh, Jammu & Kashmir, and Uttarakhand, where the climate is conducive to their growth. While the English term "apple" is widely understood, the fruit is commonly known as "seb" in Hindi, a term derived from Persian, reflecting historical cultural exchanges.
+
+## Home Kitchen Use
+
+In Indian home kitchens, the apple is primarily consumed fresh as a snack or incorporated into fruit salads. While not a staple in traditional savoury Indian curries or gravies, it finds its place in sweet preparations. Apples are often used to make jams, preserves, and chutneys, offering a tart-sweet counterpoint to meals. Modern culinary trends have also seen apples feature in baked goods like crumbles, pies, and cakes, and blended into refreshing smoothies and juices, reflecting a globalized palate.
+
+## Industrial Applications
+
+Industrially, apples are a versatile ingredient, particularly in the Fast-Moving Consumer Goods (FMCG) sector. The whole fruit is sold fresh, but a significant portion is processed into various forms. [Apple](apple.qmd) juice is a popular beverage, often pasteurized and packaged for convenience. For efficiency in transport and storage, apple juice is frequently processed into apple juice concentrate. This concentrate, with much of its water removed, is then reconstituted with water to produce "apple juice reconstituted from apple juice concentrate" for retail, or used as a base for other products like fruit fillings, ciders, and vinegars. Its natural pectin content also makes it valuable in jellies and as a thickener.
+
+## Distinctions and Common Confusion
+
+A common point of confusion for consumers lies in distinguishing between the various forms of apple products. The whole apple offers dietary fiber and a full spectrum of nutrients. Freshly pressed apple juice retains more volatile compounds and is consumed immediately. However, most commercially available "apple juice" is either pasteurized juice or, more commonly, "apple juice reconstituted from concentrate." While both are legally labelled as juice, the concentrate undergoes a process of water removal and subsequent rehydration, which can sometimes lead to a subtle difference in flavour profile and nutrient retention compared to direct pressing. It's important to note that "100% juice from concentrate" still means no added sugars, but it's not the same as a freshly squeezed product.

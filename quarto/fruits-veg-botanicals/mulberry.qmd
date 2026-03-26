@@ -1,0 +1,24 @@
+---
+title: "Mulberry"
+slug: mulberry
+category: "Fruits, Veg & Botanicals"
+category-slug: fruits-veg-botanicals
+keywords: ["Mulberry", "Shahtoot", "Sericulture", "Indian fruit", "Antioxidants", "Traditional preserves", "Ayurveda"]
+description: "The Mulberry, known as *Shahtoot* in Hindi and Urdu, and *Tuta* in Sanskrit and Marathi, is a fruit with a rich history deeply intertwined with Indian cultur..."
+---
+
+## History and Sourcing
+
+The [Mulberry](mulberry.qmd), known as *Shahtoot* in Hindi and Urdu, and *Tuta* in Sanskrit and Marathi, is a fruit with a rich history deeply intertwined with Indian culture, particularly sericulture. Native to temperate and subtropical regions of Asia, including the Indian subcontinent, mulberries have been cultivated for millennia, primarily for their leaves, which are the sole food source for silkworms. While its origins are ancient, its widespread presence in India is largely due to the historical promotion of silk farming. Major growing regions for mulberry in India include Karnataka, Andhra Pradesh, Tamil Nadu, West Bengal, and Jammu & Kashmir, reflecting the distribution of the silk industry. The fruit itself, however, has a distinct identity, often found growing wild or in orchards alongside the trees cultivated for silk.
+
+## Home Kitchen Use
+
+In Indian home kitchens, mulberries are cherished for their sweet-tart flavour when ripe. They are commonly consumed fresh, either directly from the tree or as a refreshing snack. Beyond fresh consumption, mulberries are traditionally transformed into a variety of preserves and beverages. They are used to make jams, jellies, and sherbets, offering a unique flavour profile to homemade desserts. In traditional Indian medicine systems like Ayurveda, various parts of the mulberry tree, including the fruit, leaves, and bark, have been utilized for their purported therapeutic properties, such as aiding digestion, purifying blood, and soothing sore throats.
+
+## Industrial Applications
+
+While not as ubiquitous as some other berries in large-scale FMCG products, mulberries find their niche in modern industrial applications, particularly in health-conscious and artisanal segments. Dried mulberries are increasingly popular as a standalone snack, a topping for cereals and yogurts, or an ingredient in granola bars and trail mixes, valued for their natural sweetness and nutritional density. Their rich antioxidant content, along with vitamins C and K, iron, and dietary fibre, makes them a desirable inclusion in functional foods and beverages, including some fruit-based health drinks and gourmet preserves.
+
+## Distinctions and Common Confusion
+
+Consumers often encounter mulberries as a seasonal delight, but their identity can sometimes be confused with other dark-hued berries or small fruits common in India. Unlike the more uniformly shaped [Jamun](jamun.qmd) (Java Plum) or certain varieties of Indian plums, mulberries are characterized by their distinctive aggregate fruit structure, resembling a cluster of tiny drupelets. Their flavour profile is also unique, offering a balance of sweetness and tartness that sets them apart. It is important to distinguish the fruit from the primary association of the mulberry tree with sericulture, as the fruit itself holds significant culinary and nutritional value independent of its role in silk production.

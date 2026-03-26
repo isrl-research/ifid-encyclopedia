@@ -1,0 +1,24 @@
+---
+title: "Chives"
+slug: chives
+category: "Spices & Seasonings"
+category-slug: spices-seasonings
+keywords: ["Chives", "Allium schoenoprasum", "Herb", "Garnish", "Mild onion flavour", "Spring onion", "Garlic chives"]
+description: "Chives (Allium schoenoprasum) are a delicate, perennial herb from the Allium family, native to Europe, Asia, and North America"
+---
+
+## History and Sourcing
+
+[Chives](chives.qmd) (Allium schoenoprasum) are a delicate, perennial herb from the Allium family, native to Europe, Asia, and North America. While not traditionally indigenous to mainstream Indian cuisine, their cultivation has increased in cooler regions of India for gourmet produce, catering to a growing demand for global cuisines. The name 'chive' originates from Old French 'cive,' linked to Latin 'cepa' (onion), reflecting its botanical ties.
+
+## Home Kitchen Use
+
+In home kitchens, chives are prized for their mild, fresh, onion-like flavour and vibrant green colour, primarily used as a garnish. They offer a subtle aromatic note, commonly snipped fresh over salads, omelettes, soups, and baked potatoes. Though not a traditional Indian herb, their delicate profile makes them suitable for modern Indian fusion dishes, providing a fresh counterpoint or sophisticated garnish.
+
+## Industrial Applications
+
+Industrially, chives are less common as a primary flavouring in large-scale Indian FMCG. However, dried or freeze-dried forms are found in seasoning blends for continental snacks, instant soups, salad dressings, and gourmet meal kits. Their delicate flavour is best preserved fresh, limiting extensive use in processed foods where heat can diminish their notes. Fresh chives are a standard in modern culinary establishments for garnishing and flavouring.
+
+## Distinctions and Common Confusion
+
+[Chives](chives.qmd) are often confused with the green tops of spring onions (scallions) due to visual similarity. However, chives are much thinner, have hollow, grass-like leaves, and a significantly milder, more refined onion flavour. They are also distinct from garlic chives (Allium tuberosum), which have flat leaves and a pronounced garlicky taste, highlighting the unique delicate flavour chives offer.

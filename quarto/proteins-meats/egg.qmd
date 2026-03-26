@@ -1,0 +1,24 @@
+---
+title: "Egg"
+slug: egg
+category: "Proteins & Meats"
+category-slug: proteins-meats
+keywords: ["Egg", "Anda", "Poultry", "Protein", "Emulsifier", "Egg White Powder", "Indian Cuisine"]
+description: "The egg, known as *anda* in Hindi, *mutta* in Tamil, and *dim* in Bengali, holds a significant, albeit historically nuanced, place in Indian culinary traditions"
+---
+
+## History and Sourcing
+
+The egg, known as *anda* in Hindi, *mutta* in Tamil, and *dim* in Bengali, holds a significant, albeit historically nuanced, place in Indian culinary traditions. Originating from the domestication of fowl, primarily chickens, in Southeast Asia, eggs have been consumed in India for millennia. While certain traditional vegetarian communities historically abstained, eggs have become an integral part of diverse regional cuisines, particularly in the North-East, Bengal, Kerala, and among various non-vegetarian populations across the subcontinent. India is currently one of the world's largest producers of eggs, with major poultry farming hubs in states like Andhra Pradesh, Telangana, and Tamil Nadu.
+
+## Home Kitchen Use
+
+In Indian home kitchens, eggs are celebrated for their versatility and nutritional value. They are a staple breakfast item, prepared as fluffy omelettes (*anda omelette*), spicy scrambled eggs (*anda bhurji*), or simply boiled. Eggs are also central to numerous curries (*anda curry*), often simmered in rich, aromatic gravies, and are used in various snacks like egg pakoras or as fillings for rolls and sandwiches. Beyond their direct consumption, eggs serve as crucial binding agents, leavening agents, and emulsifiers in a range of baked goods and sweets, though their use in traditional Indian desserts is less prevalent due to vegetarian dietary preferences.
+
+## Industrial Applications
+
+Industrially, eggs and their derivatives are indispensable in the FMCG sector. Whole eggs are incorporated into a wide array of processed foods, including pasta, noodles, mayonnaise, salad dressings, and various baked goods, contributing to texture, flavour, and nutritional enrichment. [Egg](egg.qmd) whites, valued for their high protein content and excellent foaming and emulsifying properties, are used in confectionery, protein supplements, and as clarifiers in beverages. Egg white powder, a dehydrated and concentrated form, offers superior shelf stability and ease of handling, making it a preferred ingredient in protein bars, meringues, nougat, and as a binder in processed meat products or vegetarian analogues, where it provides structure and aeration without the bulk or perishability of liquid egg whites.
+
+## Distinctions and Common Confusion
+
+Consumers often encounter different forms of egg products, leading to some confusion. The term "egg" typically refers to the whole, fresh product, comprising both yolk and white. "[Egg](egg.qmd) white" is the albumen, primarily protein, used for its functional properties. "Egg white powder," however, is a highly processed, dehydrated form of egg white. While fresh egg whites are liquid and perishable, the powder offers a concentrated, shelf-stable source of protein with enhanced functional characteristics like superior whipping and binding capabilities, making it distinctively valuable for industrial applications requiring precise formulation and extended shelf life.

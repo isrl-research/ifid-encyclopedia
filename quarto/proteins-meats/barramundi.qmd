@@ -1,0 +1,24 @@
+---
+title: "Barramundi"
+slug: barramundi
+category: "Proteins & Meats"
+category-slug: proteins-meats
+keywords: ["Barramundi", "Bhetki", "Koduva", "Fish", "Aquaculture", "Indian cuisine", "White fish"]
+description: "Barramundi (scientific name: *Lates calcarifer*) is a highly esteemed fish native to the Indo-Pacific region, encompassing waters from Southeast Asia to Nort..."
+---
+
+## History and Sourcing
+
+[Barramundi](barramundi.qmd) (scientific name: *Lates calcarifer*) is a highly esteemed fish native to the Indo-Pacific region, encompassing waters from Southeast Asia to Northern Australia. The name "Barramundi" itself is derived from an Aboriginal language, meaning "large-scaled river fish." In India, this prized species is widely recognized by its regional names, most notably "Bhetki" in West Bengal and Bangladesh, and "Koduva" or "Kalaan" in parts of South India. Historically, it has been a significant part of coastal and estuarine fisheries. Today, due to its rapid growth and market demand, Barramundi aquaculture is a burgeoning industry in India, with significant farming operations in states like West Bengal, Andhra Pradesh, and Kerala, ensuring a consistent supply for both domestic consumption and export.
+
+## Home Kitchen Use
+
+In Indian home kitchens, [Barramundi](barramundi.qmd) is celebrated for its firm, white, flaky flesh and delicate, mild flavour, making it exceptionally versatile. In Bengali cuisine, Bhetki holds a revered status, featuring prominently in traditional delicacies such as *Bhetki Paturi*, where the fish is steamed in banana leaves with a pungent mustard paste, or in crispy *Bhetki Fry* and rich *Bhetki Kalia*. Across South India, it is a popular choice for various curries, pan-fried preparations, and grilled dishes, where its ability to absorb spices without being overpowered is highly valued. Its low oil content also makes it a preferred option for healthier cooking methods.
+
+## Industrial Applications
+
+Beyond traditional home cooking, [Barramundi](barramundi.qmd) finds extensive use in modern industrial and food service applications. Its consistent texture and mild flavour profile make it a favourite in restaurants for a range of preparations, from simple grilled fillets to more elaborate pan-seared or baked dishes. The organized retail sector increasingly offers ready-to-cook Barramundi products, including pre-marinated fillets and fish fingers, catering to the convenience-driven consumer. The growth of sustainable Barramundi aquaculture is crucial for meeting the escalating demand in both domestic and international markets, supporting a steady supply chain for various food industries.
+
+## Distinctions and Common Confusion
+
+A common point of confusion for consumers in India lies in the nomenclature of this fish. While "[Barramundi](barramundi.qmd)" is its internationally recognized name, it is far more commonly known as "Bhetki" in Eastern India and "Koduva" in the southern states. This regional disparity often leads to consumers not immediately recognizing "Barramundi" as the same fish they are familiar with under a local name. Furthermore, it can sometimes be conflated with other white-fleshed fish like Tilapia or Rohu, though Barramundi/Bhetki typically boasts a firmer texture and a more refined, albeit subtle, flavour, positioning it as a premium choice compared to many other freshwater varieties.

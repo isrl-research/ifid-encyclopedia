@@ -1,0 +1,24 @@
+---
+title: "Walnut"
+slug: walnut
+category: "Fruits, Veg & Botanicals"
+category-slug: fruits-veg-botanicals
+keywords: ["Walnut", "Akhrot", "Juglans regia", "Omega-3", "Nuts", "Dry fruits", "Himalayan cuisine", "Brain food"]
+description: "The walnut, known in India as *akhrot*, is the edible seed of trees in the genus *Juglans*, primarily *Juglans regia*, the common or Persian walnut"
+---
+
+## History and Sourcing
+
+The walnut, known in India as *akhrot*, is the edible seed of trees in the genus *Juglans*, primarily *Juglans regia*, the common or Persian walnut. Its origins trace back to ancient Persia, from where it spread globally via trade routes, reaching India centuries ago. The term "akhrot" itself is derived from Persian, reflecting its historical introduction. In India, walnuts are predominantly cultivated in the cooler, temperate regions of the Himalayas, with Jammu & Kashmir, Himachal Pradesh, and Uttarakhand being major producing states. They hold significant cultural and economic importance in these regions, often featuring in local folklore and traditional medicine.
+
+## Home Kitchen Use
+
+In Indian home kitchens, walnuts are cherished for their distinctive earthy, slightly bitter flavour and satisfying crunch. They are a popular snack, often consumed raw or lightly toasted. Walnuts find their way into a variety of traditional sweets like *halwa* and *barfi*, and are a common addition to *kheer* (rice pudding) and other desserts, especially during festivals. In Himalayan cuisine, they are incorporated into chutneys, sauces, and even some savoury dishes, providing a rich texture and nutritional boost. Their unique brain-like appearance has also led to their association with cognitive health in traditional Indian beliefs.
+
+## Industrial Applications
+
+Industrially, walnuts are a highly valued ingredient in the FMCG sector due to their nutritional profile, particularly their high omega-3 fatty acid content. They are widely used in breakfast cereals, granola bars, energy bars, and a range of baked goods such as cakes, cookies, and breads. The kernels are also processed into walnut oil, a gourmet oil prized for its delicate flavour in salad dressings and finishing dishes. Beyond food, walnuts are increasingly incorporated into health supplements and nutraceuticals, leveraging their perceived benefits for heart and brain health.
+
+## Distinctions and Common Confusion
+
+Consumers often encounter walnuts in two primary forms: "walnut inshell" and "walnut kernels" or *akhrot giri*. The inshell variety refers to the whole nut encased in its hard shell, requiring manual cracking to access the edible kernel. [Walnut](walnut.qmd) kernels, on the other hand, are the shelled, ready-to-eat portions. While both are the same botanical ingredient, the kernels offer convenience for direct consumption and culinary applications. Walnuts are distinct from other common Indian nuts like almonds or cashews due to their unique flavour profile, higher omega-3 content, and characteristic convoluted shape, which sets them apart in both appearance and nutritional composition.

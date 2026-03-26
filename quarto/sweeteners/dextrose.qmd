@@ -1,0 +1,24 @@
+---
+title: "Dextrose"
+slug: dextrose
+category: "Sweeteners"
+category-slug: sweeteners
+keywords: ["Dextrose", "Glucose", "Monosaccharide", "Sweetener", "Starch Hydrolysis", "Energy Source", "FMCG"]
+description: "Dextrose, chemically known as D-glucose, is a simple monosaccharide sugar discovered by August Wilhelm Kirchhoff in 1811"
+---
+
+## History and Sourcing
+
+[Dextrose](dextrose.qmd), chemically known as D-glucose, is a simple monosaccharide sugar discovered by August Wilhelm Kirchhoff in 1811. In India, it is primarily produced through the enzymatic hydrolysis of starch, predominantly corn starch, a process that breaks down complex carbohydrates into this simpler sugar. While not native to India in its isolated form, the widespread cultivation of maize supports its significant industrial production. The term 'glucose' originates from the Greek word 'glykys,' meaning sweet, highlighting its fundamental nature.
+
+## Home Kitchen Use
+
+In traditional Indian home kitchens, dextrose is not a primary sweetener like jaggery or sucrose. However, its rapid fermentability makes it valuable in specific applications, such as in baking for yeast activation or in certain fermented beverages. It is also occasionally used in homemade energy drinks or rehydration solutions due to its quick absorption and ability to provide immediate energy, particularly for children or during illness.
+
+## Industrial Applications
+
+Industrially, dextrose is a ubiquitous ingredient in the Indian food processing sector. As a glucose powder, it serves as a bulk sweetener in confectionery, baked goods, and desserts. It is a key component in sports drinks and energy bars, providing rapid energy. Beyond sweetness, dextrose acts as a humectant, helping to retain moisture in products like cakes and biscuits, and contributes to desirable browning reactions (Maillard reaction) in baked goods. Its role in fermentation processes is also critical for industries producing bread, beer, and other fermented foods.
+
+## Distinctions and Common Confusion
+
+A common point of confusion arises from the interchangeable use of 'dextrose' and 'glucose.' While dextrose *is* D-glucose, the term 'dextrose' specifically refers to the crystalline monosaccharide form. It is distinct from 'liquid glucose' (often simply called glucose syrup in India), which is a viscous solution containing glucose, maltose, and other saccharides, used for its anti-crystallization and body-building properties rather than just sweetness. Furthermore, dextrose is a monosaccharide, differentiating it from sucrose (table sugar), which is a disaccharide, and it possesses a lower relative sweetness compared to sucrose.

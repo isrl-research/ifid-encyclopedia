@@ -1,0 +1,24 @@
+---
+title: "Milk"
+slug: milk
+category: "Dairy & Alternatives"
+category-slug: dairy-alternatives
+keywords: ["Doodh", "Ksheer", "Dairy", "Cow Milk", "Buffalo Milk", "Pasteurised", "Skimmed", "A2 Milk", "Ghee", "Dahi"]
+description: "Milk, known as *doodh* in Hindi and *ksheer* in Sanskrit, holds a profound and ancient place in India's cultural and culinary landscape"
+---
+
+## History and Sourcing
+
+Milk, known as *doodh* in Hindi and *ksheer* in Sanskrit, holds a profound and ancient place in India's cultural and culinary landscape. Its origins in the subcontinent trace back to the earliest agricultural civilizations, with dairying deeply embedded in Vedic traditions, where the cow is revered as sacred. This reverence has shaped dietary practices and agricultural systems for millennia. India is the world's largest producer of milk, a feat largely attributed to the "White Revolution" initiated in the mid-20th century, which transformed dairy farming into a robust industry. While indigenous cow breeds have historically been central, buffalo milk also plays a significant role, particularly in regions like Punjab and Uttar Pradesh, contributing to a substantial portion of the national milk supply. Major sourcing regions span across the country, with states like Uttar Pradesh, Rajasthan, Madhya Pradesh, and Gujarat being prominent dairy hubs.
+
+## Home Kitchen Use
+
+In the Indian home kitchen, milk is a fundamental ingredient, consumed directly as a nourishing beverage and forming the base for an astonishing array of traditional preparations. It is essential for daily tea and coffee, and its transformation into *dahi* (curd) and *chaas* (buttermilk) is a cornerstone of Indian meals, aiding digestion and providing probiotics. Milk is also crucial for crafting beloved sweets like *khoa*, *paneer*, *rabri*, and *kheer*, where its richness and versatility are showcased. The clarification of milk fat yields *ghee*, an indispensable cooking medium and flavour enhancer, deeply intertwined with religious rituals and Ayurvedic practices.
+
+## Industrial Applications
+
+Modern industrial applications of milk are vast, driven by consumer demand for convenience and diverse dairy products. Pasteurised and UHT (Ultra-High Temperature) treated milk, often packaged by brands like Amul, dominate the retail market, offering extended shelf life and safety. Skimmed milk, a fat-reduced variant, is widely used in health-conscious products, milk powders, and as a protein source in supplements. Concentrated forms, such as evaporated and condensed milk, are staples in confectionery, desserts, and beverages. Reconstituted skim milk, derived from milk powder, ensures milk availability in regions with supply chain challenges. The emergence of A2 cow milk, marketed for a specific protein variant, caters to a niche segment of consumers seeking perceived digestive benefits.
+
+## Distinctions and Common Confusion
+
+Consumers often encounter various forms of milk, leading to some confusion. The primary distinction lies between whole milk, with its full fat content, and skimmed milk or partly skimmed milk, which have reduced or minimal fat, respectively, impacting texture and richness. Raw milk, directly from the animal, differs significantly from pasteurised milk, which has undergone heat treatment to eliminate pathogens, enhancing safety and shelf life. While buffalo milk is generally richer and higher in fat than cow milk, making it ideal for *paneer* and *khoa*, cow milk is often preferred for direct consumption and *dahi*. A2 cow milk is distinguished by the presence of only the A2 beta-casein protein, contrasting with conventional milk which contains both A1 and A2 proteins, a distinction that has gained traction in health and wellness discussions.

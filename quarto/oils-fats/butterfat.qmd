@@ -1,0 +1,24 @@
+---
+title: "Butterfat"
+slug: butterfat
+category: "Oils & Fats"
+category-slug: oils-fats
+keywords: ["Ghee", "Milk Fat", "Dairy", "Clarified Butter", "Indian Cuisine", "Lipid", "Cow Fat", "Buffalo Fat"]
+description: "Butterfat, the lipid component of milk, holds a venerable position in Indian culinary and cultural heritage, deeply intertwined with the nation's ancient dai..."
+---
+
+## History and Sourcing
+
+[Butterfat](butterfat.qmd), the lipid component of milk, holds a venerable position in Indian culinary and cultural heritage, deeply intertwined with the nation's ancient dairy traditions. Its origins are as old as dairy farming itself, with references to clarified butter (ghee), which is essentially anhydrous butterfat, appearing in Vedic texts as a sacred and essential substance. Sourced primarily from the milk of cows and buffaloes, butterfat is a ubiquitous ingredient across India, reflecting the widespread practice of animal husbandry. The distinct characteristics of butterfat, such as its rich flavour and unique texture, are influenced by the animal source, with cow fat typically yielding a yellower hue due to beta-carotene, while buffalo fat is whiter and often higher in fat content.
+
+## Home Kitchen Use
+
+In traditional Indian home kitchens, butterfat is consumed in various forms. As a constituent of fresh milk, cream, and butter, it contributes richness to daily diets. Its most celebrated form, however, is ghee (clarified milk fat), which is indispensable for tempering (tadka) dals and curries, frying puris and parathas, and enriching a myriad of sweets like halwa and ladoos. Its high smoke point makes it ideal for deep-frying, while its distinctive aroma and flavour are prized in festive and everyday cooking, embodying a sense of nourishment and auspiciousness.
+
+## Industrial Applications
+
+Industrially, butterfat is a crucial ingredient in the FMCG sector, valued for its functional properties and flavour profile. It is extensively used in the production of ice creams, chocolates, bakery shortenings, and various dairy-based desserts, where it imparts a desirable creamy texture, mouthfeel, and characteristic dairy flavour. Beyond its direct application, butterfat can also be processed into flavouring agents, such as "butterfat from milk flavouring," which are utilized to imbue processed foods with an authentic dairy taste without necessarily adding the full fat component. Its emulsifying properties also make it valuable in complex food formulations.
+
+## Distinctions and Common Confusion
+
+Consumers often encounter butterfat in different forms, leading to some confusion. It is important to distinguish butterfat, the pure fat component, from whole milk or butter, which are complex emulsions containing water, proteins, and other solids. Furthermore, "clarified milk fat" or ghee is essentially butterfat that has been rendered anhydrous, removing water and milk solids, thus extending its shelf life and altering its cooking properties. While butterfat is the core lipid, its source (cow fat vs. buffalo fat) also dictates subtle differences in flavour, colour, and fatty acid composition, impacting its application and sensory experience.

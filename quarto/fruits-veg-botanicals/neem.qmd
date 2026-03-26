@@ -1,0 +1,24 @@
+---
+title: "Neem"
+slug: neem
+category: "Fruits, Veg & Botanicals"
+category-slug: fruits-veg-botanicals
+keywords: ["Neem", "Azadirachta indica", "Ayurveda", "medicinal plant", "traditional Indian medicine", "natural pesticide", "bitter herb", "botanical"]
+description: "Neem, botanically known as Azadirachta indica, is a revered tree deeply embedded in India's cultural and medicinal heritage"
+---
+
+## History and Sourcing
+
+[Neem](neem.qmd), botanically known as Azadirachta indica, is a revered tree deeply embedded in India's cultural and medicinal heritage. Originating from the Indian subcontinent, its Sanskrit name "Arishta" translates to "remover of sickness," underscoring its ancient recognition as a potent therapeutic agent. The tree is ubiquitous across India, thriving in arid and semi-arid regions, and is often referred to as the "village pharmacy" due to its widespread traditional use. Its historical significance is documented extensively in Ayurvedic, Unani, and Siddha texts, which detail the medicinal properties of its various parts, from leaves and bark to seeds and flowers.
+
+## Home Kitchen Use
+
+While its intense bitterness limits direct culinary applications, [Neem](neem.qmd) leaves are occasionally incorporated into specific regional dishes, particularly in Bengali cuisine, where they are lightly fried with brinjal (Neem Begun) or added to bitter vegetable stews like Shukto, believed to aid digestion and cleanse the palate. Beyond direct consumption, Neem leaves have been traditionally used for dental hygiene, chewed as a "datun" (natural toothbrush), and ground into a paste for topical application on skin ailments. Its smoke is also traditionally used as an insect repellent, highlighting its versatile role in traditional Indian households.
+
+## Industrial Applications
+
+In modern industry, [Neem](neem.qmd) has found extensive applications across various sectors. Its extracts are widely used in pharmaceuticals for their anti-inflammatory, anti-diabetic, and anti-malarial properties, leading to its inclusion in numerous herbal formulations. The cosmetic industry leverages Neem's antibacterial and antifungal qualities in soaps, shampoos, face washes, and skincare products targeting acne, eczema, and other dermatological conditions. Furthermore, Neem oil, extracted from its seeds, is a highly valued natural pesticide and insecticide in organic farming, while Neem cake, a byproduct, serves as an excellent bio-fertilizer, showcasing its ecological and agricultural utility.
+
+## Distinctions and Common Confusion
+
+A common point of confusion arises from the broad term "[Neem](neem.qmd)," which refers to the entire tree, leading to a lack of distinction between its various parts and their specific uses. While the leaves (Azadirachta indica leaf) are primarily known for their antiseptic and skin-benefiting properties, the bark is valued for its anti-ulcerative effects, and the oil from the seeds is a potent biopesticide. It is crucial to understand that "Neem" encompasses a spectrum of bioactive compounds distributed throughout the plant, each contributing to its diverse applications, rather than being a singular ingredient with a uniform function.

@@ -1,0 +1,24 @@
+---
+title: "Sodium Alginate (INS 401)"
+slug: sodium-alginate-ins-401
+category: "Additives & Functional"
+category-slug: additives-functional
+keywords: ["Sodium Alginate", "INS 401", "Stabilizer", "Thickener", "Gelling Agent", "Seaweed", "Hydrocolloid"]
+description: "Sodium Alginate (INS 401) is a natural polysaccharide extracted from the cell walls of brown algae (Phaeophyceae), with its industrial recognition dating bac..."
+---
+
+## History and Sourcing
+
+[Sodium Alginate (INS 401)](sodium-alginate-ins-401.qmd) is a natural polysaccharide extracted from the cell walls of brown algae (Phaeophyceae), with its industrial recognition dating back to the early 20th century. While seaweed is present along India's coast, commercial-scale alginate production for food applications in India primarily relies on imported raw materials, positioning it as a modern functional ingredient rather than a traditional one.
+
+## Home Kitchen Use
+
+Sodium Alginate is not a traditional ingredient in Indian home cooking. Its functional properties as a stabilizer, thickener, and gelling agent are typically not utilized in conventional household culinary practices, which rely on natural thickeners like flours, starches, or reductions for texture modification.
+
+## Industrial Applications
+
+In the Indian FMCG sector, [Sodium Alginate (INS 401)](sodium-alginate-ins-401.qmd) is a crucial additive, primarily functioning as a stabilizer, thickener, and gelling agent. It is widely used in dairy products (e.g., ice creams, yogurts) to prevent ice crystal formation and improve texture, in fruit preparations and jams for gelling, and in sauces and dressings for viscosity and emulsion stability. Its ability to form heat-stable gels, especially with calcium, makes it valuable in bakery fillings, confectionery, and encapsulated food products.
+
+## Distinctions and Common Confusion
+
+Sodium Alginate's function is often conflated with other thickeners. Unlike starches, which thicken via gelatinization, Sodium Alginate uniquely forms strong, irreversible gels in the presence of calcium ions, even at cold temperatures. This distinct cold-gelling property differentiates it from other common hydrocolloids like Guar Gum or Xanthan Gum, which primarily act as thickeners and stabilizers without forming firm gels in the same manner. It is a functional ingredient derived from marine sources, not a food item itself.

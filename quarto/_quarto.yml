@@ -1,0 +1,39 @@
+project:
+  type: website
+  output-dir: _site
+
+website:
+  title: "Encyclopedia of Indian Food Ingredients"
+  description: "A standardized taxonomy of 623 food components in the Indian ecosystem."
+  repo-url: https://github.com/isrl-research/ifid-encyclopedia
+  navbar:
+    left:
+      - text: "Home"
+        href: index.qmd
+      - text: "Additives"
+        href: additives-functional/index.qmd
+      - text: "Dairy"
+        href: dairy-alternatives/index.qmd
+      - text: "Botanicals"
+        href: fruits-veg-botanicals/index.qmd
+      - text: "Oils & Fats"
+        href: oils-fats/index.qmd
+      - text: "Proteins"
+        href: proteins-meats/index.qmd
+      - text: "Spices"
+        href: spices-seasonings/index.qmd
+      - text: "Staples"
+        href: staples/index.qmd
+      - text: "Sweeteners"
+        href: sweeteners/index.qmd
+  search: true
+  page-footer:
+    left: "© 2026 Lalitha A R, iSRL · ODC-By License"
+    right: "DOI: 10.5281/zenodo.18650862"
+
+format:
+  html:
+    theme: [flatly, custom.scss]
+    toc: true
+    toc-depth: 2
+    smooth-scroll: true

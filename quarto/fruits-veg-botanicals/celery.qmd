@@ -1,0 +1,24 @@
+---
+title: "Celery"
+slug: celery
+category: "Fruits, Veg & Botanicals"
+category-slug: fruits-veg-botanicals
+keywords: ["Celery", "Apium graveolens", "Western cuisine", "aromatic vegetable", "ajwain", "salads", "soups", "flavoring"]
+description: "Celery, scientifically known as Apium graveolens, is a marshland plant in the family Apiaceae, native to the Mediterranean region"
+---
+
+## History and Sourcing
+
+[Celery](celery.qmd), scientifically known as Apium graveolens, is a marshland plant in the family Apiaceae, native to the Mediterranean region. While its wild ancestors have been known since antiquity for medicinal properties, the cultivated form with its characteristic crisp stalks is a relatively modern development, gaining prominence in European cuisine from the 17th century onwards. Its introduction to India is more recent, largely influenced by Western culinary traditions, and it is not considered an indigenous Indian vegetable. In India, it is primarily cultivated in cooler regions or for niche markets, often found in urban centers catering to diverse culinary demands. The English name "celery" derives from the French "céleri," tracing its roots back to Greek "selinon."
+
+## Home Kitchen Use
+
+In Indian home kitchens, fresh celery stalks and leaves are primarily utilized in dishes influenced by global cuisines. The crunchy stalks are a popular addition to salads, stir-fries, and clear soups, lending a refreshing, slightly bitter, and aromatic note. It is also a common ingredient in fresh juices and smoothies, valued for its hydrating and fibrous properties. While not a traditional Indian spice, celery seeds are occasionally used in certain regional pickles or spice blends, offering a pungent, warm aroma that can be reminiscent of other Indian spices.
+
+## Industrial Applications
+
+Industrially, celery finds extensive application as a flavoring agent in the FMCG sector. Dehydrated celery flakes and powders are incorporated into instant soup mixes, seasoning blends for snacks, and processed foods to impart a natural, savory depth. [Celery](celery.qmd) seed oil and oleoresins are extracted for use in the food and beverage industry as natural flavorings, as well as in perfumery and pharmaceuticals. Its functional properties, particularly its high fiber content, also make it a valuable ingredient in health-focused food products.
+
+## Distinctions and Common Confusion
+
+A common point of confusion in the Indian context arises from the aromatic similarity between celery seeds and ajwain (carom seeds) or radhuni (wild celery seeds), both of which belong to the same botanical family and share some volatile compounds. While celery seeds possess a distinct, slightly milder aroma compared to the more pungent ajwain, the fresh celery stalks and leaves offer a unique crisp texture and a greener, more herbaceous flavor profile that is entirely different from any traditional Indian vegetable. Furthermore, the term "ajmoda" in ancient Ayurvedic texts often refers to a different plant, Trachyspermum roxburghianum, which can lead to misidentification with modern celery.

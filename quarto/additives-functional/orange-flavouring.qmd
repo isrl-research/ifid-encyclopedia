@@ -1,0 +1,24 @@
+---
+title: "Orange Flavouring"
+slug: orange-flavouring
+category: "Additives & Functional"
+category-slug: additives-functional
+keywords: ["Orange", "Flavouring", "Extract", "Synthetic", "Natural", "Citrus", "Food Additive"]
+description: "Orange flavouring, derived from the fruit of *Citrus sinensis*, traces its origins to Southeast Asia, with oranges having been cultivated in India for millennia"
+---
+
+## History and Sourcing
+
+[Orange](../fruits-veg-botanicals/orange.qmd) flavouring, derived from the fruit of *Citrus sinensis*, traces its origins to Southeast Asia, with oranges having been cultivated in India for millennia. Known as *santre* or *narangi* in various Indian languages, the fruit itself has a rich heritage in the subcontinent, valued for its refreshing juice and aromatic zest. Natural orange flavouring is typically sourced from the peel, pulp, and juice of the fruit, concentrating the volatile aromatic compounds responsible for its characteristic taste and aroma.
+
+## Home Kitchen Use
+
+In traditional Indian home kitchens, the fresh fruit, its juice, and zest have always been preferred for imparting flavour. [Orange](../fruits-veg-botanicals/orange.qmd) segments are enjoyed fresh, while the juice is a popular beverage. Zest is occasionally used in desserts like *kheer* or *barfi*, and in some regional savoury preparations or marinades to add a bright, citrusy note. However, the concept of a concentrated 'orange flavouring' as a standalone ingredient for home cooking is a more modern adoption, often used for convenience in baking or beverage making where fresh fruit might be unavailable or less practical.
+
+## Industrial Applications
+
+Industrially, orange flavouring is a ubiquitous ingredient across the Fast-Moving Consumer Goods (FMCG) sector in India. It is extensively used in the production of soft drinks, fruit juices, confectionery items like candies, chocolates, and jellies, as well as in baked goods such as cakes, biscuits, and pastries. Dairy products like yogurts and ice creams also frequently incorporate orange flavouring. Its widespread adoption is due to its ability to provide a consistent, cost-effective, and shelf-stable orange profile, crucial for mass-produced items. Flavouring extracts, often more concentrated and derived from natural sources, are preferred in premium products for a more authentic taste.
+
+## Distinctions and Common Confusion
+
+Consumers often encounter 'orange flavouring' and 'orange extract' interchangeably, leading to some confusion. '[Orange](../fruits-veg-botanicals/orange.qmd) extract' typically denotes a concentrated flavour derived directly from natural orange components, often through processes like cold-pressing or distillation, and is generally considered a canonical, natural flavouring. In contrast, 'orange flavouring' can encompass both natural flavourings (derived from orange) and synthetic flavourings (artificially created to mimic orange taste). Synthetic versions, while effective in replicating the primary taste notes, often lack the complex, nuanced aroma profile of natural orange compounds. It is also distinct from the fresh fruit itself, offering a concentrated essence rather than the full nutritional and textural experience of an orange.

@@ -1,0 +1,24 @@
+---
+title: "Mineral Salts"
+slug: mineral-salts
+category: "Additives & Functional"
+category-slug: additives-functional
+keywords: ["Mineral salts", "electrolytes", "fortification", "food additives", "essential nutrients", "sodium chloride", "calcium", "magnesium", "potassium"]
+description: "Mineral salts are a broad category of inorganic compounds naturally present in foods and water, and frequently added to processed items for nutritional, func..."
+---
+
+## History and Sourcing
+
+Mineral salts are a broad category of inorganic compounds naturally present in foods and water, and frequently added to processed items for nutritional, functional, or preservative purposes. Historically, the importance of salts, particularly sodium chloride (common salt), has been recognized across Indian civilizations, with references to various 'lavana' (salts) in ancient Ayurvedic texts for their medicinal and culinary properties. These essential compounds are sourced from diverse origins, including geological deposits (like rock salt or 'sendha namak'), evaporated seawater, and increasingly, through industrial synthesis for specific applications in food technology.
+
+## Home Kitchen Use
+
+In the Indian home kitchen, the most ubiquitous mineral salt is sodium chloride, used universally for seasoning, enhancing flavour, and as a basic preservative in pickles and preserves. Other mineral salts like 'kala namak' (black salt) and 'sendha namak' (rock salt) hold special significance. Kala namak, with its distinctive sulphurous tang, is a staple in chaats, raitas, and refreshing beverages like jaljeera, prized for its digestive properties. Sendha namak is traditionally consumed during fasting periods ('vrat ka khana') due to its perceived purity and mineral content.
+
+## Industrial Applications
+
+In industrial food production, mineral salts play a multifaceted role as crucial food additives. They are extensively used for fortification, addressing common nutritional deficiencies by adding essential minerals like iron (ferrous fumarate), iodine (potassium iodate), calcium (calcium carbonate), and zinc (zinc sulphate) to staples like flour, salt, and milk. Beyond nutrition, they function as acidity regulators (e.g., calcium salts in dairy products), firming agents (e.g., calcium chloride in canned vegetables), emulsifying salts (e.g., phosphates in processed cheese), and leavening agents (e.g., sodium bicarbonate in baked goods), contributing to texture, stability, and shelf-life in a wide array of FMCG products from biscuits to beverages.
+
+## Distinctions and Common Confusion
+
+Consumers often conflate the broad category of "mineral salts" with "table salt" (sodium chloride). While table salt is indeed a mineral salt, the term "mineral salts" encompasses a much wider range of inorganic compounds, each with distinct chemical compositions and functional roles. For instance, calcium salts are added for bone health, magnesium salts for electrolyte balance, and potassium salts as sodium replacers, none of which are primarily used for seasoning in the same way as common salt. It is also distinct from specific culinary salts like black salt or rock salt, which are particular types of mineral salts with unique flavour profiles and traditional uses.

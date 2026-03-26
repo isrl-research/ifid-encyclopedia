@@ -1,0 +1,24 @@
+---
+title: "Milk Powder"
+slug: milk-powder
+category: "Dairy & Alternatives"
+category-slug: dairy-alternatives
+keywords: ["Doodh Powder", "Skimmed Milk Powder", "Whole Milk Powder", "Dairy Whitener", "Mithai Ingredient", "Dried Milk", "Plant-based Milk Powder"]
+description: "Milk powder, known colloquially as *doodh powder* in India, represents a significant advancement in dairy preservation, transforming liquid milk into a shelf..."
+---
+
+## History and Sourcing
+
+Milk powder, known colloquially as *doodh powder* in India, represents a significant advancement in dairy preservation, transforming liquid milk into a shelf-stable, granular form. The process of drying milk dates back centuries, with nomadic cultures using sun-drying techniques. However, industrial production began in the 19th century, making milk accessible in regions and seasons where fresh milk was scarce. In India, a nation with a deep-rooted dairy heritage, milk powder became crucial for managing surplus milk production and ensuring year-round availability, particularly in remote areas. Major dairy-producing states like Gujarat, Maharashtra, and Uttar Pradesh are key to its sourcing, primarily from cow and buffalo milk, though camel milk powder is also emerging.
+
+## Home Kitchen Use
+
+In Indian home kitchens, milk powder is a versatile ingredient. It serves as an instant substitute for fresh milk, reconstituted for tea, coffee, or as a quick beverage. Its most celebrated application is in traditional Indian sweets (*mithai*) like *gulab jamun*, *peda*, and *barfi*, where it provides a rich, dense texture and characteristic flavour. It is also used to thicken gravies, enrich desserts like *kheer*, and as a convenient base for homemade ice creams or custards, offering a creamy consistency without the need for fresh milk.
+
+## Industrial Applications
+
+Industrially, milk powder is a cornerstone of the Indian food processing sector. Skimmed [Milk Powder](milk-powder.qmd) (SMP) and Whole Milk Powder (WMP) are widely used in FMCG products. SMP, with its lower fat content, is preferred in formulations requiring less richness, such as dairy whiteners, instant beverage mixes, and some bakery items. WMP, offering a fuller flavour and mouthfeel due to its fat content, is integral to confectionery, infant formulas, chocolate products, and premium dairy desserts. Beyond traditional dairy, the market has seen the rise of plant-based alternatives like soya milk powder and coconut milk powder, catering to vegan consumers and those with lactose intolerance, expanding its application into specialized dietary products.
+
+## Distinctions and Common Confusion
+
+Consumers often encounter various forms of milk powder, leading to some confusion. The primary distinction lies between Whole [Milk Powder](milk-powder.qmd) (WMP) and Skimmed Milk Powder (SMP). WMP retains the milk fat, offering a richer taste and creamier texture, making it ideal for products where fat content is desired. SMP, conversely, has most of its fat removed, resulting in a longer shelf life and a less rich profile, often preferred for its functional properties in specific food applications. Furthermore, milk powder is distinct from dairy whiteners, which often contain added sugars and emulsifiers, and from plant-based powders (like soya or coconut milk powder), which are derived from non-dairy sources and possess different nutritional and allergenic profiles.

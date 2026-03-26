@@ -1,0 +1,24 @@
+---
+title: "Saffron"
+slug: saffron
+category: "Spices & Seasonings"
+category-slug: spices-seasonings
+keywords: ["Saffron", "Kesar", "Crocus sativus", "Kashmir", "Spice", "Colorant", "Flavoring"]
+description: "Saffron, or Kesar, is derived from the dried stigmas of the Crocus sativus flower"
+---
+
+## History and Sourcing
+
+[Saffron](saffron.qmd), or Kesar, is derived from the dried stigmas of the Crocus sativus flower. Originating in ancient Persia and Greece, it was introduced to India, establishing a deep cultural and culinary presence, especially in Kashmir. The name 'saffron' comes from Arabic 'za'faran', while 'Keshara' is Sanskrit. India's primary cultivation is in Pampore, Kashmir, known for producing high-quality, expensive saffron.
+
+## Home Kitchen Use
+
+In Indian home kitchens, saffron is a prized ingredient for its golden hue and delicate, complex floral, honey-like, and subtly bitter flavour. It's typically steeped in warm milk or water. It's essential in celebratory dishes like biryanis, kheer, phirni, shahi tukda, mithai, and traditional beverages like kesar doodh, valued for taste and Ayurvedic benefits.
+
+## Industrial Applications
+
+Industrially, saffron is used in premium food and beverage segments as a natural colourant and flavouring. Applications include high-end dairy products (ice creams, yogurts), packaged Indian desserts, health drinks, herbal teas, and certain cosmetic and Ayurvedic formulations. Due to its cost, industrial use often involves saffron extracts or infusions for consistency and cost management.
+
+## Distinctions and Common Confusion
+
+Confusion often arises due to saffron's high price, leading to adulteration or substitution. Common confusions are with turmeric (Haldi) and safflower (Kusum), which provide colour but lack saffron's distinct aroma and complex flavour. Genuine saffron is identified by its delicate, trumpet-shaped threads, which differ from uniform adulterant strands. Its unique fragrance and taste are key differentiators from mere colourants.

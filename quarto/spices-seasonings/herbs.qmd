@@ -1,0 +1,24 @@
+---
+title: "Herbs"
+slug: herbs
+category: "Spices & Seasonings"
+category-slug: spices-seasonings
+keywords: ["Botanicals", "Aromatic leaves", "Ayurveda", "Coriander", "Mint", "Curry leaves", "Seasoning", "Spices"]
+description: "Herbs are a diverse category of botanicals, primarily defined by their aromatic leaves, flowers, or soft stems, used for flavouring, garnishing, and medicina..."
+---
+
+## History and Sourcing
+
+[Herbs](herbs.qmd) are a diverse category of botanicals, primarily defined by their aromatic leaves, flowers, or soft stems, used for flavouring, garnishing, and medicinal purposes. In India, the use of herbs is deeply ingrained in ancient traditions, particularly Ayurveda, where they are known as "jadi booti" (medicinal plants). While the term "herb" itself is of Latin origin ("herba"), Indian culinary and medicinal systems have always distinguished between various leafy greens and aromatic plants. Many common culinary herbs like coriander (dhaniya patta), mint (pudina), and curry leaves (kadi patta) are indigenous or have been cultivated across the subcontinent for millennia, thriving in diverse climates from the plains to the hills. They are often grown in home gardens or sourced from local farms, forming an integral part of daily life and traditional remedies.
+
+## Home Kitchen Use
+
+In Indian home kitchens, herbs are indispensable for their fresh, vibrant flavours and aromatic qualities. Fresh coriander and mint are ubiquitous garnishes for curries, dals, and raitas, lending a refreshing finish. Curry leaves are a staple in tempering (tadka) across South India, imparting a distinctive nutty aroma to dishes. [Fenugreek](fenugreek.qmd) leaves (methi) are used in seasonal vegetables, parathas, and curries, offering a unique bitter-sweet note. While "mixed herbs" in a Western context often refers to blends like oregano, basil, and thyme, traditional Indian cooking relies on the distinct profiles of individual fresh herbs, often added towards the end of cooking to preserve their delicate essences.
+
+## Industrial Applications
+
+Industrially, herbs find extensive application in the FMCG sector, particularly in dried and processed forms. "Mixed herbs" blends, often featuring Mediterranean herbs, are widely used in packaged foods like instant noodles, pizza seasonings, and pasta sauces to cater to evolving palates. Herbal extracts are incorporated into health supplements, beverages, and even cosmetics for their functional properties and natural appeal. "[Herbs](herbs.qmd) blond," a synthetic flavouring, represents a modern industrial application designed to provide a consistent, light herbaceous note in processed foods, offering stability and cost-effectiveness compared to natural herbs.
+
+## Distinctions and Common Confusion
+
+A common point of confusion, especially in the Indian context, lies in distinguishing between "herbs" and "spices." While both are botanicals used for flavour, herbs typically refer to the fresh or dried leaves, flowers, or soft stems of plants, imparting fresh, green, and often delicate aromas (e.g., mint, coriander). Spices, conversely, are usually dried parts of plants such as seeds, fruits, roots, bark, or flowers, which tend to offer more pungent, warm, or earthy notes (e.g., cumin, cardamom, turmeric). Furthermore, "herbs blond" is a synthetic flavouring, distinct from natural herbs, used to mimic a herbaceous profile in industrial applications, offering a consistent flavour without the variability of natural ingredients.

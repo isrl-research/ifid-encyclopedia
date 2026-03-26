@@ -1,0 +1,24 @@
+---
+title: "Palm Stearin"
+slug: palm-stearin
+category: "Oils & Fats"
+category-slug: oils-fats
+keywords: ["Palm Stearin", "Fractionated Fat", "Bakery Shortening", "Margarine", "Confectionery Fat", "Palm Oil", "Solid Fat"]
+description: "Palm Stearin is a solid fraction derived from palm oil through a process called fractionation, which separates the oil into fractions with different melting ..."
+---
+
+## History and Sourcing
+
+[Palm Stearin](palm-stearin.qmd) is a solid fraction derived from palm oil through a process called fractionation, which separates the oil into fractions with different melting points. While palm oil itself has ancient roots in West Africa, its large-scale cultivation and introduction to India are relatively recent, primarily post-independence, driven by the need for domestic edible oil self-sufficiency. Major oil palm plantations in India are concentrated in states like Andhra Pradesh, Telangana, and Kerala, where the tropical climate is conducive to its growth. Palm Stearin, therefore, does not have a direct historical or traditional 'sourcing' in India but is a product of modern industrial processing of imported or domestically grown palm oil.
+
+## Home Kitchen Use
+
+In traditional Indian home kitchens, [Palm Stearin](palm-stearin.qmd) is not typically used as a standalone cooking medium. Its high melting point and solid nature at room temperature make it unsuitable for direct frying or tempering in the way liquid oils or ghee are used. However, it is indirectly consumed in numerous processed foods that are staples in Indian households, such as commercially baked goods, biscuits, and certain snack items, where its functional properties are highly valued.
+
+## Industrial Applications
+
+Industrially, [Palm Stearin](palm-stearin.qmd) is a versatile and widely utilized fat in the Indian food processing sector. Its high solid fat content and melting point make it an ideal component for formulating shortenings, margarines, and bakery fats, providing structure, flakiness, and mouthfeel to products like biscuits, cookies, and puff pastries. It is also extensively used in confectionery for chocolate coatings, compound chocolates, and non-dairy creamers, where it contributes to a firm texture and prevents blooming. Beyond food, Palm Stearin finds applications in the oleochemical industry for soap and candle manufacturing.
+
+## Distinctions and Common Confusion
+
+Consumers often encounter confusion regarding the various forms of palm-derived fats. [Palm Stearin](palm-stearin.qmd) is distinct from '[Palm Oil](palm-oil.qmd),' which is the semi-solid, un-fractionated oil, and '[Palmolein](palmolein.qmd),' the liquid fraction commonly used for deep-frying. While Palm Oil is a whole product, Palm Stearin is specifically the solid portion, characterized by a higher melting point. It is also important to differentiate it from 'Vanaspati,' which is a hydrogenated vegetable fat, often made from palm oil, but whose solidification is achieved through chemical hydrogenation rather than physical fractionation.

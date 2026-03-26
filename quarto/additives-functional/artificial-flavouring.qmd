@@ -1,0 +1,24 @@
+---
+title: "Artificial Flavouring"
+slug: artificial-flavouring
+category: "Additives & Functional"
+category-slug: additives-functional
+keywords: ["Synthetic Flavour", "Food Additive", "Flavour Enhancer", "FMCG Ingredient", "Processed Food", "Chemical Synthesis", "Flavour Technology"]
+description: "Artificial flavourings are synthetic compounds developed through advancements in organic chemistry, primarily in the 19th and 20th centuries"
+---
+
+## History and Sourcing
+
+Artificial flavourings are synthetic compounds developed through advancements in organic chemistry, primarily in the 19th and 20th centuries. They were introduced to India with the rise of its processed food industry, driven by the demand for consistent, cost-effective, and stable flavour solutions. Unlike natural ingredients, these flavourings are entirely manufactured in laboratories, providing predictable and reproducible sensory experiences independent of agricultural factors.
+
+## Home Kitchen Use
+
+Artificial flavourings are largely absent from traditional Indian home cooking. Indian culinary practices emphasize fresh, whole spices, herbs, fruits, and vegetables, relying on natural aromas and tastes. Traditional methods like tempering and spice blending are used to achieve complex flavour profiles, making synthetic flavour compounds incongruous with the traditional home cooking ethos.
+
+## Industrial Applications
+
+In India's industrial food sector, artificial flavourings are widely used across FMCG products. They are found in confectionery, beverages, biscuits, snack foods, instant mixes, and dairy products like ice creams and yogurts. Their stability, high potency, and cost-effectiveness make them vital for manufacturers seeking product uniformity, extended shelf life, and the ability to create novel or exotic flavour profiles that are challenging or expensive to achieve with natural ingredients.
+
+## Distinctions and Common Confusion
+
+Consumers often confuse '[Artificial Flavouring](artificial-flavouring.qmd)' with 'Natural Flavouring' and 'Natural Identical Flavouring' under FSSAI regulations. Artificial flavourings are entirely synthetic, with chemical structures not found in nature. Natural identical flavourings are chemically identical to natural substances but are synthetically produced. Natural flavourings, however, are derived directly from natural sources (e.g., spices, fruits) through physical, enzymatic, or microbiological processes. This distinction is key to understanding the origin and composition of flavour components in packaged foods.

@@ -1,0 +1,24 @@
+---
+title: "Lecithin (INS 322)"
+slug: lecithin-ins-322
+category: "Additives & Functional"
+category-slug: additives-functional
+keywords: ["Lecithin", "Emulsifier", "INS 322", "Soy Lecithin", "Sunflower Lecithin", "Phospholipid", "Food Additive"]
+description: "Lecithin, named from the Greek 'lekithos' (egg yolk), was first isolated from egg yolk in 1845"
+---
+
+## History and Sourcing
+
+Lecithin, named from the Greek 'lekithos' (egg yolk), was first isolated from egg yolk in 1845. While traditional Indian cooking achieves emulsification through whole ingredients like egg or mustard, isolated lecithin is a modern industrial additive. Industrially, it's primarily sourced from soybeans, sunflower seeds, and rapeseed. India, a significant producer of soybeans and sunflowers, has domestic extraction capabilities, though imports also meet the demand of its food processing sector.
+
+## Home Kitchen Use
+
+Isolated lecithin is not a direct ingredient in traditional Indian home cooking. However, its functional role as an emulsifier is achieved through natural means, such as the use of egg yolks in rich preparations or mustard paste in curries, which inherently provide similar textural and stability benefits by binding fats and liquids.
+
+## Industrial Applications
+
+[Lecithin (INS 322)](lecithin-ins-322.qmd) is a critical food additive in the Indian food industry, functioning as an emulsifier, stabilizer, and antioxidant. In chocolates, it reduces viscosity and prevents fat bloom. In bakery, it improves dough workability, crumb structure, and extends shelf life. It is also essential in instant mixes, dairy alternatives, margarine, and confectionery for smooth textures and preventing ingredient separation. [Soy](../fruits-veg-botanicals/soy.qmd) lecithin is common for its cost-effectiveness, while sunflower lecithin is preferred as an allergen-free option.
+
+## Distinctions and Common Confusion
+
+The main confusion regarding lecithin stems from its source. 'Lecithin' is a general term for a group of phospholipids. Consumers often encounter '[Soy](../fruits-veg-botanicals/soy.qmd) Lecithin' or 'Sunflower Lecithin' on labels. While both function similarly as emulsifiers, their origin differs. Soy lecithin is derived from soybeans and is an allergen, requiring clear labeling. Sunflower lecithin, from sunflower seeds, is a non-allergenic alternative. These are different botanical sources for the same functional compound, not chemically distinct entities.

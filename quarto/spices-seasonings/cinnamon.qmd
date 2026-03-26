@@ -1,0 +1,24 @@
+---
+title: "Cinnamon"
+slug: cinnamon
+category: "Spices & Seasonings"
+category-slug: spices-seasonings
+keywords: ["Cinnamon", "Dalchini", "Cinnamomum verum", "Cassia", "Spice", "Indian cuisine", "Garam Masala"]
+description: "Cinnamon, known in India as Dalchini, is a revered spice with a rich history deeply intertwined with ancient trade routes"
+---
+
+## History and Sourcing
+
+[Cinnamon](cinnamon.qmd), known in India as Dalchini, is a revered spice with a rich history deeply intertwined with ancient trade routes. While true cinnamon, *Cinnamomum verum* (formerly *C. zeylanicum*), is indigenous to Sri Lanka, its cultivation and use spread early to South India, particularly Kerala and Tamil Nadu, which now contribute significantly to its global supply. The name "Dalchini" itself is derived from Sanskrit, reflecting its long-standing presence in the subcontinent. Historically, it was a prized commodity, traded across continents for its aromatic bark, which was even referred to by ancient texts as "Agaru" in some contexts, highlighting its esteemed status.
+
+## Home Kitchen Use
+
+In Indian home kitchens, cinnamon is an indispensable spice, primarily used in its whole bark form (dalchini) or as a finely ground powder. Whole sticks are a staple in tempering (tadka) for curries, biryanis, and pulao, imparting a warm, sweet, and woody aroma. It is a foundational component of numerous traditional spice blends, most notably Garam Masala, where its complex flavour profile enhances savoury dishes. Powdered cinnamon finds its way into sweets, baked goods, and beverages like chai, offering a comforting and aromatic note. While less common, the leaves of certain cinnamon varieties are also used as a flavouring agent.
+
+## Industrial Applications
+
+Beyond traditional home cooking, cinnamon is a significant ingredient in the modern Indian food industry. Its bark and essential oils are widely utilized in the production of packaged spice mixes, ready-to-eat meals, and snack foods. In the bakery and confectionery sectors, cinnamon powder is a popular flavouring for biscuits, cakes, and desserts. The essential oil, extracted from both bark and leaves, is also employed in the beverage industry for flavouring teas, health drinks, and even some alcoholic concoctions. Its natural antimicrobial properties also lend it to use in certain food preservation applications.
+
+## Distinctions and Common Confusion
+
+A common point of confusion for consumers in India lies in distinguishing between "true cinnamon" (Ceylon [Cinnamon](cinnamon.qmd), *Cinnamomum verum*) and "Cassia" (*Cinnamomum cassia* or other related species). While both are sold as "Dalchini," Ceylon cinnamon is characterized by its thin, delicate, multi-layered quills, lighter colour, and a sweeter, more nuanced flavour. Cassia, conversely, is thicker, darker, forms a single, tighter scroll, and possesses a stronger, spicier, and often more pungent taste. This distinction is not merely culinary; Ceylon cinnamon contains significantly lower levels of coumarin, a compound that can be problematic in large quantities, making it the preferred choice for those seeking a milder flavour and lower coumarin intake.

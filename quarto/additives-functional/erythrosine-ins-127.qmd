@@ -1,0 +1,24 @@
+---
+title: "Erythrosine (INS 127)"
+slug: erythrosine-ins-127
+category: "Additives & Functional"
+category-slug: additives-functional
+keywords: ["Erythrosine", "INS 127", "Food Colour", "Synthetic Dye", "Red Colourant", "Food Additive", "FSSAI"]
+description: "Erythrosine (INS 127) is a synthetic xanthene dye, a brilliant cherry-red or pink food colour widely used in the food industry"
+---
+
+## History and Sourcing
+
+[Erythrosine (INS 127)](erythrosine-ins-127.qmd) is a synthetic xanthene dye, a brilliant cherry-red or pink food colour widely used in the food industry. Its name is derived from the Greek word "erythros," meaning red. Developed in the late 19th century, this artificial colourant gained global acceptance due to its vibrant hue and stability. In India, Erythrosine is a permitted food additive, regulated by the Food Safety and Standards Authority of India (FSSAI), which sets specific limits for its use in various food categories to ensure consumer safety. Unlike naturally derived colours, Erythrosine is chemically synthesised and not "sourced" from agricultural regions.
+
+## Home Kitchen Use
+
+In traditional Indian home cooking, synthetic food colours like Erythrosine are generally not employed. The rich palette of Indian cuisine historically relies on natural colourants derived from spices such as turmeric for yellow, paprika or Kashmiri chilli for red, and saffron for a golden hue, as well as vegetable extracts like beetroot. While modern home bakers or confectioners might occasionally use artificial colours for aesthetic appeal, this practice is more an adoption of industrial trends rather than a continuation of traditional culinary heritage.
+
+## Industrial Applications
+
+Industrially, [Erythrosine (INS 127)](erythrosine-ins-127.qmd) is valued for its consistent and intense cherry-red to pink shade, making it a popular choice for a diverse range of processed foods. It is extensively used in confectionery, including candies, jellies, and chewing gum, as well as in baked goods like cakes and biscuits. Its application extends to dairy products such as flavoured milk, yogurts, and ice creams, and it is also found in certain processed meats, canned fruits (like cherries in fruit cocktails), and beverages to enhance visual appeal. Its good stability to heat and light makes it suitable for products requiring processing or extended shelf life.
+
+## Distinctions and Common Confusion
+
+Consumers often encounter Erythrosine alongside other synthetic red food colours, leading to potential confusion. It is distinct from other permitted red dyes like [Ponceau 4R (INS 124)](ponceau-4r-ins-124.qmd) or [Allura Red (INS 129)](allura-red-ins-129.qmd), each possessing a unique chemical structure and imparting a slightly different shade of red. Erythrosine is specifically known for its distinct cherry-red to pink hue, which differentiates it from the deeper reds or orange-reds of other synthetic colours. Furthermore, it is chemically unrelated to natural red colourants such as [Beetroot Red (INS 162)](beetroot-red-ins-162.qmd) or anthocyanins (INS 163), which are plant-derived and have different stability and functional properties.

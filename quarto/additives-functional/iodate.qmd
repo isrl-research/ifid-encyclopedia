@@ -1,0 +1,24 @@
+---
+title: "Iodate"
+slug: iodate
+category: "Additives & Functional"
+category-slug: additives-functional
+keywords: ["Iodate", "Iodine fortification", "Potassium Iodate", "Iodized salt", "Micronutrient", "Public health", "NIDDCP"]
+description: "Iodate, primarily as Potassium Iodate (KIO3), is central to India's public health efforts against Iodine Deficiency Disorders (IDD)"
+---
+
+## History and Sourcing
+
+[Iodate](iodate.qmd), primarily as [Potassium Iodate](potassium-iodate.qmd) (KIO3), is central to India's public health efforts against Iodine Deficiency Disorders (IDD). Historically, IDD was a global health concern, leading to conditions like goitre and cognitive impairment. India's National Iodine Deficiency Disorders Control Programme (NIDDCP), initiated in 1962, mandated universal salt iodization. Unlike natural botanicals, iodate is a synthetically produced chemical compound, industrially sourced for its critical role in food fortification.
+
+## Home Kitchen Use
+
+In Indian home kitchens, iodate is not a direct cooking ingredient. Instead, it is consumed indirectly through iodized salt, a fundamental staple. This fortified salt is used daily for seasoning, cooking, and preserving a wide range of traditional Indian dishes, including curries, dals, and pickles. Its inclusion ensures families receive their essential daily iodine intake, vital for thyroid function, metabolism, and neurological development, without impacting the taste or texture of food.
+
+## Industrial Applications
+
+Industrially, potassium iodate is the compound of choice for fortifying common salt in India and other tropical regions. Its superior stability over potassium iodide (KI) is crucial, as it withstands degradation from heat, humidity, and extended storage, common challenges in India's varied climates and supply chains. This stability guarantees effective iodine content until consumption. Consequently, iodate-fortified salt is a pervasive ingredient in the FMCG sector, found in packaged snacks, ready-to-eat meals, and processed foods, contributing significantly to national nutritional security.
+
+## Distinctions and Common Confusion
+
+Consumers often generalize 'iodine' with 'iodate' or 'iodide,' or perceive 'iodized salt' as a generic product. It is crucial to understand that iodate is a specific, highly stable chemical form of iodine, selected for salt fortification due to its resilience in challenging environments. While both iodate and iodide supply iodine, potassium iodate is favored in India over potassium iodide because it is less susceptible to oxidation and loss during storage and cooking. This distinction is vital for the success of iodine fortification programs and preventing the re-emergence of iodine deficiency disorders.

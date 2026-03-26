@@ -1,0 +1,24 @@
+---
+title: "Kale"
+slug: kale
+category: "Fruits, Veg & Botanicals"
+category-slug: fruits-veg-botanicals
+keywords: ["Kale", "Leafy Green", "Superfood", "Brassica", "Nutrition", "Modern Indian Cuisine", "Health Food"]
+description: "Kale, a cruciferous vegetable from the Brassica oleracea species, originated in the eastern Mediterranean and Asia Minor over 2,000 years ago"
+---
+
+## History and Sourcing
+
+[Kale](kale.qmd), a cruciferous vegetable from the Brassica oleracea species, originated in the eastern Mediterranean and Asia Minor over 2,000 years ago. Its widespread recognition in India is recent, driven by global health trends, lacking a traditional Indian linguistic equivalent. Niche cultivation has emerged in cooler Indian regions for urban and health-conscious markets.
+
+## Home Kitchen Use
+
+In Indian home kitchens, kale's use is a modern adaptation, not traditional. It's not found in classic regional dishes but is incorporated into contemporary preparations like salads, smoothies, stir-fries, and sautéed vegetable medleys. Its tougher texture often requires massaging with oil or blanching to tenderize it.
+
+## Industrial Applications
+
+Industrially, kale is increasingly used in FMCG products such as packaged salad mixes, health-focused ready-to-eat meals, and green juice blends. Its rich nutritional profile (vitamins A, C, K, antioxidants, fiber) makes it a popular 'superfood' ingredient. Dried kale powder is used in supplements, and kale chips are a common healthy snack.
+
+## Distinctions and Common Confusion
+
+Indian consumers often perceive kale as a 'superfood,' distinguishing it from familiar leafy greens like spinach (palak) or mustard greens (sarson ka saag). [Kale](kale.qmd) has a tougher, crinkly texture and an earthier, sometimes bitter flavour, unlike the milder spinach or pungent mustard greens. It retains more structure when cooked, suitable for dishes requiring a firmer green.

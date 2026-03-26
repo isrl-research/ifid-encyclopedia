@@ -1,0 +1,24 @@
+---
+title: "Coffee"
+slug: coffee
+category: "Fruits, Veg & Botanicals"
+category-slug: fruits-veg-botanicals
+keywords: ["Coffee", "Arabica", "Robusta", "Instant Coffee", "Filter Coffee", "Chicory", "Green Coffee"]
+description: "Coffee, derived from the roasted and ground seeds of the *Coffea* plant, holds significant global and Indian culinary heritage"
+---
+
+## History and Sourcing
+
+Coffee, derived from the roasted and ground seeds of the *Coffea* plant, holds significant global and Indian culinary heritage. Originating in Ethiopia, its introduction to India is famously attributed to Sufi saint Baba Budan, who brought seven coffee beans from Yemen to Chikmagalur, Karnataka, in the 17th century. The name "coffee" stems from the Arabic "qahwah." Today, India is a prominent producer, cultivating Arabica and Robusta varieties in Karnataka, Kerala, and Tamil Nadu. Arabica, known for its aromatic, nuanced flavour, thrives in higher altitudes, while the more robust, higher-caffeine Robusta suits lower elevations.
+
+## Home Kitchen Use
+
+In Indian homes, coffee is predominantly consumed as a beverage, with distinct regional preferences. The iconic South Indian filter coffee, a strong decoction with frothed milk and sugar, is a cherished morning ritual. Instant coffee, as soluble powder, offers convenience and is widely popular for quick preparation. Beyond beverages, coffee's rich flavour profile lends itself to various culinary applications, including desserts like tiramisu, coffee-flavoured ice creams, and cakes, though less common in traditional Indian savoury cooking.
+
+## Industrial Applications
+
+The industrial landscape of coffee in India is vast. Fast-Moving Consumer Goods (FMCG) companies extensively use coffee in various forms. Soluble coffee powder dominates the instant coffee market, while roasted and ground coffee caters to filter coffee enthusiasts. Coffee extracts are crucial for flavouring in confectionery, baked goods, and ready-to-drink beverages, providing concentrated essence. Green coffee extract, from unroasted beans, is increasingly used in health and wellness products, often in powder form, valued for its high concentration of chlorogenic acids.
+
+## Distinctions and Common Confusion
+
+Consumers often encounter several distinctions within the coffee category. Primary differentiation lies between Arabica and Robusta beans: Arabica offers a smoother, more aromatic cup with lower caffeine, while Robusta is bolder, more bitter, and higher in caffeine, often preferred for espresso and instant blends. Another common point of confusion is between pure coffee and coffee-chicory mixtures, prevalent in South Indian filter coffee. [Chicory](chicory.qmd), a roasted root, adds body, bitterness, and perceived richness. "Coffee no chicory" explicitly denotes a pure coffee product. Instant coffee, designed for solubility, stands apart from roast and ground coffee, which requires brewing for a fresh experience. Green coffee extract is distinct, being a health supplement.

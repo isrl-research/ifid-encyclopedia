@@ -1,0 +1,24 @@
+---
+title: "Ergocalciferol"
+slug: ergocalciferol
+category: "Additives & Functional"
+category-slug: additives-functional
+keywords: ["Vitamin D2", "Fortificant", "Vegan Vitamin D", "Bone Health", "Ergosterol", "Nutritional Supplement", "Plant-based"]
+description: "Ergocalciferol, or Vitamin D2, is a form of Vitamin D derived from the UV irradiation of ergosterol, found in fungi and plants"
+---
+
+## History and Sourcing
+
+[Ergocalciferol](ergocalciferol.qmd), or Vitamin D2, is a form of [Vitamin D](vitamin-d.qmd) derived from the UV irradiation of ergosterol, found in fungi and plants. Its discovery was crucial in combating rickets. In India, its plant-derived nature is significant for vegetarian and vegan diets, addressing nutritional gaps related to bone health.
+
+## Home Kitchen Use
+
+[Ergocalciferol](ergocalciferol.qmd) is not directly used in traditional Indian home cooking. However, its precursors are found in edible mushrooms. The broader awareness of [Vitamin D](vitamin-d.qmd)'s role in calcium absorption and bone health influences dietary choices and the consumption of fortified foods in Indian households.
+
+## Industrial Applications
+
+Industrially, ergocalciferol is a vital fortificant in India, commonly added to plant-based milks, cereals, and juices to enhance nutritional profiles, especially for vegetarian and vegan consumers. It is also a key ingredient in pharmaceutical supplements, offering a vegan-friendly [Vitamin D](vitamin-d.qmd) option to address widespread Vitamin D insufficiency.
+
+## Distinctions and Common Confusion
+
+A common point of confusion is distinguishing [Ergocalciferol](ergocalciferol.qmd) (Vitamin D2) from [Cholecalciferol](cholecalciferol.qmd) (Vitamin D3). Both are essential for calcium metabolism. D2 is plant/fungi-derived, making it suitable for vegan diets, while D3 is animal-derived or synthesized in animal skin. While D3 is sometimes considered more potent, D2 remains a crucial and widely used form, particularly in fortified plant-based products.

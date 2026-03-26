@@ -1,0 +1,24 @@
+---
+title: "Coconut"
+slug: coconut
+category: "Fruits, Veg & Botanicals"
+category-slug: fruits-veg-botanicals
+keywords: ["Coconut", "Khobra", "Desiccated Coconut", "Indian Cuisine", "Tropical Fruit", "Coconut Oil", "Kerala Cuisine"]
+description: "The coconut palm (Cocos nucifera), often called the \"tree of life,\" boasts an ancient lineage, believed to have originated in Southeast Asia or the Pacific i..."
+---
+
+## History and Sourcing
+
+The coconut palm (Cocos nucifera), often called the "tree of life," boasts an ancient lineage, believed to have originated in Southeast Asia or the Pacific islands. Its introduction to the Indian subcontinent dates back millennia, becoming an indispensable part of coastal cultures, particularly in the South. Linguistically, it is known as "Narikela" in Sanskrit, "Thengai" in Tamil, and "Nariyal" in Hindi, reflecting its deep cultural integration. India is a major global producer, with extensive cultivation along its vast coastline, predominantly in states like Kerala, Tamil Nadu, Karnataka, Andhra Pradesh, Goa, Maharashtra, and West Bengal, where it thrives in the tropical climate.
+
+## Home Kitchen Use
+
+In Indian home kitchens, coconut is a versatile staple. Freshly grated coconut is fundamental to the cuisines of Kerala, Goa, and the Konkan region, forming the base of rich curries, stews, and chutneys. It lends a unique sweetness and body to dishes like Avial, Sambar, and various seafood preparations. Grated coconut is also widely used as a garnish for both savory and sweet dishes, while its milk is extracted for gravies, desserts like Payasam, and refreshing beverages. "Khobra," or dried coconut, is a traditional ingredient, often ground into pastes for dry chutneys, spice blends, or used in sweets like Modak and Barfi, offering a more concentrated flavor and longer shelf life.
+
+## Industrial Applications
+
+The industrial applications of coconut are extensive, driven by its functional properties and flavor profile. Desiccated coconut, available as powder or shreds, is a key ingredient in the FMCG sector, widely used in confectionery, bakery products, instant mixes, and as a coating for snacks and energy bars. [Coconut](coconut.qmd) fat, primarily coconut oil, is valued for its stability and unique mouthfeel, finding its way into non-dairy products, ice creams, and certain processed foods. Coconut milk powder and packaged coconut water are also popular, catering to convenience and the growing demand for plant-based alternatives and natural hydration.
+
+## Distinctions and Common Confusion
+
+Consumers often encounter coconut in various forms, leading to some confusion regarding their specific uses. Fresh coconut, with its high moisture content, is ideal for immediate culinary use, providing a delicate flavor and soft texture. "Desiccated coconut" refers to the dried, shredded, or powdered flesh, which has a longer shelf life and is primarily used in baking and confectionery for its concentrated flavor and texture. "Khobra," a traditional term, typically denotes sun-dried coconut halves, which are harder, oilier, and often ground into pastes for curries or used for oil extraction. While "coconut fat" generally refers to coconut oil, it's important to note that coconut oil is naturally solid at cooler room temperatures, distinguishing it from other liquid vegetable oils.

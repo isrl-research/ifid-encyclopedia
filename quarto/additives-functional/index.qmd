@@ -1,0 +1,12 @@
+---
+title: "Additives & Functional"
+listing:
+  contents: "*.qmd"
+  sort: "title asc"
+  type: table
+  fields: [title, description]
+  exclude:
+    slug: "additives-functional"
+---
+
+*263 ingredients in this category.*

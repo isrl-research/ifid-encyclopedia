@@ -1,0 +1,24 @@
+---
+title: "Sorbic Acid (INS 200)"
+slug: sorbic-acid-ins-200
+category: "Additives & Functional"
+category-slug: additives-functional
+keywords: ["Sorbic Acid", "INS 200", "Preservative", "Antifungal", "Food Additive", "Shelf Life", "Food Safety"]
+description: "Sorbic Acid (INS 200) is an organic compound first identified in rowan berries"
+---
+
+## History and Sourcing
+
+[Sorbic Acid (INS 200)](sorbic-acid-ins-200.qmd) is an organic compound first identified in rowan berries. While naturally occurring, the form used in the modern Indian food industry is typically synthesized for consistency and cost-effectiveness. Its adoption in India parallels the growth of the processed food sector, providing a standardized preservation solution distinct from traditional methods. It is not a cultivated ingredient in India but is either imported or synthetically manufactured for industrial use.
+
+## Home Kitchen Use
+
+Sorbic Acid is not a direct culinary ingredient used in traditional Indian home cooking. Indian households historically rely on natural preservation techniques like salting, drying, and the use of spices. Therefore, Sorbic Acid does not have a place in the heritage or traditional culinary practices of Indian cuisine.
+
+## Industrial Applications
+
+As a potent preservative, Sorbic Acid is extensively used in India's FMCG sector. It effectively inhibits the growth of molds, yeasts, and certain bacteria, especially in acidic foods. Its applications span baked goods (bread, cakes), dairy products (cheese, yogurt), fruit preparations (jams, juices), pickles, and processed meats. Its ability to extend shelf life without significantly impacting flavor or aroma makes it a crucial additive for ensuring food safety and quality.
+
+## Distinctions and Common Confusion
+
+Consumers often group Sorbic Acid with other 'chemical preservatives,' sometimes unaware of its natural origin. While industrially synthesized, its discovery in rowan berries highlights a natural precursor. It is distinct from other common preservatives like [Sodium Benzoate (INS 211)](sodium-benzoate-ins-211.qmd) and is often used interchangeably with its more soluble salt, [Potassium Sorbate (INS 202)](potassium-sorbate-ins-202.qmd). Sorbic Acid is particularly valued for its strong antifungal properties, making it ideal for products susceptible to mold and yeast spoilage, and is generally recognized as safe within regulatory limits.

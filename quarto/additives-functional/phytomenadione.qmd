@@ -1,0 +1,24 @@
+---
+title: "Phytomenadione"
+slug: phytomenadione
+category: "Additives & Functional"
+category-slug: additives-functional
+keywords: ["Vitamin K1", "blood clotting", "bone health", "fat-soluble vitamin", "green leafy vegetables", "fortification", "micronutrient"]
+description: "Phytomenadione, scientifically known as Vitamin K1, is a vital fat-soluble vitamin primarily synthesized by plants"
+---
+
+## History and Sourcing
+
+[Phytomenadione](phytomenadione.qmd), scientifically known as Vitamin K1, is a vital fat-soluble vitamin primarily synthesized by plants. Its name, derived from "phyto" (plant) and "menadione" (a chemical precursor), reflects its botanical origin. Discovered in the 1930s for its crucial role in blood coagulation, Phytomenadione has been an inherent part of the Indian diet for centuries, albeit unknowingly. Its presence is intrinsically linked to the widespread consumption of green leafy vegetables such as spinach (palak), fenugreek (methi), mustard greens (sarson), and various other local 'saags' and herbs, which are cultivated extensively across India and form staples in diverse regional cuisines.
+
+## Home Kitchen Use
+
+In traditional Indian home cooking, [Phytomenadione](phytomenadione.qmd) is not an ingredient added directly but is naturally abundant in many commonly prepared dishes. Preparations like 'palak paneer', 'sarson ka saag', 'methi ki sabzi', and other vegetable stir-fries contribute significantly to dietary Vitamin K1 intake. Its function in these culinary contexts is purely nutritional, absorbed as part of the food matrix, rather than imparting flavour, texture, or acting as a preservative. The inherent richness of traditional Indian diets in diverse plant-based foods has historically ensured adequate intake of this essential nutrient without the need for conscious fortification at the household level.
+
+## Industrial Applications
+
+Industrially, [Phytomenadione](phytomenadione.qmd) finds its primary applications within the pharmaceutical and nutraceutical sectors. It is a key ingredient in dietary supplements, often formulated alongside other fat-soluble vitamins like D and A, particularly for products targeting bone health. In medical settings, it is administered to manage certain bleeding disorders, reverse the effects of anticoagulant medications, and as a prophylactic measure for newborns to prevent [Vitamin K](vitamin-k.qmd) deficiency bleeding. While less commonly used for direct food fortification in India compared to other vitamins, its inclusion in fortified infant formulas is crucial for ensuring essential nutrient intake for infants.
+
+## Distinctions and Common Confusion
+
+A common point of confusion arises from the different forms of [Vitamin K](vitamin-k.qmd). [Phytomenadione](phytomenadione.qmd) specifically denotes Vitamin K1, the plant-derived form. It is important to distinguish this from Vitamin K2 (menaquinone), which is primarily produced by bacteria and found in fermented foods (like natto, though less common in India) and some animal products, playing a distinct role in calcium metabolism and bone mineralization. Vitamin K3 (menadione) is a synthetic form that is not approved for human consumption due to potential toxicity. Therefore, when discussing "Vitamin K" in the context of dietary intake from common Indian foods, one is almost exclusively referring to Phytomenadione (K1).

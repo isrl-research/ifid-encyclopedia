@@ -1,0 +1,24 @@
+---
+title: "Ferrous Salt"
+slug: ferrous-salt
+category: "Additives & Functional"
+category-slug: additives-functional
+keywords: ["Iron", "Fortification", "Anaemia", "Mineral", "Supplement", "Bioavailability", "Micronutrient"]
+description: "Ferrous salts, chemical compounds containing iron in its +2 oxidation state, are fundamental to human nutrition, particularly in the Indian context where iro..."
+---
+
+## History and Sourcing
+
+Ferrous salts, chemical compounds containing iron in its +2 oxidation state, are fundamental to human nutrition, particularly in the Indian context where iron deficiency anaemia (IDA) remains a significant public health challenge. While not a botanical or culinary ingredient in the traditional sense, their historical importance stems from the long-standing recognition of iron's role in vitality, often sourced from iron-rich foods and cooking vessels. The term "ferrous" itself derives from the Latin "ferrum," meaning iron, highlighting its direct association with the metal. The need for supplemental iron, often in the form of ferrous salts, became more pronounced with modern dietary shifts and a deeper understanding of micronutrient deficiencies.
+
+## Home Kitchen Use
+
+In home kitchens, ferrous salts are not directly used as a cooking ingredient but are consumed indirectly through fortified staple foods. Government initiatives and public health campaigns have promoted the fortification of common household items like atta (wheat flour) and salt with iron, often in the form of ferrous fumarate or ferrous sulphate, to combat widespread anaemia. This makes ferrous salts an invisible yet crucial component of many traditional Indian meals, ensuring that families receive essential iron intake without altering their culinary practices.
+
+## Industrial Applications
+
+Industrially, ferrous salts are indispensable as fortificants in a wide array of processed foods and as active pharmaceutical ingredients. They are extensively incorporated into flour, rice, milk, and various breakfast cereals to enhance their nutritional profile, aligning with national fortification programs. Their high bioavailability makes them preferred choices for these applications, ensuring efficient absorption by the body. Beyond food, ferrous salts are the primary form of iron used in dietary supplements and medications prescribed for treating and preventing iron deficiency anaemia, reflecting their critical role in modern healthcare.
+
+## Distinctions and Common Confusion
+
+Consumers often encounter "iron" as a general nutrient, but it's crucial to distinguish between elemental iron, ferric salts, and ferrous salts. Ferrous salts (e.g., ferrous sulphate, ferrous fumarate, ferrous gluconate) are specifically chosen for food fortification and supplementation due to their superior bioavailability compared to ferric salts (iron in the +3 oxidation state) and elemental iron powders. While all provide iron, the ferrous form is more readily absorbed by the human body, making it a more effective agent in combating anaemia. It is also distinct from the iron naturally present in foods, serving as a targeted additive to boost intake.

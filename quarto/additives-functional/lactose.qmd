@@ -1,0 +1,24 @@
+---
+title: "Lactose"
+slug: lactose
+category: "Additives & Functional"
+category-slug: additives-functional
+keywords: ["Milk sugar", "Disaccharide", "Whey byproduct", "Carrier lactose", "Bulking agent", "Lactose intolerance", "Maillard reaction"]
+description: "Lactose, a disaccharide composed of glucose and galactose, is the primary carbohydrate naturally present in mammalian milk"
+---
+
+## History and Sourcing
+
+[Lactose](lactose.qmd), a disaccharide composed of glucose and galactose, is the primary carbohydrate naturally present in mammalian milk. While its chemical isolation is a modern scientific achievement, its presence in the Indian diet is as ancient as the subcontinent's deep-rooted dairy traditions. India, where milk holds profound cultural significance, has always consumed lactose inherently through its vast array of dairy products. Industrially, lactose is primarily sourced from whey, a byproduct generated during the production of cheese and paneer, leveraging India's extensive dairy processing infrastructure for extraction.
+
+## Home Kitchen Use
+
+In traditional Indian home kitchens, lactose is not used as a standalone ingredient but is consumed as an integral part of milk, dahi, paneer, and khoya. Its subtle sweetness contributes to the flavor profile of sweets like kheer and gulab jamun. Its reducing sugar properties are essential for the Maillard reaction, which creates the desirable browning and complex aromas in slow-cooked milk preparations. Furthermore, it serves as the substrate for fermentation in dahi, where lactic acid bacteria convert it into lactic acid to provide the characteristic tang.
+
+## Industrial Applications
+
+In modern food technology, lactose is a versatile functional ingredient valued for its mild sweetness and low hygroscopicity. It is widely used as a 'carrier lactose'—a bulking agent for flavors, colors, and active ingredients in FMCG formulations. It is a critical component in infant formula, confectionery, and pharmaceutical tablets. Additionally, it is used in the bakery sector to enhance crust browning and in processed dairy to standardize solids content and improve the texture of fermented milk drinks.
+
+## Distinctions and Common Confusion
+
+A common area of confusion involves 'lactose intolerance' versus 'milk allergy.' [Lactose](lactose.qmd) is the natural sugar in milk, and intolerance is a digestive issue caused by a lack of the lactase enzyme, not an immune response. This is distinct from a milk allergy, which is a reaction to milk proteins like casein or whey. Furthermore, 'lactose-free' products are not dairy-free; they are simply dairy products where the lactose has been pre-digested into simpler sugars using added enzymes.

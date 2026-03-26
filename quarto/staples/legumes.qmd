@@ -1,0 +1,24 @@
+---
+title: "Legumes"
+slug: legumes
+category: "Staples (Grains/Dals)"
+category-slug: staples
+keywords: ["Pulses", "Dals", "Fabaceae", "Plant-based protein", "Nitrogen fixation", "Besan", "Indian cuisine"]
+description: "Legumes, belonging to the Fabaceae family, are a foundational element of Indian agriculture and diet, with cultivation dating back to the Indus Valley Civili..."
+---
+
+## History and Sourcing
+
+[Legumes](legumes.qmd), belonging to the Fabaceae family, are a foundational element of Indian agriculture and diet, with cultivation dating back to the Indus Valley Civilization. Characterized by their pod-encased seeds, they are extensively grown in states like Madhya Pradesh, Maharashtra, Rajasthan, and Uttar Pradesh. Beyond their nutritional contribution, legumes are vital for soil health due to their nitrogen-fixing capabilities, supporting sustainable farming practices.
+
+## Home Kitchen Use
+
+In Indian home kitchens, legumes are predominantly consumed as 'dals' (split and often dehusked pulses), forming the core of vegetarian meals. They are integral to dishes like sambar (Toor Dal), khichdi (Moong Dal), curries (Chana Dal), and fermented batters for idli and dosa (Urad Dal). Preparation typically involves soaking, boiling, and tempering, yielding nutritious and culturally significant dishes across regional cuisines.
+
+## Industrial Applications
+
+Industrially, legumes are processed into flours like besan (chickpea flour), a staple for snacks such as bhajiyas, pakoras, and dhoklas, and traditional sweets. Legume flours are increasingly utilized in the FMCG sector for gluten-free products, extruded snacks, and as functional ingredients. The rising demand for plant-based proteins has also driven the extraction of legume protein isolates and concentrates for modern food products, including meat alternatives and nutritional supplements.
+
+## Distinctions and Common Confusion
+
+A key distinction lies between the botanical term 'legumes' and the culinary term 'dal.' While all dals are legumes, not all legumes are referred to as dals in Indian cooking (e.g., peanuts). [Legumes](legumes.qmd) are also distinct from grains (cereals); though both are staples, legumes are seeds from pods, offering a superior profile of protein and dietary fiber, making them a crucial nutritional complement to grain-based diets.

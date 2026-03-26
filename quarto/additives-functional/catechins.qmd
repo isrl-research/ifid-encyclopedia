@@ -1,0 +1,24 @@
+---
+title: "Catechins"
+slug: catechins
+category: "Additives & Functional"
+category-slug: additives-functional
+keywords: ["Polyphenols", "Flavonoids", "Antioxidant", "Green Tea", "EGCG", "Nutraceuticals", "Astringency"]
+description: "Catechins are a class of naturally occurring polyphenolic compounds, specifically flavonoids, widely recognized for their potent antioxidant properties"
+---
+
+## History and Sourcing
+
+[Catechins](catechins.qmd) are a class of naturally occurring polyphenolic compounds, specifically flavonoids, widely recognized for their potent antioxidant properties. The term "catechin" itself derives from *catechu*, an extract from *Acacia catechu*, a tree native to India and Southeast Asia, historically used in Ayurvedic medicine and as a food additive. While not a single ingredient, catechins are abundant in various plant-based foods integral to the Indian diet, most notably green tea, but also in cocoa, berries, apples, and certain legumes. Their presence in these traditional sources underscores their long-standing, albeit often unarticulated, role in Indian dietary heritage.
+
+## Home Kitchen Use
+
+In Indian home kitchens, catechins are consumed indirectly as part of whole foods and beverages. Green tea, increasingly popular across India, is a primary source, with its characteristic astringency often attributed to these compounds. Similarly, the consumption of fruits like apples and berries, and the use of certain spices and herbs in traditional cooking, contribute to dietary catechin intake. While not a standalone culinary ingredient, their presence enhances the nutritional profile of many dishes and beverages, aligning with the holistic health principles often found in traditional Indian food practices.
+
+## Industrial Applications
+
+Industrially, catechins are highly valued for their functional properties, particularly as natural antioxidants. They are frequently extracted, especially epigallocatechin gallate (EGCG) from green tea, and incorporated into nutraceuticals, dietary supplements, and functional beverages. In the FMCG sector, catechin-rich extracts are used to fortify drinks, enhance the shelf-life of food products by preventing oxidative rancidity, and even in cosmetic formulations. Their role extends to food preservation, where they act as a natural alternative to synthetic antioxidants, meeting the growing consumer demand for cleaner labels and natural ingredients.
+
+## Distinctions and Common Confusion
+
+Consumers often conflate "catechins" with "antioxidants" or specifically with "green tea extract." It is crucial to understand that catechins are a *specific type* of flavonoid, which in turn is a *subset* of the broader category of polyphenols, all contributing to antioxidant activity. While green tea is an exceptionally rich source of various catechins (like EGCG, epicatechin, gallocatechin), these compounds are also present in many other plant foods. Furthermore, catechins are distinct from other plant-derived antioxidants such as anthocyanins (found in berries) or resveratrol (found in grapes), each offering unique health benefits and functional characteristics.

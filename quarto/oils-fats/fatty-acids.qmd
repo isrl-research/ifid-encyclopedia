@@ -1,0 +1,24 @@
+---
+title: "Fatty Acids"
+slug: fatty-acids
+category: "Oils & Fats"
+category-slug: oils-fats
+keywords: ["Saturated Fat", "Unsaturated Fat", "Trans Fat", "Emulsifier", "Lipids", "Triglycerides", "Dietary Fat"]
+description: "Fatty acids are fundamental organic compounds that serve as the building blocks of fats and oils, playing a critical role in biological systems and food science"
+---
+
+## History and Sourcing
+
+Fatty acids are fundamental organic compounds that serve as the building blocks of fats and oils, playing a critical role in biological systems and food science. While not an ingredient in themselves, their presence and type define the characteristics of all dietary fats. In India, the understanding of fats has deep roots in traditional culinary and medicinal practices, where different oils like ghee (clarified butter), mustard oil, coconut oil, and groundnut oil were valued for their distinct properties, implicitly linked to their fatty acid profiles. These fats have been integral to Indian diets for millennia, with their sourcing tied to local agricultural practices – dairy for ghee, oilseeds for various vegetable oils – reflecting regional dietary patterns and agricultural abundance.
+
+## Home Kitchen Use
+
+In the Indian home kitchen, fatty acids are consumed indirectly through the diverse range of fats and oils used daily. Ghee, rich in saturated fatty acids, is prized for its flavour and high smoke point, used in tempering (tadka), frying, and as a flavour enhancer in dals and sweets. [Mustard](../spices-seasonings/mustard.qmd) oil, with its unique pungency and a balance of monounsaturated and polyunsaturated fatty acids, is a staple in Eastern and Northern Indian cooking. [Coconut](../fruits-veg-botanicals/coconut.qmd) oil, predominantly saturated, is central to South Indian cuisine for cooking, frying, and flavouring. Groundnut oil, high in monounsaturated fatty acids, is a common all-purpose cooking medium across many regions. The choice of fat is often dictated by regional culinary traditions, desired flavour, and the specific cooking technique, all of which are influenced by the underlying fatty acid composition.
+
+## Industrial Applications
+
+Industrially, fatty acids are crucial for formulating a vast array of food products. Saturated fatty acids contribute to the solid texture and shelf stability of products like biscuits, cakes, and confectionery, often derived from palm oil or hydrogenated vegetable fats. Monounsaturated and polyunsaturated fatty acids are preferred in liquid cooking oils, salad dressings, and spreads, valued for their perceived health benefits and fluidity. Trans fatty acids, historically prevalent in partially hydrogenated vegetable oils (like vanaspati) for their functional properties in bakery and frying, are now largely phased out due to health concerns. Furthermore, specific fatty acid salts, such as emulsifier salts of myristic and palmitic acid, or those with potassium and sodium, are widely used as emulsifiers (INS 471, 472e, etc.) in processed foods like ice creams, sauces, and baked goods to stabilize oil-in-water or water-in-oil emulsions, improving texture and preventing separation.
+
+## Distinctions and Common Confusion
+
+Consumers often encounter confusion regarding the broad term "fatty acids" versus the specific fats and oils they consume. It's crucial to understand that fats and oils are primarily composed of triglycerides, which are esters of glycerol and three fatty acids. "Fatty acids" themselves refer to the individual carboxylic acid molecules, which can be saturated (no double bonds), monounsaturated (one double bond), or polyunsaturated (multiple double bonds). Trans fatty acids are a specific type of unsaturated fatty acid with a particular molecular configuration. While all fats contain a mix of these, their proportions dictate the fat's properties and health impact. [Emulsifier](../additives-functional/emulsifier.qmd) salts of fatty acids are chemically modified derivatives, used for their functional properties in food processing rather than their direct nutritional contribution as a whole fat.

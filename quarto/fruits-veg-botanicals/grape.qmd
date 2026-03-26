@@ -1,0 +1,24 @@
+---
+title: "Grape"
+slug: grape
+category: "Fruits, Veg & Botanicals"
+category-slug: fruits-veg-botanicals
+keywords: ["Grape", "Draksha", "Viticulture", "Fruit", "Grape Juice", "Grape Pulp", "Indian cuisine"]
+description: "Grapes (Vitis vinifera), known as 'Draksha' in Sanskrit, boast an ancient lineage, with viticulture tracing back thousands of years to the Near East"
+---
+
+## History and Sourcing
+
+Grapes (Vitis vinifera), known as 'Draksha' in Sanskrit, boast an ancient lineage, with viticulture tracing back thousands of years to the Near East. Their introduction to the Indian subcontinent is historically significant, likely facilitated by ancient trade routes and cultural exchanges, leading to a rich tradition of grape cultivation. Today, India is a notable grape producer, with major growing regions concentrated in Maharashtra, Karnataka, Andhra Pradesh, and Tamil Nadu. These regions cultivate diverse varieties, including the 'red grape' variant, which is prized for its distinct colour and flavour profile.
+
+## Home Kitchen Use
+
+In Indian home kitchens, fresh grapes are primarily enjoyed as a refreshing fruit, often consumed raw or incorporated into fruit salads and desserts. While not a staple in traditional savoury curries, they occasionally feature in regional specialties, offering a sweet-tart counterpoint. Home cooks also prepare simple grape juices, jams, and sometimes even a unique grape chutney, especially when the fruit is in season, leveraging its natural sweetness and acidity.
+
+## Industrial Applications
+
+The industrial application of grapes in India is extensive, particularly within the FMCG sector. [Grape](grape.qmd) juice, often available in canned (P-CAN) or bottled forms, is a popular beverage, widely consumed for its taste and perceived health benefits. Grape pulp (M-PULP), also frequently canned (P-CAN) for preservation, serves as a key ingredient in the production of jams, jellies, fruit-based sauces, and confectionery. The 'red grape' variant is specifically sought after for products where its vibrant colour and characteristic flavour are desired, such as in premium juices or dessert toppings. Beyond beverages, grapes are fundamental to India's burgeoning wine industry, though this is a distinct segment.
+
+## Distinctions and Common Confusion
+
+A common point of confusion for consumers lies in distinguishing between fresh grapes and their processed forms. Fresh grapes are seasonal, whole fruits, offering a unique textural and sensory experience. In contrast, 'grape juice' (M-JUICE, P-CAN) is a liquid extract, often pasteurized and sometimes sweetened, designed for extended shelf life and convenience. '[Grape](grape.qmd) pulp' (M-PULP, P-CAN) is a semi-processed ingredient, typically used in manufacturing rather than direct consumption, differing significantly from the whole fruit in form and application. It's important to recognize these distinctions for both culinary and nutritional understanding.

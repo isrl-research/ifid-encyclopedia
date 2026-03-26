@@ -1,0 +1,24 @@
+---
+title: "Paprika"
+slug: paprika
+category: "Spices & Seasonings"
+category-slug: spices-seasonings
+keywords: ["Paprika", "Spice", "Capsicum annuum", "Natural Colourant", "Mild Chilli", "Oleoresin", "Hungarian Spice"]
+description: "Paprika, derived from the dried and ground fruits of the *Capsicum annuum* plant, traces its origins to Central Mexico, from where it was introduced to Europ..."
+---
+
+## History and Sourcing
+
+[Paprika](paprika.qmd), derived from the dried and ground fruits of the *Capsicum annuum* plant, traces its origins to Central Mexico, from where it was introduced to Europe by Spanish explorers in the 16th century. It gained significant culinary prominence in Hungary, becoming a cornerstone of its national cuisine, and subsequently spread globally. The name "paprika" itself is Hungarian, stemming from the Serbo-Croatian word "paprena," meaning peppery. While not indigenous to India, paprika was introduced through trade and cultural exchange, finding its way into modern Indian kitchens. Today, much of the paprika used in India is imported, though some varieties of mild red chillies grown in regions like Karnataka and Andhra Pradesh are occasionally processed and marketed as paprika-like products, primarily for their vibrant colour.
+
+## Home Kitchen Use
+
+In Indian home kitchens, paprika is valued less for its heat and more for its ability to impart a rich, appealing red colour and a subtle, sweet, or sometimes smoky flavour. It is frequently incorporated into marinades for tandoori dishes, gravies, and curries where a deep red hue is desired without an overwhelming level of spiciness. It also serves as a popular garnish, sprinkled over dishes like deviled eggs, potato salads, or even some chaats, adding both visual appeal and a mild flavour note. Its gentle profile makes it suitable for a broader range of palates, including those sensitive to the intense heat of traditional Indian chilli powders.
+
+## Industrial Applications
+
+Industrially, paprika is a highly sought-after ingredient, particularly its oleoresin extract (INS 160c), which functions as a natural food colourant and flavouring agent. It is extensively used in the FMCG sector in products such as snack foods (chips, namkeen), processed meats, sauces, seasonings, and ready-to-eat meals. The oleoresin provides a stable, consistent, and appealing red-orange colour, which is crucial for product aesthetics and consumer perception. Its mild flavour profile also allows it to be incorporated without significantly altering the primary taste of the food product, making it a versatile additive for both colour and subtle flavour enhancement.
+
+## Distinctions and Common Confusion
+
+A common point of confusion for Indian consumers lies in distinguishing paprika from other red chilli powders, particularly generic Indian chilli powder (mirch powder) and Kashmiri chilli powder. The key distinction lies in their heat levels and primary applications. While Indian chilli powder is primarily used for its intense pungency, paprika is significantly milder, with a much lower Scoville Heat Unit (SHU) rating. Kashmiri chilli powder, while also prized for its colour, often possesses a moderate level of heat, whereas true paprika prioritizes colour and a sweet or smoky flavour over spiciness. Therefore, paprika should not be used interchangeably with regular chilli powder when the intent is to add heat.

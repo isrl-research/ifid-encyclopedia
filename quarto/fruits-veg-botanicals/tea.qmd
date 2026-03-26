@@ -1,0 +1,24 @@
+---
+title: "Tea"
+slug: tea
+category: "Fruits, Veg & Botanicals"
+category-slug: fruits-veg-botanicals
+keywords: ["Camellia sinensis", "Chai", "Masala Chai", "Instant Tea", "Indian Tea", "Assam Tea", "Darjeeling Tea"]
+description: "Tea, derived from the leaves of the Camellia sinensis plant, holds a profound historical and cultural significance in India, despite its origins tracing back..."
+---
+
+## History and Sourcing
+
+Tea, derived from the leaves of the Camellia sinensis plant, holds a profound historical and cultural significance in India, despite its origins tracing back to ancient China. While indigenous tea varieties were known in Assam, large-scale cultivation and popularisation in India were spearheaded by the British in the 19th century, primarily to counter China's monopoly. Major tea-growing regions in India include Assam, renowned for its robust, malty black teas; Darjeeling, famous for its delicate, muscatel-flavoured varieties; and the Nilgiri Hills in South India, producing fragrant and brisk teas. The word "chai," widely used across India, is derived from the Mandarin Chinese word 'chá', reflecting its deep linguistic and historical roots.
+
+## Home Kitchen Use
+
+In Indian homes, tea is an indispensable part of daily life, often consumed multiple times a day. The most common preparation is "masala chai," a spiced milk tea brewed by simmering black tea leaves with milk, sugar, and a blend of aromatic spices like ginger, cardamom, cloves, and cinnamon. Beyond masala chai, black tea is enjoyed plain, with lemon, or as a refreshing iced beverage. Tea is central to Indian hospitality, offered to guests as a gesture of welcome, and serves as a social lubricant, fostering conversations in homes, offices, and countless roadside stalls (dhabas).
+
+## Industrial Applications
+
+The industrial landscape of tea in India has evolved to meet modern demands for convenience and consistency. Instant tea, a soluble powder, is widely used in vending machines, ready-to-drink formulations, and for quick home preparation, offering a consistent flavour profile without the need for brewing leaves. Similarly, "chai tea powder" represents a pre-mixed, often sweetened and spiced, instant version of masala chai, catering to consumers seeking rapid preparation. These processed forms are integral to the FMCG sector, appearing in various packaged beverages, health drinks, and even tea-flavoured confectionery, valued for their ease of use and extended shelf life.
+
+## Distinctions and Common Confusion
+
+A common point of confusion, particularly in Western contexts, is the term "chai tea," which is redundant as "chai" itself means tea. In India, "chai" inherently refers to tea, most often the spiced milk variety. It is crucial to distinguish between traditional tea leaves, which require brewing, and instant tea or chai tea powder, which are processed for immediate dissolution. While traditional tea offers a nuanced flavour profile developed through steeping, instant and powdered forms prioritise speed and convenience, often with a more uniform, albeit less complex, taste. These are also distinct from herbal infusions or tisanes, which do not contain leaves from the Camellia sinensis plant.

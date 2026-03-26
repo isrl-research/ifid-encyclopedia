@@ -1,0 +1,24 @@
+---
+title: "Pea Protein"
+slug: pea-protein
+category: "Staples (Grains/Dals)"
+category-slug: staples
+keywords: ["Pea protein", "plant-based protein", "protein isolate", "vegan", "functional ingredient", "Pisum sativum", "meat alternatives"]
+description: "Pea protein is a modern ingredient derived from the common garden pea (Pisum sativum), known as 'matar' in Hindi"
+---
+
+## History and Sourcing
+
+Pea protein is a modern ingredient derived from the common garden pea (Pisum sativum), known as 'matar' in Hindi. While peas have a rich history in Indian agriculture and cuisine, cultivated for millennia as a staple pulse across the subcontinent, the industrial extraction of pea protein is a contemporary development. [Peas](../fruits-veg-botanicals/peas.qmd) are grown extensively in states like Uttar Pradesh, Madhya Pradesh, and Bihar. The process involves milling dried peas into flour, then separating the protein from starch and fiber through wet processing, yielding a concentrated protein powder, leveraging the pea's inherent nutritional value.
+
+## Home Kitchen Use
+
+In traditional Indian home kitchens, the whole pea, fresh or dried, is a beloved ingredient, featuring prominently in dishes like 'aloo matar' (potato and pea curry), 'matar paneer', 'ghugni' (a street food snack), and various 'dals'. However, pea protein in its powdered or isolated form is not part of conventional Indian culinary practices. Its adoption in home cooking is largely confined to modern, health-conscious households, where it is incorporated into smoothies, protein shakes, or used in experimental baking as a plant-based protein booster, reflecting global wellness trends.
+
+## Industrial Applications
+
+Pea protein has rapidly gained prominence in the Indian food industry, particularly within the burgeoning plant-based and functional food sectors. Its neutral flavour profile and excellent emulsifying and gelling properties make it a preferred choice for FMCG products. It is extensively used in plant-based meat alternatives (burgers, sausages), dairy-free yogurts and milks, protein bars, nutritional supplements, and gluten-free baked goods. Pea protein isolate, a more refined form with higher protein concentration (typically 80-90%) and minimal carbohydrates or fats, is valued for applications requiring high purity, such as clear protein beverages or formulations needing a clean taste and texture.
+
+## Distinctions and Common Confusion
+
+A common confusion arises between "pea protein" and "pea protein isolate." While both are derived from peas, pea protein generally refers to a less refined product, often containing more starch and fiber, with a protein content typically ranging from 50-70%. Pea protein isolate undergoes further processing to remove most non-protein components, resulting in a significantly higher protein percentage, more neutral taste, and smoother texture. It is crucial to distinguish these from whole peas, which are consumed as a vegetable or pulse. Pea protein is also often compared to other plant-based proteins like soy or rice protein, and animal-based whey protein, serving as a hypoallergenic and vegan alternative.

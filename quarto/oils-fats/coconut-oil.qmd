@@ -1,0 +1,24 @@
+---
+title: "Coconut Oil"
+slug: coconut-oil
+category: "Oils & Fats"
+category-slug: oils-fats
+keywords: ["Coconut oil", "South Indian cuisine", "Kerala", "Saturated fat", "Cooking oil", "Tempering", "Virgin coconut oil"]
+description: "Coconut oil, known as nariyal tel in Hindi and velichenna in Malayalam, is an ancient and integral part of India's culinary and cultural landscape, particula..."
+---
+
+## History and Sourcing
+
+[Coconut](../fruits-veg-botanicals/coconut.qmd) oil, known as nariyal tel in Hindi and velichenna in Malayalam, is an ancient and integral part of India's culinary and cultural landscape, particularly in the coastal regions. Derived from the mature kernels of the coconut palm (Cocos nucifera), its origins are deeply rooted in tropical Asia. In India, it is predominantly sourced from the southern states of Kerala, Tamil Nadu, Karnataka, and Andhra Pradesh, where the coconut palm thrives. Its historical use extends beyond cooking, featuring prominently in Ayurvedic medicine, traditional hair care, and religious rituals, underscoring its multifaceted heritage.
+
+## Home Kitchen Use
+
+In home kitchens, especially across South India, coconut oil is the quintessential cooking medium, prized for its distinct aroma and flavour. It is indispensable for tempering (tadka) curries, dals, and vegetable preparations, lending an authentic taste to dishes like avial, thoran, and various fish curries. Its high smoke point makes it suitable for deep-frying snacks such as banana chips and pazham pori, while its unique flavour profile is crucial for traditional stews, appams, and many Goan and Konkan delicacies. Beyond savoury dishes, it also finds its way into regional sweets and baked goods, imparting a rich, tropical essence.
+
+## Industrial Applications
+
+Industrially, coconut oil is a versatile ingredient in the FMCG sector. Its stability and textural properties make it a preferred fat in confectionery, bakery products like biscuits and cakes, and ice creams, contributing to desired mouthfeel and shelf life. Beyond food, it is a key component in numerous non-food applications, including cosmetics, soaps, and hair oils, where its moisturizing and emollient properties are highly valued. The pharmaceutical and nutraceutical industries also utilize coconut oil, particularly virgin coconut oil, for its perceived health benefits.
+
+## Distinctions and Common Confusion
+
+Consumers often encounter coconut oil in both its liquid and solid states, which can sometimes lead to confusion. Unlike many other vegetable oils that remain liquid at room temperature, coconut oil, due to its high saturated fat content, solidifies below approximately 24°C. This natural characteristic distinguishes it from common polyunsaturated oils like sunflower or groundnut oil. It is also important to differentiate between virgin coconut oil (VCO), extracted without heat or chemicals, retaining more flavour and nutrients, and refined coconut oil, which is processed for a neutral taste and higher smoke point. This distinction is crucial for specific culinary and health applications.

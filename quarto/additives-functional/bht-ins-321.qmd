@@ -1,0 +1,24 @@
+---
+title: "BHT (INS 321)"
+slug: bht-ins-321
+category: "Additives & Functional"
+category-slug: additives-functional
+keywords: ["BHT", "Butylated Hydroxytoluene", "INS 321", "Antioxidant", "Food Additive", "Shelf Life", "Rancidity"]
+description: "Butylated Hydroxytoluene (BHT), identified by the International Numbering System (INS) as INS 321, is a synthetic phenolic compound primarily employed as an ..."
+---
+
+## History and Sourcing
+
+Butylated Hydroxytoluene (BHT), identified by the International Numbering System (INS) as INS 321, is a synthetic phenolic compound primarily employed as an antioxidant in the food industry. Developed in the mid-20th century, its introduction to India, like many other food additives, coincided with the growth of processed food manufacturing and the need for extended shelf life. As a chemical compound, BHT has no natural origin or traditional sourcing regions; it is manufactured through industrial synthesis. Its widespread adoption reflects a global shift towards more stable and commercially viable food products.
+
+## Home Kitchen Use
+
+Unlike traditional Indian culinary practices that rely on natural preservatives like salt, sugar, and spices, BHT finds no application in home kitchens or conventional cooking methods. Its role is strictly within the realm of industrial food processing, where precise control over ingredient stability is paramount. Therefore, one would not encounter BHT as a standalone ingredient in a typical Indian household pantry, nor is it part of any historical or regional Indian recipe.
+
+## Industrial Applications
+
+In industrial and modern food applications, BHT is a crucial additive for preventing oxidative degradation in fat-containing foods. Its primary function is to scavenge free radicals, thereby inhibiting the rancidification of oils and fats, which can lead to off-flavours and undesirable changes in texture and colour. This makes it invaluable in a wide array of Fast-Moving Consumer Goods (FMCG) products prevalent in the Indian market, including snack foods like namkeen and chips, breakfast cereals, baked goods such as biscuits and cakes, and certain edible oils. By extending the shelf life of these products, BHT plays a significant role in ensuring food safety and reducing waste across the supply chain.
+
+## Distinctions and Common Confusion
+
+Consumers often encounter BHT listed on ingredient labels and may confuse it with other additives or natural antioxidants. It is important to distinguish BHT as a synthetic antioxidant, chemically engineered for specific stability properties, from naturally occurring antioxidants like tocopherols (Vitamin E) or rosemary extract. While both serve to prevent oxidation, their origins and chemical structures differ. BHT is also distinct from other synthetic antioxidants like BHA (Butylated Hydroxyanisole, INS 320), though they often work synergistically. Its use is strictly regulated by food safety authorities, including in India, with prescribed limits to ensure consumer safety.

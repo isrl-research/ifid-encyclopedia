@@ -1,0 +1,24 @@
+---
+title: "Phosphoric Acid"
+slug: phosphoric-acid
+category: "Additives & Functional"
+category-slug: additives-functional
+keywords: ["Acidity Regulator", "Preservative", "Carbonated Drinks", "Cola", "Inorganic Acid", "Food Additive", "Sequestrant"]
+description: "Phosphoric acid (H₃PO₄) is an inorganic acid, a compound of phosphorus, oxygen, and hydrogen"
+---
+
+## History and Sourcing
+
+Phosphoric acid (H₃PO₄) is an inorganic acid, a compound of phosphorus, oxygen, and hydrogen. While not a traditional ingredient in Indian culinary heritage, its industrial synthesis dates back to the 18th century, with its widespread application in food processing becoming prominent in the 20th century. Unlike many food ingredients derived from agricultural sources, phosphoric acid is produced through industrial chemical processes, primarily from phosphate rock. Its global production is significant, driven by its diverse applications, including in fertilisers, detergents, and crucially, as a food additive.
+
+## Home Kitchen Use
+
+In Indian home kitchens and traditional cooking, phosphoric acid finds virtually no direct application. Traditional Indian cuisine relies on naturally occurring acids from ingredients like tamarind, kokum, lemon, and curd for flavour and preservation. Phosphoric acid's role is entirely within the realm of processed foods, where its specific chemical properties are leveraged for functional benefits that cannot be easily replicated by natural alternatives.
+
+## Industrial Applications
+
+Industrially, phosphoric acid is a key additive, primarily functioning as an acidity regulator and flavouring agent. It is most famously associated with carbonated soft drinks, particularly colas, where it imparts a sharp, tart taste and acts as a preservative by inhibiting the growth of mould and bacteria. Beyond beverages, it is used in some processed cheeses to modify protein structure and improve texture, and in certain baked goods as a leavening agent component. Its ability to chelate metal ions also makes it useful as a sequestrant in various food systems, preventing undesirable reactions.
+
+## Distinctions and Common Confusion
+
+Consumers often encounter phosphoric acid without fully understanding its distinct role compared to other food acids. While citric acid (from citrus fruits) and malic acid (from apples) provide a fruity tartness, phosphoric acid offers a cleaner, sharper, and more mineral-like acidity, which is characteristic of many cola beverages. It is important to distinguish it from "phosphates," which are salts derived from phosphoric acid and serve different functions, such as emulsifiers or leavening agents. Unlike naturally derived acids, phosphoric acid is a purely synthetic additive, yet it is generally recognised as safe (GRAS) for consumption within specified limits.

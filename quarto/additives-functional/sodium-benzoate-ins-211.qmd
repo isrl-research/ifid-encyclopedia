@@ -1,0 +1,24 @@
+---
+title: "Sodium Benzoate (INS 211)"
+slug: sodium-benzoate-ins-211
+category: "Additives & Functional"
+category-slug: additives-functional
+keywords: ["Sodium Benzoate", "INS 211", "Preservative", "Antimicrobial", "Food Additive", "Benzoic Acid", "Shelf Life Extension"]
+description: "Sodium Benzoate (INS 211) is the sodium salt of benzoic acid, a compound naturally found in various fruits and spices such as cranberries, prunes, apples, ci..."
+---
+
+## History and Sourcing
+
+[Sodium Benzoate (INS 211)](sodium-benzoate-ins-211.qmd) is the sodium salt of benzoic acid, a compound naturally found in various fruits and spices such as cranberries, prunes, apples, cinnamon, and cloves. Its preservative properties were first recognized in the late 19th century, leading to its synthetic production for wider application. In India, while benzoic acid is inherent in some traditional ingredients, the use of purified sodium benzoate as an additive is a modern practice, regulated under the Food Safety and Standards Authority of India (FSSAI) guidelines. Its chemical structure allows it to inhibit microbial growth, making it a valuable tool in food preservation.
+
+## Home Kitchen Use
+
+In traditional Indian home kitchens, sodium benzoate is not an ingredient directly added by cooks. However, the natural presence of benzoic acid in certain fruits and spices contributes to the inherent shelf-stability of some homemade preparations. For instance, pickles and chutneys made with ingredients like raw mangoes or specific spices might naturally contain benzoic acid, which aids in their preservation alongside other methods like oil, salt, and sugar. Its role in home cooking is therefore indirect, stemming from the natural chemistry of ingredients rather than deliberate addition.
+
+## Industrial Applications
+
+Industrially, [Sodium Benzoate (INS 211)](sodium-benzoate-ins-211.qmd) is a widely utilized antimicrobial preservative, particularly effective in acidic food and beverage products. Its primary function is to inhibit the growth of yeasts, molds, and certain bacteria, thereby extending the shelf life of packaged goods. It is commonly found in carbonated soft drinks, fruit juices, jams, jellies, pickles, sauces, and various processed foods. Its efficacy in preventing spoilage makes it a cost-effective and essential additive for the FMCG sector in India, ensuring product safety and stability across diverse climatic conditions.
+
+## Distinctions and Common Confusion
+
+Consumers often encounter [Sodium Benzoate (INS 211)](sodium-benzoate-ins-211.qmd) without fully understanding its function or potential concerns. It is crucial to distinguish it from other preservatives like sorbates or sulfites, as sodium benzoate is most effective in acidic environments (pH below 4.5). A common point of confusion and concern arises from its interaction with ascorbic acid (Vitamin C) in certain conditions, which can lead to the formation of benzene, a known carcinogen. However, regulatory bodies like FSSAI set strict limits on its usage, and manufacturers are mandated to ensure safe levels, often by avoiding its combination with Vitamin C or using alternative preservatives in such formulations.

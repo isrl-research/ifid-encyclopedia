@@ -1,0 +1,12 @@
+---
+title: "Proteins & Meats"
+listing:
+  contents: "*.qmd"
+  sort: "title asc"
+  type: table
+  fields: [title, description]
+  exclude:
+    slug: "proteins-meats"
+---
+
+*10 ingredients in this category.*

@@ -1,0 +1,24 @@
+---
+title: "Curd"
+slug: curd
+category: "Dairy & Alternatives"
+category-slug: dairy-alternatives
+keywords: ["Dahi", "Yogurt", "Fermented Milk", "Indian Cuisine", "Dairy", "Lassi", "Raita"]
+description: "Curd, known colloquially as *dahi* across India, is a staple fermented milk product deeply embedded in the subcontinent's culinary and cultural fabric"
+---
+
+## History and Sourcing
+
+Curd, known colloquially as *dahi* across India, is a staple fermented milk product deeply embedded in the subcontinent's culinary and cultural fabric. Its origins trace back millennia, with references found in ancient Vedic texts, highlighting its significance in early Indian diets and rituals. Traditionally, *dahi* is prepared by inoculating warm milk with a small amount of starter culture (previous day's curd), allowing lactic acid bacteria to ferment the lactose, resulting in a thick, tangy product. While milk from cows and buffaloes is most common, regional variations may use goat or sheep milk. Its widespread consumption makes it a ubiquitous presence in Indian households, transcending geographical and socio-economic boundaries.
+
+## Home Kitchen Use
+
+In home kitchens, curd is incredibly versatile. It is consumed plain, often sweetened with sugar or jaggery, or seasoned with salt and spices. It forms the base for refreshing beverages like *lassi* (sweet or savory yogurt drink) and *chaas* (spiced buttermilk). *Raita*, a cooling accompaniment to spicy meals, is made by whisking curd with vegetables or fruits and tempering it with spices. Curd is also a crucial ingredient in marinades, tenderizing meats and paneer, and enriching the texture and flavor of various curries, particularly in North Indian and Gujarati cuisines, such as *kadhi*. Its cooling properties are also valued, especially during hot Indian summers.
+
+## Industrial Applications
+
+Industrially, curd, often marketed as "yogurt" or "dahi," is produced on a large scale, offering consistent quality and extended shelf life. Beyond direct consumption, it finds extensive application in the FMCG sector. Commercial yogurt is a base for probiotic drinks, frozen desserts, dips, and salad dressings. The powdered form, "yogurt powder," is a modern innovation used in convenience foods, snack seasonings, dry mixes, and as a dairy solid in processed foods where the texture and tang of curd are desired without the moisture content of fresh product. This allows for shelf-stable products and specific flavor profiles in items like savory snack coatings or instant curry mixes.
+
+## Distinctions and Common Confusion
+
+Consumers often use "curd," "dahi," and "yogurt" interchangeably, though subtle distinctions exist. In India, "dahi" typically refers to the traditional, often home-set, fermented milk, which can vary in tanginess and consistency. "Yogurt," while technically a synonym, often implies a commercially produced product, sometimes with specific probiotic strains, added flavors, or sweeteners, aligning more with Western dairy product definitions. "Yogurt powder," however, is distinct from both; it is a dehydrated form of yogurt, primarily used for its flavor and functional properties in processed foods, and generally lacks the live active cultures found in fresh curd or yogurt.

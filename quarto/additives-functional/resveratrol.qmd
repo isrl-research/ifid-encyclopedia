@@ -1,0 +1,24 @@
+---
+title: "Resveratrol"
+slug: resveratrol
+category: "Additives & Functional"
+category-slug: additives-functional
+keywords: ["Resveratrol", "Polyphenol", "Antioxidant", "Grapes", "Supplements", "Functional Ingredient", "Anti-aging"]
+description: "Resveratrol is a naturally occurring polyphenol, a type of plant compound known for its antioxidant properties"
+---
+
+## History and Sourcing
+
+[Resveratrol](resveratrol.qmd) is a naturally occurring polyphenol, a type of plant compound known for its antioxidant properties. It gained significant attention in the late 20th century, particularly in connection with the 'French Paradox'—the observation that the French population, despite a diet rich in saturated fats, exhibited lower rates of heart disease, attributed partly to moderate red wine consumption. While not indigenous to India, the botanical sources of resveratrol, such as grapes (especially the skin and seeds), mulberries, cranberries, and peanuts, are widely cultivated and consumed across the subcontinent. Commercially, resveratrol is often extracted from Japanese knotweed (Polygonum cuspidatum) due to its high concentration.
+
+## Home Kitchen Use
+
+In traditional Indian home kitchens, resveratrol is not used as a standalone ingredient. Instead, it is consumed indirectly through the regular intake of its natural sources. Grapes are enjoyed fresh or as raisins, mulberries are seasonal fruits, and peanuts are a staple snack and cooking oil source. These foods, integral to various regional cuisines, contribute to the dietary intake of this beneficial compound, albeit in varying and often lower concentrations compared to concentrated supplements. Its presence is a testament to the inherent nutritional value of a diverse, plant-rich diet.
+
+## Industrial Applications
+
+Industrially, resveratrol is primarily utilized as a functional ingredient in dietary supplements, often marketed for its purported anti-aging, cardiovascular, and anti-inflammatory benefits. It is available in capsule or powder form, sometimes combined with other antioxidants. Beyond supplements, it finds application in the nutraceutical sector, incorporated into functional foods and beverages like fortified juices or health drinks. Its antioxidant properties also make it a sought-after ingredient in the cosmetic industry, where it is included in skincare products for its potential to protect against oxidative stress and promote skin health.
+
+## Distinctions and Common Confusion
+
+A common point of confusion surrounding resveratrol in the Indian market, often fueled by marketing, is the perception of it as a singular 'miracle cure' for various ailments. While research into its health benefits is promising and ongoing, particularly in in-vitro and animal studies, its efficacy and optimal dosage in humans for specific health outcomes are still being established. It is crucial to distinguish between consuming resveratrol through whole foods, which offer a spectrum of nutrients and synergistic compounds, and relying solely on isolated supplements. It is not a substitute for a balanced diet and healthy lifestyle, nor should it be conflated with other general antioxidant supplements without understanding its specific mechanisms and sources.

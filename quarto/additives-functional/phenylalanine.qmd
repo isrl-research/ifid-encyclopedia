@@ -1,0 +1,24 @@
+---
+title: "Phenylalanine"
+slug: phenylalanine
+category: "Additives & Functional"
+category-slug: additives-functional
+keywords: ["Essential amino acid", "Protein building block", "Aspartame component", "Phenylketonuria (PKU)", "Dietary supplement", "Nutrient", "Protein-rich foods"]
+description: "Phenylalanine is an essential alpha-amino acid, a fundamental building block of proteins that the human body cannot synthesize on its own and must be acquire..."
+---
+
+## History and Sourcing
+
+[Phenylalanine](phenylalanine.qmd) is an essential alpha-amino acid, a fundamental building block of proteins that the human body cannot synthesize on its own and must be acquired through diet. First isolated in 1881 from lupin seedlings by Schulze and Barbieri, its significance as a vital nutrient has been recognized globally. In India, while not a cultivated crop, phenylalanine is naturally abundant in a wide array of traditional protein sources, including various dals (lentils), milk and dairy products, nuts, seeds, and meats, forming an integral part of the balanced Indian diet. Its presence is inherent to these foods rather than being a separately sourced ingredient.
+
+## Home Kitchen Use
+
+In the context of Indian home kitchens and traditional cooking, phenylalanine is not used as a standalone ingredient or additive. Instead, it is consumed naturally as a constituent of protein-rich foods. Traditional Indian culinary practices, which emphasize a diverse intake of legumes, grains, dairy, and vegetables, inherently ensure a sufficient supply of this essential amino acid. Dishes like dal, paneer curries, and various nut-based preparations contribute significantly to dietary phenylalanine intake without conscious addition.
+
+## Industrial Applications
+
+Industrially, phenylalanine holds significant importance, primarily as a precursor in the synthesis of various compounds and as a nutritional supplement. Its most prominent modern application in the food industry is as a key component of [Aspartame](../sweeteners/aspartame.qmd), an artificial sweetener widely used in diet beverages, sugar-free chewing gums, and various low-calorie food products. Beyond sweeteners, it is also utilized in dietary supplements, particularly those aimed at athletes or individuals with specific nutritional requirements, and in fortified food products to enhance their protein profile.
+
+## Distinctions and Common Confusion
+
+A critical distinction associated with phenylalanine, particularly in modern food labeling, relates to the metabolic disorder Phenylketonuria (PKU). Individuals with PKU lack the enzyme necessary to metabolize phenylalanine, leading to its toxic accumulation. Consequently, products containing [Aspartame](../sweeteners/aspartame.qmd), which is a dipeptide of aspartic acid and phenylalanine, are legally mandated to carry a warning: "Phenylketonurics: Contains [Phenylalanine](phenylalanine.qmd)." This alerts consumers with PKU to avoid such products, highlighting a crucial health-related differentiation rather than a culinary or processing one.

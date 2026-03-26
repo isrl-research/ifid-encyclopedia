@@ -1,0 +1,24 @@
+---
+title: "Barley"
+slug: barley
+category: "Staples (Grains/Dals)"
+category-slug: staples
+keywords: ["Barley", "Yava", "Malt", "Sattu", "Grains", "Brewing", "Ayurvedic"]
+description: "Barley, known in Sanskrit as *yava*, is one of the oldest cultivated grains globally, with its origins tracing back to the Fertile Crescent over 10,000 years..."
+---
+
+## History and Sourcing
+
+[Barley](barley.qmd), known in Sanskrit as *yava*, is one of the oldest cultivated grains globally, with its origins tracing back to the Fertile Crescent over 10,000 years ago. Its introduction to the Indian subcontinent is ancient, predating wheat and rice in many regions, and it holds significant mention in Vedic texts and Ayurvedic medicine for its cooling and nourishing properties. Historically, *yava* was a staple grain, particularly in drier regions. Today, major barley-producing states in India include Rajasthan, Uttar Pradesh, Madhya Pradesh, and Haryana, where it is primarily grown as a winter crop.
+
+## Home Kitchen Use
+
+In traditional Indian home kitchens, barley's direct consumption as a staple grain has diminished compared to wheat or rice, yet it retains a niche. It is famously used to prepare *sattu*, a nutritious roasted flour consumed with water or milk, especially in Bihar and Uttar Pradesh. [Barley](barley.qmd) *dalia* (porridge) is a common health food, often consumed for its fiber content. Barley water, a simple decoction, is a traditional remedy for hydration and digestive ailments. While less common now, barley flour was historically used to make *rotis* in certain communities, particularly during times of scarcity or for specific dietary needs.
+
+## Industrial Applications
+
+Industrially, barley finds extensive application, primarily through malting. Malted barley, produced by controlled germination and drying, is a cornerstone of the brewing industry, essential for producing beer and certain whiskies. Malted barley flour is valued in the baking industry for its enzymatic activity, which aids in dough conditioning, improves crust colour, and enhances flavour in breads and other baked goods. Malted barley extracted solids serve as a natural sweetener and flavour enhancer in a wide array of FMCG products, including breakfast cereals, malted milk beverages (like Horlicks and Bournvita), and confectionery, contributing a distinctive malty note.
+
+## Distinctions and Common Confusion
+
+Consumers often encounter barley in various forms, leading to some confusion. It is crucial to distinguish between raw or pearled barley and malted barley. Raw barley, often sold as whole grains or pearled (with the outer husk removed), is primarily used for direct culinary applications like soups, stews, or as a grain side. Malted barley, however, has undergone a controlled germination process that develops enzymes and sugars, making it ideal for brewing and as a functional ingredient in processed foods. Similarly, barley flour (from unmalted grain) is a simple flour, while malted barley flour is specifically used for its enzymatic properties in baking, not as a primary flour for *rotis*.

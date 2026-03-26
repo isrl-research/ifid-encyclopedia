@@ -1,0 +1,24 @@
+---
+title: "Ferrous Sulphate"
+slug: ferrous-sulphate
+category: "Additives & Functional"
+category-slug: additives-functional
+keywords: ["Iron supplement", "Food fortification", "Anemia", "Ferrous salt", "Encapsulated iron", "Mineral additive", "Nutritional supplement"]
+description: "Ferrous Sulphate (FeSO₄) is an inorganic iron salt, historically linked to broader medicinal uses of iron compounds across cultures, including traditional In..."
+---
+
+## History and Sourcing
+
+[Ferrous Sulphate](ferrous-sulphate.qmd) (FeSO₄) is an inorganic iron salt, historically linked to broader medicinal uses of iron compounds across cultures, including traditional Indian systems for addressing weakness. Unlike agricultural products, it is primarily manufactured through chemical synthesis, often as a byproduct of steel production. Its significant presence in India is largely due to public health initiatives focused on combating iron deficiency anemia.
+
+## Home Kitchen Use
+
+Ferrous sulphate is not a direct culinary ingredient in traditional Indian home kitchens, as it offers no flavour, aroma, or textural contribution. Its 'culinary' role is indirect, primarily through its inclusion in fortified staple foods like atta (wheat flour) or salt. These fortified products are then used in daily cooking, delivering essential iron without altering the sensory characteristics of the prepared dishes.
+
+## Industrial Applications
+
+Industrially, ferrous sulphate is vital for the food and pharmaceutical sectors. It is a highly bioavailable iron source, widely used in dietary supplements and for fortifying processed foods such as cereals, infant formulas, and beverages to combat iron deficiency anemia in India. Encapsulated ferrous sulphate is a technological variant where the salt is coated, masking metallic taste, minimizing interactions with other food components, and enhancing stability and bioavailability in complex food matrices, making it suitable for sensitive applications like fortified milk or snack foods.
+
+## Distinctions and Common Confusion
+
+Consumers often encounter ferrous sulphate in fortified foods or as a supplement, which can lead to confusion with other iron compounds or general dietary iron. Ferrous sulphate is a specific iron salt, distinct from other fortificants like ferrous fumarate or ferric pyrophosphate, which vary in bioavailability, sensory impact, and cost. The encapsulated form is the same chemical compound, but processed to improve its functional properties within food systems, offering advantages like reduced oxidation and enhanced palatability over its unencapsulated form.

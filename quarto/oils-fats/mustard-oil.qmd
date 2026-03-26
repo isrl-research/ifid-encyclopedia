@@ -1,0 +1,24 @@
+---
+title: "Mustard Oil"
+slug: mustard-oil
+category: "Oils & Fats"
+category-slug: oils-fats
+keywords: ["Mustard oil", "Sarson ka tel", "Pungent oil", "Indian cooking", "Cold-pressed", "Traditional oil", "Pickling", "Bengali cuisine"]
+description: "Mustard oil, or 'Sarson ka Tel', has ancient Indian roots in both cuisine and medicine"
+---
+
+## History and Sourcing
+
+[Mustard](../spices-seasonings/mustard.qmd) oil, or 'Sarson ka Tel', has ancient Indian roots in both cuisine and medicine. Derived from *Brassica juncea* or *Brassica rapa*, it is primarily cultivated in Rajasthan, Uttar Pradesh, Haryana, and West Bengal. Traditional cold-pressing ('kachchi ghani') methods are used to extract the oil, preserving its characteristic pungent flavour and nutritional value.
+
+## Home Kitchen Use
+
+A staple in North and East Indian home cooking, mustard oil is essential for tempering dals, deep-frying, and as a base for pickles and chutneys. Its robust, pungent flavour defines dishes like Bengali Macher Jhol and Punjabi Sarson ka Saag. It is also used raw in salads and marinades, particularly in Bengali cuisine, and its high smoke point suits various cooking methods.
+
+## Industrial Applications
+
+In the Indian FMCG sector, mustard oil is specifically used in traditional pickles, savouries, and regional snacks where its unique pungency is desired. Beyond food, it is valued in traditional Indian practices for body massages, hair oil, and Ayurvedic remedies due to its perceived warming and therapeutic properties.
+
+## Distinctions and Common Confusion
+
+The most traditional form is 'kachchi ghani' (cold-pressed) mustard oil, known for its strong pungency from allyl isothiocyanate. This differs from less common refined mustard oil, which has reduced pungency. It is crucial to distinguish mustard oil from neutral vegetable oils like sunflower or soy oil, as its unique flavour is integral to many regional Indian dishes and not interchangeable.

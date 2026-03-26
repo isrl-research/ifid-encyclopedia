@@ -1,0 +1,24 @@
+---
+title: "Cocoa Butter Equivalent"
+slug: cocoa-butter-equivalent
+category: "Oils & Fats"
+category-slug: oils-fats
+keywords: ["Confectionery Fat", "Vegetable Fat Blend", "Chocolate Compound", "Fat Bloom Prevention", "Sal Fat", "Kokum Fat", "Mango Kernel Fat"]
+description: "Cocoa Butter Equivalent (CBE) refers to a class of vegetable fats specifically formulated to possess physical and chemical properties similar to natural coco..."
+---
+
+## History and Sourcing
+
+[Cocoa Butter Equivalent](cocoa-butter-equivalent.qmd) (CBE) refers to a class of vegetable fats specifically formulated to possess physical and chemical properties similar to natural cocoa butter, particularly its melting profile and crystallization behaviour. While not indigenous to India, the concept of CBE emerged globally in response to the high cost and supply volatility of cocoa butter. In India, CBEs are often manufactured using a blend of fats, some of which are sourced locally, such as sal fat, kokum fat, and mango kernel fat, alongside imported fats like shea butter and palm fractions. This strategic blending allows for the creation of a fat with a sharp melting point just below body temperature, mimicking the desirable "snap" and "melt-in-the-mouth" sensation of chocolate.
+
+## Home Kitchen Use
+
+In traditional Indian home cooking, [Cocoa Butter Equivalent](cocoa-butter-equivalent.qmd) is not used as a standalone ingredient. Its application is almost exclusively within the industrial food sector. Home cooks might encounter it indirectly as an ingredient in store-bought confectionery, but it does not feature in traditional Indian culinary practices like tempering, frying, or sweet making, which typically rely on ghee, mustard oil, or coconut oil.
+
+## Industrial Applications
+
+Industrially, CBEs are indispensable in the Indian confectionery and bakery sectors. They are widely used in the production of compound chocolates, chocolate coatings for biscuits and ice creams, and various filled confectionery products. Their precise melting characteristics make them ideal for achieving desired textures, preventing fat bloom (a common defect in chocolate where fats migrate to the surface), and extending shelf life, especially in India's warm climate. The ability to tailor CBEs to specific functional requirements, such as improved heat resistance or faster crystallization, makes them a versatile and cost-effective alternative to pure cocoa butter for large-scale manufacturing.
+
+## Distinctions and Common Confusion
+
+A common point of confusion arises from the term "[Cocoa Butter Equivalent](cocoa-butter-equivalent.qmd)" itself, as consumers often conflate it with actual cocoa butter. The critical distinction lies in their origin and composition: cocoa butter is the natural fat extracted directly from the cocoa bean, whereas CBEs are engineered blends of other vegetable fats. Indian food regulations (FSSAI) permit the use of up to 5% CBE in products labelled as "chocolate"; exceeding this limit typically requires the product to be termed a "compound coating" or "chocolatey product," indicating a different fat profile. This distinction is crucial for understanding the sensory experience, nutritional profile, and cost of confectionery items, as CBEs generally offer a different flavour release and mouthfeel compared to pure cocoa butter, and are also distinct from hydrogenated vegetable fats like Vanaspati, which serve a broader shortening purpose.

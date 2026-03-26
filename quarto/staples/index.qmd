@@ -1,0 +1,12 @@
+---
+title: "Staples (Grains/Dals)"
+listing:
+  contents: "*.qmd"
+  sort: "title asc"
+  type: table
+  fields: [title, description]
+  exclude:
+    slug: "staples"
+---
+
+*41 ingredients in this category.*

@@ -1,0 +1,24 @@
+---
+title: "DHA"
+slug: dha
+category: "Additives & Functional"
+category-slug: additives-functional
+keywords: ["DHA", "Omega-3", "Docosahexaenoic Acid", "Algal Oil", "Fish Oil", "Functional Food", "Nutritional Supplement"]
+description: "Docosahexaenoic Acid (DHA) is a crucial long-chain omega-3 fatty acid, vital for human health, particularly brain and eye development"
+---
+
+## History and Sourcing
+
+Docosahexaenoic Acid (DHA) is a crucial long-chain omega-3 fatty acid, vital for human health, particularly brain and eye development. While not historically recognized as a distinct ingredient in traditional Indian culinary texts, its presence has been integral to diets rich in marine life. Historically, coastal communities in India, consuming fatty fish like mackerel, sardines, and pomfret, would have naturally ingested significant amounts of [DHA](dha.qmd). The modern understanding and isolation of DHA as a functional ingredient are relatively recent, stemming from advancements in nutritional science. Today, the primary sources for industrial DHA are fatty fish oils and, increasingly, microalgae (such as *Schizochytrium* and *Crypthecodinium cohnii*), which are the original producers of DHA in the marine food chain.
+
+## Home Kitchen Use
+
+In traditional Indian home cooking, [DHA](dha.qmd) is not added as a standalone ingredient. Instead, it is consumed indirectly through the inclusion of fish in regional cuisines, especially in coastal states like Kerala, Goa, West Bengal, and Odisha. [Fish](../proteins-meats/fish.qmd) curries, fries, and stews are common preparations that naturally deliver DHA. For vegetarian households, while plant-based omega-3s like Alpha-Linolenic Acid (ALA) from flaxseeds or walnuts are consumed, direct dietary sources of DHA are scarce, making supplementation or fortified foods a modern consideration.
+
+## Industrial Applications
+
+Industrially, [DHA](dha.qmd) has become a cornerstone of functional food development and the nutraceutical sector in India. It is widely incorporated into infant formulas to support neurological and visual development, reflecting its critical role in early life. Beyond infancy, DHA is a popular ingredient in fortified dairy products (milk, yogurt), juices, breakfast cereals, and a vast array of dietary supplements targeting cognitive health, cardiovascular well-being, and maternal nutrition. The availability of "vegan DHA," derived from microalgae, has expanded its application to plant-based food products and caters to a growing demographic of vegetarian and vegan consumers.
+
+## Distinctions and Common Confusion
+
+A common point of confusion arises from the sourcing of [DHA](dha.qmd). Consumers often differentiate between DHA derived from fish oil and "vegan DHA" sourced from microalgae. While both forms are chemically identical docosahexaenoic acid, their origins are distinct. [Fish](../proteins-meats/fish.qmd) oil DHA is extracted from fatty fish, whereas vegan DHA is cultivated directly from algae, offering a sustainable and animal-free alternative. This distinction is crucial for dietary preferences and addresses concerns regarding potential contaminants (like heavy metals) sometimes associated with fish, as well as the characteristic fishy aftertaste often present in fish oil supplements. DHA should also not be conflated with other omega-3 fatty acids like EPA (Eicosapentaenoic Acid) or ALA (Alpha-Linolenic Acid), though they are often found together and share related health benefits.

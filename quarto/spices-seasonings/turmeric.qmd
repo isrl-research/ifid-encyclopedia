@@ -1,0 +1,24 @@
+---
+title: "Turmeric"
+slug: turmeric
+category: "Spices & Seasonings"
+category-slug: spices-seasonings
+keywords: ["Turmeric", "Haldi", "Curcumin", "Spice", "Rhizome", "Indian Cuisine", "Ayurvedic", "Coloring", "Seasoning"]
+description: "Turmeric, known universally in India as *Haldi*, is a revered spice derived from the rhizome of the *Curcuma longa* plant, a member of the ginger family"
+---
+
+## History and Sourcing
+
+Turmeric, known universally in India as *Haldi*, is a revered spice derived from the rhizome of the *Curcuma longa* plant, a member of the ginger family. Its origins trace back thousands of years to the Indian subcontinent and Southeast Asia, where it has been integral to Ayurvedic medicine, religious rituals, and culinary traditions. The Sanskrit term *haridra* highlights its golden hue, a characteristic that has made it a symbol of auspiciousness. Today, India remains the world's largest producer and consumer of turmeric, with major cultivation concentrated in states like Andhra Pradesh, Telangana, Maharashtra, Tamil Nadu, and Karnataka, where the tropical climate supports its growth.
+
+## Home Kitchen Use
+
+In Indian home kitchens, turmeric is an indispensable ingredient, celebrated for its vibrant yellow-orange colour, earthy aroma, and slightly bitter, pungent flavour. It is a foundational element in virtually every curry, dal, and vegetable preparation, often added at the tempering (tadka) stage to infuse oils with its essence. The whole, dried rhizome is traditionally used in pickles or ground fresh for specific recipes, while the more common powdered form is a daily staple, valued not only for flavour and colour but also for its preservative qualities. Beyond cooking, *haldi doodh* (turmeric milk) is a popular traditional remedy for its perceived health benefits.
+
+## Industrial Applications
+
+Industrially, turmeric finds extensive application across the food and beverage sector. Its powdered form is a key component in numerous spice blends, ready-to-eat meals, and snack seasonings, contributing both flavour and a natural golden hue. Turmeric extracts, particularly curcumin (INS 100), are highly valued as natural food colourants, antioxidants, and functional ingredients in dietary supplements, cosmetics, and pharmaceuticals. Roasted turmeric powder is sometimes used to impart a deeper, more complex flavour profile in specific snack formulations or spice mixes, showcasing its versatility beyond basic seasoning.
+
+## Distinctions and Common Confusion
+
+Consumers often encounter turmeric in various forms, leading to some confusion. The term "turmeric" generally refers to the dried, ground powder, which is the most common culinary form. This is distinct from the "turmeric whole," which refers to the raw or dried rhizome itself, often used for pickling or fresh grinding. "Turmeric extracts" are concentrated forms, primarily curcumin, used for specific industrial applications or supplements. It is crucial to distinguish these forms from common misspellings like "tumeric" or "turmeris." While its bright yellow colour might evoke comparisons to saffron, turmeric is functionally and economically distinct, serving as a foundational spice rather than a delicate flavouring agent.

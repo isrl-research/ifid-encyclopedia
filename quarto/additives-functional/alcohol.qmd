@@ -1,0 +1,24 @@
+---
+title: "Alcohol"
+slug: alcohol
+category: "Additives & Functional"
+category-slug: additives-functional
+keywords: ["Ethanol", "Fermentation", "Solvent", "Preservative", "Flavour carrier", "Ayurvedic", "Food additive"]
+description: "Alcohol, specifically ethyl alcohol or ethanol, is a compound with a rich and complex history, deeply intertwined with human culture and sustenance"
+---
+
+## History and Sourcing
+
+[Alcohol](alcohol.qmd), specifically ethyl alcohol or ethanol, is a compound with a rich and complex history, deeply intertwined with human culture and sustenance. Its origins in India trace back millennia, primarily through fermented beverages like Sura, Arishtas, and Asavas, which were not only consumed for pleasure but also held significant roles in religious rituals and Ayurvedic medicine as potent solvents and carriers for herbal extracts. The term 'alcohol' itself is derived from Arabic, reflecting its historical journey and scientific understanding. Industrially, ethanol is primarily produced through the fermentation of sugars derived from grains (like rice, maize), fruits, or molasses, making its sourcing diverse and widespread across agricultural regions.
+
+## Home Kitchen Use
+
+In traditional Indian home kitchens, the direct culinary use of alcohol as an ingredient is less prevalent compared to Western cuisines, largely due to cultural and religious considerations. However, its presence is not entirely absent. It can be found in some regional specialties, often as a flavour enhancer or a tenderizer in marinades, or in the preservation of fruits, such as rum-soaked raisins for festive desserts. Historically, its role was more pronounced in the preparation of medicinal tinctures and extracts, where its solvent properties were invaluable for drawing out beneficial compounds from herbs and spices.
+
+## Industrial Applications
+
+Modern industrial food applications leverage alcohol primarily for its functional properties. It serves as an excellent solvent for a vast array of flavour extracts (e.g., vanilla, almond), essential oils, and food colours, ensuring their even dispersion in products. Furthermore, alcohol acts as a preservative in certain packaged foods, particularly in some baked goods, confectionery, and fruit preparations, by inhibiting microbial growth. It is also utilized as a carrier for food-grade aerosols and in glazes, contributing to texture and appearance in various FMCG products.
+
+## Distinctions and Common Confusion
+
+A common point of confusion in the Indian context often arises from the distinction between 'alcohol' as a food ingredient and as an alcoholic beverage. Food-grade alcohol (ethanol) used in processing is typically in small quantities, often evaporating during cooking or baking, leaving behind only the desired flavour or functional effect. This is distinct from the consumption of alcoholic drinks. Furthermore, it is crucial to differentiate ethanol from other types of alcohol, such as methanol or isopropyl alcohol, which are toxic and never used in food. Consumers should also note that some 'non-alcoholic' products may contain trace amounts of alcohol derived from natural fermentation processes or as a solvent in flavourings.

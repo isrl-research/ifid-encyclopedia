@@ -1,0 +1,24 @@
+---
+title: "Cranberry Juice"
+slug: cranberry-juice
+category: "Fruits, Veg & Botanicals"
+category-slug: fruits-veg-botanicals
+keywords: ["Cranberry", "Juice", "Concentrate", "Beverage", "Fruit", "Health Drink", "Tart"]
+description: "Cranberry juice, derived from the tart, red berries of the *Vaccinium macrocarpon* plant, is a relatively modern entrant into the Indian culinary landscape"
+---
+
+## History and Sourcing
+
+[Cranberry](cranberry.qmd) juice, derived from the tart, red berries of the *Vaccinium macrocarpon* plant, is a relatively modern entrant into the Indian culinary landscape. Native to North America, cranberries and their juice have no indigenous historical or linguistic roots in India. Their introduction and growing popularity are largely a result of globalization, increased awareness of Western health trends, and the expansion of international food and beverage markets. For the Indian market, cranberries are primarily sourced as frozen berries or, more commonly, as juice concentrate from major producing regions like the United States and Canada, due to the lack of significant domestic cultivation.
+
+## Home Kitchen Use
+
+In Indian home kitchens, cranberry juice is not a traditional ingredient for cooking but has found its niche as a contemporary beverage. Its distinctive tart and slightly bitter profile makes it a popular choice for refreshing drinks, often consumed chilled on its own or as a mixer in mocktails and cocktails. Some modern Indian households also incorporate it into smoothies, fruit punches, or occasionally as a tangy element in fusion desserts or marinades, reflecting an evolving palate and a globalized approach to ingredients.
+
+## Industrial Applications
+
+Industrially, cranberry juice, particularly in its concentrated form, is a significant ingredient in India's fast-moving consumer goods (FMCG) sector. [Cranberry](cranberry.qmd) juice concentrate (F-CONCENTRATE) is highly valued for its extended shelf life, reduced shipping costs, and ease of storage, making it ideal for large-scale production. It is widely used in the manufacture of ready-to-drink juices, fruit beverages, and health drinks, often blended with sweeter fruit juices to balance its inherent tartness. Beyond beverages, it finds application in processed foods like jams, jellies, sauces, and as a natural flavouring agent, frequently marketed for its perceived health benefits, particularly concerning urinary tract health.
+
+## Distinctions and Common Confusion
+
+A common point of confusion for Indian consumers lies in distinguishing between "cranberry juice" and "cranberry juice concentrate." While "cranberry juice" typically refers to the ready-to-drink product, which is often reconstituted from concentrate and may contain added water and sweeteners, "cranberry juice concentrate" is a more potent, dehydrated form of the juice. Many commercial cranberry juice products available in India are blends, combining cranberry with other fruit juices like apple or grape to enhance palatability and reduce tartness, rather than being 100% pure cranberry juice.

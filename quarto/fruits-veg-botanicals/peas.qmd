@@ -1,0 +1,24 @@
+---
+title: "Peas"
+slug: peas
+category: "Fruits, Veg & Botanicals"
+category-slug: fruits-veg-botanicals
+keywords: ["Peas", "Matar", "Green Peas", "Legume", "Indian Cuisine", "Dehydrated Peas", "Pisum sativum"]
+description: "Peas, botanically known as *Pisum sativum*, are one of the oldest cultivated legumes, with archaeological evidence tracing their origins back to the Fertile ..."
+---
+
+## History and Sourcing
+
+[Peas](peas.qmd), botanically known as *Pisum sativum*, are one of the oldest cultivated legumes, with archaeological evidence tracing their origins back to the Fertile Crescent and the Mediterranean region over 10,000 years ago. Their journey into the Indian subcontinent is ancient, making them an integral part of traditional Indian agriculture and cuisine for millennia. In India, they are widely known as "matar" (Hindi, Marathi), "vatana" (Marathi), or "pattani" (Tamil). Major pea-growing states include Uttar Pradesh, Madhya Pradesh, Punjab, and Haryana, where they thrive in cooler seasons, contributing significantly to the winter harvest.
+
+## Home Kitchen Use
+
+In Indian home kitchens, green peas are celebrated for their versatility and sweet, earthy flavour. They are a staple ingredient, used extensively in a myriad of dishes. From the iconic Matar Paneer and Aloo Matar curries to flavourful Matar Pulao and as a key filling in popular snacks like samosas and kachoris, peas lend texture and taste. They are commonly added to vegetable stir-fries, mixed vegetable preparations, and even traditional Maharashtrian Usal. Whether fresh, frozen, or dried (which require soaking before cooking), peas are a beloved component of daily meals across diverse regional cuisines.
+
+## Industrial Applications
+
+Beyond home cooking, peas find significant application in the industrial food sector. Frozen green peas are a ubiquitous convenience product, ensuring year-round availability for consumers and food service. Dehydrated peas are a key ingredient in various processed foods, including instant soup mixes, ready-to-eat meals, and snack formulations (namkeen), valued for their extended shelf life and ease of rehydration. They are also a common component in pre-packaged vegetable mixes, catering to the demand for quick and easy meal solutions in modern urban lifestyles.
+
+## Distinctions and Common Confusion
+
+A common point of confusion arises from the various forms of peas available. In India, "peas" almost universally refers to *green peas* (*hara matar*), which are typically consumed fresh or frozen. These are distinct from *dried peas*, which can be either green or white (*safed matar*). Dried peas are mature peas that have been harvested and dried, requiring a longer soaking and cooking time compared to their fresh or frozen counterparts. While "matar" is a widely understood synonym for peas, it's important to differentiate between the tender, sweet green peas and the harder, starchier dried varieties used in different culinary contexts.

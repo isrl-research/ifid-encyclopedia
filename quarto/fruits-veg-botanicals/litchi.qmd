@@ -1,0 +1,24 @@
+---
+title: "Litchi"
+slug: litchi
+category: "Fruits, Veg & Botanicals"
+category-slug: fruits-veg-botanicals
+keywords: ["Litchi", "Lychee", "Fruit", "Pulp", "Canned", "Bihar", "Seasonal"]
+description: "Litchi (Litchi chinensis), commonly known as lychee, is a prized tropical fruit with an ancient lineage tracing back over two millennia to Southern China"
+---
+
+## History and Sourcing
+
+[Litchi](litchi.qmd) (Litchi chinensis), commonly known as lychee, is a prized tropical fruit with an ancient lineage tracing back over two millennia to Southern China. Its introduction to India occurred centuries ago, likely facilitated by historical trade routes, and it has since become an integral part of the Indian summer fruit landscape. The name "litchi" itself is a transliteration of its Chinese origin. In India, litchi cultivation flourishes in the subtropical regions, with Bihar, particularly the Muzaffarpur district, being the most prominent producer, celebrated globally for its exquisite 'Shahi' variety. Other significant growing states include West Bengal, Uttar Pradesh, Punjab, and Uttarakhand.
+
+## Home Kitchen Use
+
+In Indian home kitchens, litchi is predominantly savoured fresh during its brief summer season. Its distinctive rough, reddish-pink peel encases a translucent, succulent flesh that offers a unique sweet and subtly floral flavour. Beyond direct consumption, litchi is a popular ingredient for refreshing homemade beverages such as juices, milkshakes, and smoothies. It also finds its way into simple desserts like fruit salads, kulfi, and ice creams, imparting a delightful tropical sweetness. While not traditionally featured in savoury Indian cuisine, its unique profile makes it an appealing addition to contemporary fruit-based chutneys or preserves.
+
+## Industrial Applications
+
+The industrial food sector makes extensive use of litchi, primarily in its processed forms, to ensure year-round availability and consistent quality. [Litchi](litchi.qmd) pulp, often canned, is a fundamental ingredient for manufacturers of fruit juices, nectars, squashes, and various carbonated beverages. Its vibrant flavour and aromatic qualities are also highly valued in the production of jams, jellies, fruit yogurts, ice creams, and a range of confectionery items. The convenience and extended shelf life of canned litchi pulp or whole segments enable efficient integration into large-scale food production, providing a reliable flavour base for numerous FMCG products, from bakery fillings to dessert toppings.
+
+## Distinctions and Common Confusion
+
+A key distinction often arises between fresh litchi and its processed, canned pulp or segmented forms. Fresh litchi, available seasonally, offers a delicate, aromatic experience characterized by a firm yet succulent texture and a nuanced sweetness that is highly cherished. In contrast, canned litchi pulp, while retaining the characteristic flavour and sweetness, typically exhibits a softer texture and a slightly altered flavour profile due to the processing and preservation methods. While the fresh fruit is celebrated for its ephemeral seasonal charm, the canned pulp serves as a practical and consistent ingredient for industrial applications, extending the fruit's utility beyond its natural season.

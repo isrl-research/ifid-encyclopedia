@@ -1,0 +1,24 @@
+---
+title: "Sulphites"
+slug: sulphites
+category: "Additives & Functional"
+category-slug: additives-functional
+keywords: ["Sulphites", "Food Additive", "Preservative", "Dough Conditioner", "INS 223", "Allergen", "Antioxidant"]
+description: "Sulphites, a class of inorganic compounds containing the sulphite ion, have a long-standing history in food preservation, dating back to ancient Roman times ..."
+---
+
+## History and Sourcing
+
+[Sulphites](sulphites.qmd), a class of inorganic compounds containing the sulphite ion, have a long-standing history in food preservation, dating back to ancient Roman times where sulphur dioxide was used to fumigate wine vessels. Their introduction to India is primarily linked to the growth of the processed food industry and the import of ingredients and technologies. While not "sourced" in the agricultural sense, these compounds are industrially manufactured, often from sulphur dioxide gas, for their functional properties. Their name is derived directly from sulphur, a naturally occurring element.
+
+## Home Kitchen Use
+
+Unlike many traditional Indian ingredients, sulphites are not typically found or directly used in home kitchens. Their application is almost exclusively within industrial food processing. In traditional Indian culinary practices, there isn't a direct equivalent of adding sulphite compounds to dishes. Any historical use of sulphur-containing substances would have been in non-food contexts or highly specialized medicinal preparations, distinct from their modern role as food additives.
+
+## Industrial Applications
+
+In the modern Indian food industry, sulphites are indispensable functional additives. They are widely employed as preservatives, antioxidants, and bleaching agents. Sodium metabisulphite (INS 223) is a common example, used as a mineral dough conditioner and flour treatment agent, particularly in wheat-based products to improve dough elasticity and workability. Other forms, such as those designated by INS 923, also function as improvers in baked goods. Beyond dough conditioning, sulphites prevent enzymatic browning in cut fruits and vegetables, inhibit microbial growth in wines, beers, and fruit juices, and maintain the colour of dried fruits like apricots and raisins, making them crucial for extending shelf life and maintaining product appeal in FMCG goods.
+
+## Distinctions and Common Confusion
+
+A common point of confusion for consumers lies in understanding "sulphites" as a group of related compounds rather than a single entity. While often broadly referred to as 'sulphites', specific forms like sodium metabisulphite (INS 223) serve distinct functions, such as dough conditioning or bleaching, compared to sulphur dioxide itself. It's also important to distinguish them from other sulphur-containing compounds not used as food additives. Furthermore, sulphites are a declared allergen, and their presence, even in small amounts, must be clearly labelled on food products in India, leading to consumer awareness and sometimes apprehension about their use, despite their approved safety within regulatory limits.

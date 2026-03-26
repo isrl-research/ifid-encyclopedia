@@ -1,0 +1,24 @@
+---
+title: "Enzymes"
+slug: enzymes
+category: "Additives & Functional"
+category-slug: additives-functional
+keywords: ["Enzymes", "Protease", "Food Additives", "Biocatalyst", "Fermentation", "Food Technology", "INS 1102"]
+description: "Enzymes are biological catalysts, primarily proteins, that accelerate biochemical reactions without being consumed in the process"
+---
+
+## History and Sourcing
+
+[Enzymes](enzymes.qmd) are biological catalysts, primarily proteins, that accelerate biochemical reactions without being consumed in the process. While the term 'enzyme' is a modern scientific construct, their action has been integral to Indian culinary traditions for millennia, albeit unknowingly. Traditional processes like fermentation of idli and dosa batters, curd setting, and the tenderization of meat with raw papaya or pineapple rely on the natural enzymatic activity present in ingredients. Industrially, enzymes are typically sourced through microbial fermentation, offering a sustainable and efficient method for large-scale production.
+
+## Home Kitchen Use
+
+In the Indian home kitchen, enzymes are rarely added as isolated ingredients. Instead, their function is harnessed through traditional techniques. For instance, the proteolytic enzymes (like papain from papaya or bromelain from pineapple) are naturally present and used to tenderize tough cuts of meat in dishes like kebabs or curries. Similarly, the amylases and proteases naturally present in grains and legumes drive the fermentation of batters, contributing to the characteristic texture and flavour of staples like dhokla, appam, and various pickles.
+
+## Industrial Applications
+
+Modern food processing in India extensively utilizes enzymes as functional additives. In the FMCG sector, enzymes like amylases (e.g., INS 1104) are crucial in baking for improving dough rheology, crumb structure, and shelf-life of breads and biscuits. Proteases (P-VAR_PROTEASE), such as those approved under INS 1102, are employed to modify proteins, aiding in meat tenderization, improving the texture of dairy products, or clarifying beverages. [Lactase](lactase.qmd) enzymes are vital for producing lactose-free milk and dairy products, catering to a growing segment of consumers. [Enzymes](enzymes.qmd) also find application in fruit juice clarification, brewing, and the production of various processed foods, often contributing to desired textures, flavours, and processing efficiencies. Some enzyme preparations may also include stabilizers to maintain their activity and shelf-life.
+
+## Distinctions and Common Confusion
+
+A common point of confusion arises from the broad term 'enzymes' versus specific enzyme types. While 'enzymes' refers to the entire class of biological catalysts, 'proteases' specifically denote enzymes that break down proteins. Consumers might also perceive enzymes as synthetic chemicals, whereas most food-grade enzymes are natural proteins derived from microbial, plant, or animal sources, acting as highly specific processing aids rather than direct ingredients in the final product. Their function is to facilitate a reaction, often becoming inactive or denatured during cooking or processing.

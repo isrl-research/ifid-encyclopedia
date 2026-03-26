@@ -1,0 +1,24 @@
+---
+title: "Bengal Gram (Chana Dal)"
+slug: bengal-gram-chana-dal
+category: "Staples (Grains/Dals)"
+category-slug: staples
+keywords: ["Chana Dal", "Besan", "Chickpea", "Legume", "Pulse", "Indian Cuisine", "Gluten-free"]
+description: "Bengal Gram, widely known as Chana Dal, is a staple pulse in Indian cuisine, derived from the desi chickpea (Cicer arietinum)"
+---
+
+## History and Sourcing
+
+Bengal Gram, widely known as Chana Dal, is a staple pulse in Indian cuisine, derived from the desi chickpea (Cicer arietinum). Its origins trace back to ancient civilizations in the Middle East, with its cultivation spreading to India millennia ago, where it became deeply integrated into the agricultural and culinary landscape. The term "chana" is believed to be derived from the Sanskrit word "chanaka," while "Bengal Gram" reflects its historical prominence in the Bengal region. Today, India remains the largest producer and consumer of Bengal Gram, with major cultivation concentrated in states like Madhya Pradesh, Rajasthan, Maharashtra, and Uttar Pradesh, contributing significantly to the nation's protein security.
+
+## Home Kitchen Use
+
+In Indian home kitchens, Chana Dal is incredibly versatile. The split, skinned dal is a cornerstone for numerous dishes, from hearty dals and curries to South Indian specialties like sambar and vada. Its firm texture and nutty flavour make it ideal for tempering (tadka) and adding body to gravies. The flour derived from Bengal Gram, known as Besan, is equally indispensable. It forms the base for popular snacks like pakoras, dhokla, and cheela, and is a key ingredient in traditional sweets such as Mysore Pak and besan ladoo, prized for its binding properties and distinct aroma. Roasted forms, often referred to as 'daliya' or 'dalmoth', are consumed as nutritious snacks or used in tempering.
+
+## Industrial Applications
+
+Industrially, Bengal Gram and its derivatives are vital in the FMCG sector. Besan is extensively used as a thickener, binder, and emulsifier in a wide array of processed foods, including ready-to-eat snack mixes, extruded products, and gluten-free formulations, owing to its natural protein content and absence of gluten. Chana Dal is also processed into ready-to-cook dal mixes and instant meal solutions. Its flakes and grits find applications in breakfast cereals, snack bars, and as a functional ingredient in various food products, aligning with the growing demand for plant-based protein sources and natural ingredients.
+
+## Distinctions and Common Confusion
+
+Consumers often encounter confusion regarding the various forms of Bengal Gram. The primary distinction lies between "Bengal Gram" or "Chana Dal" (the split, skinned, yellow lentil) and the "whole chickpea," which can be either the larger, lighter-coloured Kabuli Chana or the smaller, darker Kala Chana (black chickpea). While all are from the chickpea family, their culinary applications and textures differ significantly. Furthermore, "Besan" is specifically the flour made from [Bengal Gram (Chana Dal)](bengal-gram-chana-dal.qmd), and should not be conflated with flours from other pulses, despite the generic term "gram flour" sometimes being used. Roasted forms like 'daliya' are simply processed versions of the split dal, offering a different texture and flavour profile.

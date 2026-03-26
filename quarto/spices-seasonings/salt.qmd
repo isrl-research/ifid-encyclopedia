@@ -1,0 +1,24 @@
+---
+title: "Salt"
+slug: salt
+category: "Spices & Seasonings"
+category-slug: spices-seasonings
+keywords: ["Sodium Chloride", "Namak", "Iodised Salt", "Rock Salt", "Sea Salt", "Seasoning", "Preservative"]
+description: "Salt, or *namak* (from Sanskrit *lavana*), is a fundamental mineral compound, primarily sodium chloride, indispensable to human life and culinary traditions ..."
+---
+
+## History and Sourcing
+
+Salt, or *namak* (from Sanskrit *lavana*), is a fundamental mineral compound, primarily sodium chloride, indispensable to human life and culinary traditions worldwide. Its history in India is ancient, with evidence of salt production from coastal regions and inland salt lakes like Sambhar dating back millennia. Historically, salt was a precious commodity, influencing trade routes and even political movements, famously exemplified by Mahatma Gandhi's Dandi March. Major sourcing includes sea salt from coastal states like Gujarat and Tamil Nadu, rock salt (Sendha Namak or Lahori Namak) from the Himalayan foothills, and lake salt.
+
+## Home Kitchen Use
+
+In Indian home kitchens, salt is the most ubiquitous seasoning, essential for balancing flavours in virtually every dish, from simple *dals* and vegetable preparations to complex curries and biryanis. It is crucial for tempering (*tadka*), enhancing the taste of chutneys and pickles, and is a key component in doughs for breads like *roti* and *puri*. Rock salt, known for its distinct mineral profile and often considered purer, is traditionally used during religious fasting (*upvas*) and in specific Ayurvedic preparations, as well as in *chaat* and refreshing beverages.
+
+## Industrial Applications
+
+Industrially, salt is a critical ingredient across the FMCG sector. It functions as a primary flavour enhancer in snacks, ready-to-eat meals, and processed foods like biscuits and sauces. Beyond taste, it acts as a vital preservative in pickles, cured meats, and fermented products, inhibiting microbial growth. Iodised salt, fortified with iodine, is a public health initiative in India to combat iodine deficiency disorders, making it the standard for most packaged food products. Powdered salt forms are specifically used in dry mixes, cheese powders, and seasoning blends for uniform dispersion.
+
+## Distinctions and Common Confusion
+
+Consumers often encounter various forms of salt, leading to some confusion. The most common distinction is between refined, iodised table salt (primarily sodium chloride) and natural variants like rock salt (Sendha Namak/Lahori Namak), Himalayan pink salt, and sea salt. While table salt is processed for purity and fortified with iodine, natural salts retain trace minerals that impart subtle flavour differences and colours. Rock salt, for instance, is chemically distinct from common table salt and is specifically chosen for its perceived purity and mineral content during fasting. It is also important to distinguish these from 'black salt' (*kala namak*), which is a volcanic rock salt with a unique sulfurous flavour, used in *chaats* and digestive remedies, and is not merely a coloured version of common salt.

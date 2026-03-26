@@ -1,0 +1,24 @@
+---
+title: "Sorbitol (INS 420)"
+slug: sorbitol-ins-420
+category: "Additives & Functional"
+category-slug: additives-functional
+keywords: ["Sorbitol", "Polyol", "Sugar Alcohol", "Humectant", "Sweetener", "INS 420", "Food Additive", "Sugar Substitute", "Plasticizer"]
+description: "Sorbitol, a sugar alcohol (polyol), is a naturally occurring compound found in various fruits such as apples, pears, peaches, and prunes"
+---
+
+## History and Sourcing
+
+Sorbitol, a sugar alcohol (polyol), is a naturally occurring compound found in various fruits such as apples, pears, peaches, and prunes. While its discovery by French chemist Jean-Baptiste Boussingault in 1872 in mountain ash berries marks its scientific identification, its presence in natural foods means it has been consumed by humans for millennia. In India, Sorbitol is not a traditional ingredient but has been introduced primarily through the modern food processing industry, where it is synthetically produced from glucose, often derived from corn starch. Its industrial production makes it a versatile ingredient rather than one tied to specific agricultural regions within India.
+
+## Home Kitchen Use
+
+In the Indian home kitchen, Sorbitol holds no traditional culinary significance. It is not used in daily cooking or traditional recipes. However, with increasing awareness of dietary health and the prevalence of diabetes, some home bakers or individuals following specific dietary regimens might use Sorbitol as a sugar substitute in homemade desserts, sweets, or beverages. Its application in the domestic sphere remains niche, largely confined to health-conscious or medically advised dietary modifications rather than mainstream culinary practices.
+
+## Industrial Applications
+
+Industrially, [Sorbitol (INS 420)](sorbitol-ins-420.qmd) is a highly versatile food additive with multiple functional roles in the FMCG sector. As a low-calorie bulk sweetener, it is extensively used in sugar-free confectionery, chewing gums, diabetic-friendly foods, and diet beverages. Its humectant properties are crucial for retaining moisture, preventing products like baked goods, soft candies, and certain processed foods from drying out and extending their shelf life. Furthermore, Sorbitol acts as a plasticizer, imparting flexibility and preventing brittleness in confectionery and pharmaceutical coatings. The liquid form, Sorbitol syrup, is particularly convenient for industrial applications, ensuring even distribution and ease of incorporation into various formulations. It also finds use as an emulsifier in certain applications and as a bulking agent.
+
+## Distinctions and Common Confusion
+
+Consumers often encounter Sorbitol in various products without fully understanding its multifaceted nature. The primary confusion stems from its diverse functionalities: while widely known as a 'sugar substitute' (E-SWEETENER), it also functions as a humectant, emulsifier, and plasticizer. It is important to distinguish Sorbitol from high-intensity artificial sweeteners like [Aspartame](../sweeteners/aspartame.qmd) or Sucralose; Sorbitol provides bulk and a milder sweetness, contributing to texture, whereas high-intensity sweeteners offer sweetness without significant volume. Furthermore, it differs from other polyols like [Xylitol](../sweeteners/xylitol.qmd) or [Maltitol](../sweeteners/maltitol.qmd), each possessing unique sweetness profiles, caloric values, and gastrointestinal tolerance thresholds. While beneficial for reducing sugar intake, it's crucial to note that Sorbitol is not calorie-free and can have a laxative effect if consumed in large quantities.

@@ -1,0 +1,12 @@
+---
+title: "Oils & Fats"
+listing:
+  contents: "*.qmd"
+  sort: "title asc"
+  type: table
+  fields: [title, description]
+  exclude:
+    slug: "oils-fats"
+---
+
+*36 ingredients in this category.*

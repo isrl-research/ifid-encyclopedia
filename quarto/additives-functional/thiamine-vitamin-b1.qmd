@@ -1,0 +1,24 @@
+---
+title: "Thiamine (Vitamin B1)"
+slug: thiamine-vitamin-b1
+category: "Additives & Functional"
+category-slug: additives-functional
+keywords: ["Vitamin B1", "Thiamine", "Beriberi", "Fortification", "Nutrient", "Mononitrate", "Hydrochloride"]
+description: "Thiamine, or Vitamin B1, is an essential water-soluble vitamin discovered in the early 20th century for its role in preventing beriberi, a disease linked to ..."
+---
+
+## History and Sourcing
+
+Thiamine, or Vitamin B1, is an essential water-soluble vitamin discovered in the early 20th century for its role in preventing beriberi, a disease linked to diets heavy in polished rice. Its name combines 'thio' (sulfur) and 'amine' (nitrogen compound). While not 'sourced' like a botanical, it's naturally found in whole grains, legumes, nuts, and pork. In India, its historical importance is tied to rice consumption, where polishing removes the thiamine-rich bran, historically contributing to deficiencies.
+
+## Home Kitchen Use
+
+Thiamine is not a direct culinary ingredient for flavour or texture in Indian home cooking. Instead, it's a crucial nutrient naturally present in traditional staples like unpolished rice, whole wheat (atta), dals, and fresh vegetables. Its presence is vital for carbohydrate metabolism and energy production, making it an indispensable, albeit unseen, component of a balanced Indian diet, though modern refined grain consumption can reduce intake.
+
+## Industrial Applications
+
+Industrially, thiamine is primarily used for food fortification and in dietary supplements. Thiamine mononitrate and thiamine hydrochloride are the stable salt forms employed. Thiamine mononitrate is preferred for fortifying dry foods such as flour, rice, and breakfast cereals due to its enhanced stability and lower hygroscopicity, ensuring that processed foods contribute to daily nutrient requirements and address public health deficiencies.
+
+## Distinctions and Common Confusion
+
+While 'Thiamine' and 'Vitamin B1' are synonymous, confusion often arises regarding its specific chemical forms. 'Thiamine Mononitrate' and 'Thiamine Hydrochloride' are stable synthetic derivatives, not separate vitamins. Mononitrate is favoured for dry food fortification due to its stability, whereas hydrochloride, being more soluble, is typically used in liquid supplements or pharmaceuticals. It is crucial to differentiate thiamine from other B vitamins, each having distinct physiological roles.

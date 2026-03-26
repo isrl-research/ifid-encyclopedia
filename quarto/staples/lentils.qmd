@@ -1,0 +1,24 @@
+---
+title: "Lentils"
+slug: lentils
+category: "Staples (Grains/Dals)"
+category-slug: staples
+keywords: ["Lentils", "Dal", "Masoor", "Legume", "Plant-based protein", "Indian cuisine", "Pulses"]
+description: "Lentils, known in India primarily as *dal* (from the Sanskrit *dhal* meaning \"to split\"), are among the oldest cultivated legumes globally, with archaeologic..."
+---
+
+## History and Sourcing
+
+[Lentils](lentils.qmd), known in India primarily as *dal* (from the Sanskrit *dhal* meaning "to split"), are among the oldest cultivated legumes globally, with archaeological evidence tracing their use back over 9,000 years. Their journey into the Indian subcontinent is ancient, making them an indispensable part of its culinary and agricultural heritage. India is both the largest producer and consumer of lentils, with significant cultivation concentrated in states like Madhya Pradesh, Uttar Pradesh, and Rajasthan. Varieties such as red lentils (masoor), split yellow lentils (toor/moong dal), and black lentils (urad dal) are staples, each possessing distinct characteristics and culinary applications.
+
+## Home Kitchen Use
+
+In Indian home kitchens, lentils are the cornerstone of countless dishes. They are most famously prepared as *dal*, a comforting and nutritious stew, often tempered with spices like cumin, mustard seeds, and asafoetida. Whole lentils are used in preparations like *dal makhani* (black lentils) or sprouted for salads, while split and dehusked varieties are preferred for their quicker cooking time and creamy texture in everyday curries, *sambar*, and *rasam*. [Lentils](lentils.qmd) are also ground into flour for batters like *dosa* and *idli*, or used to make savory snacks such as *vadas* and *pakoras*, providing a rich source of plant-based protein, dietary fiber, and essential minerals.
+
+## Industrial Applications
+
+Beyond traditional home cooking, lentils have found significant applications in the modern food industry. Lentil flour is increasingly utilized in gluten-free baking, as a thickener, and as a functional ingredient in various processed foods. Lentil protein, extracted and isolated, serves as a key component in the burgeoning plant-based food sector, appearing in meat alternatives, protein supplements, and functional beverages. Its neutral flavor profile and excellent emulsifying properties make it a versatile ingredient for enhancing nutritional value and texture in a wide range of FMCG products, aligning with the growing demand for sustainable and nutritious protein sources.
+
+## Distinctions and Common Confusion
+
+Consumers often encounter various forms of lentils, leading to some confusion. The term "lentils" generally refers to the whole, un-split legume, which retains its outer husk and requires longer cooking times. "Dal," on the other hand, specifically denotes lentils that have been dehusked and split, such as *masoor dal split* or *split yellow lentils*, which cook much faster and yield a creamier consistency. It is crucial to distinguish these from "lentil protein," which is a highly processed isolate of the protein component, used for its functional properties and nutritional density in industrial applications, rather than as a whole food ingredient.

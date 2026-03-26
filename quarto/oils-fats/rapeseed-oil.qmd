@@ -1,0 +1,24 @@
+---
+title: "Rapeseed Oil"
+slug: rapeseed-oil
+category: "Oils & Fats"
+category-slug: oils-fats
+keywords: ["Rapeseed", "Canola", "Brassica", "Edible Oil", "Sarson", "Cooking Oil", "Low Erucic Acid"]
+description: "Rapeseed oil, derived from the seeds of various Brassica species (primarily Brassica napus and Brassica rapa), boasts an ancient lineage, with cultivation da..."
+---
+
+## History and Sourcing
+
+Rapeseed oil, derived from the seeds of various Brassica species (primarily Brassica napus and Brassica rapa), boasts an ancient lineage, with cultivation dating back thousands of years in Asia and Europe. In India, the cultivation of rapeseed-mustard group crops has been integral to agricultural practices for millennia, primarily for oil extraction and fodder. While the term "Sarson" often refers to mustard, it broadly encompasses several Brassica varieties, including those from which rapeseed oil is extracted. Major producing states in India include Rajasthan, Uttar Pradesh, Haryana, Madhya Pradesh, and Gujarat, where these oilseeds thrive.
+
+## Home Kitchen Use
+
+Traditionally, high-erucic acid rapeseed oil, often associated with the pungent flavour profile of mustard oil, was used in specific regional cuisines. However, its direct culinary application in home kitchens across India has been less widespread compared to other indigenous oils. With evolving dietary preferences and global influences, the low-erucic acid variety, known as Canola oil, has gained significant traction. Its neutral flavour and light texture make it a versatile choice for general cooking, sautéing, and deep-frying in modern Indian households, particularly where a less assertive oil is desired.
+
+## Industrial Applications
+
+In the industrial and modern food sector, Canola oil is a cornerstone ingredient. Its excellent oxidative stability and neutral taste profile make it ideal for a vast array of FMCG products, including packaged snacks, ready-to-eat meals, salad dressings, and mayonnaise. It is also extensively utilized in the production of margarine, shortenings, and various processed foods, contributing to texture and shelf-life without imparting a dominant flavour. Its functional properties as a liquid oil (M-OIL) are highly valued for its versatility in food manufacturing.
+
+## Distinctions and Common Confusion
+
+A common point of confusion in the Indian context lies in distinguishing between "[Rapeseed Oil](rapeseed-oil.qmd)" and "[Mustard Oil](mustard-oil.qmd)," as both originate from the Brassica family and are often grouped under the umbrella term "Sarson." Crucially, consumers must differentiate between traditional high-erucic acid rapeseed oil and "Canola Oil." Canola is a specific cultivar of rapeseed, genetically bred to contain very low levels of erucic acid, making it a healthier and milder-tasting alternative. While traditional rapeseed oil may have a more robust, pungent flavour, Canola oil is characterized by its neutral profile, making it the preferred choice for general consumption and industrial applications due to health considerations and regulatory standards.

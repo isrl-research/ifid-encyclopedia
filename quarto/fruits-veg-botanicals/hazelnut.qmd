@@ -1,0 +1,24 @@
+---
+title: "Hazelnut"
+slug: hazelnut
+category: "Fruits, Veg & Botanicals"
+category-slug: fruits-veg-botanicals
+keywords: ["Hazelnut", "Corylus", "Nut", "Confectionery", "Imported", "Roasted", "Hazelnut Paste"]
+description: "Hazelnuts, derived from the *Corylus* genus, are not indigenous to the Indian subcontinent but have a rich history spanning millennia in temperate regions gl..."
+---
+
+## History and Sourcing
+
+Hazelnuts, derived from the *Corylus* genus, are not indigenous to the Indian subcontinent but have a rich history spanning millennia in temperate regions globally. Primarily cultivated in [Turkey](../proteins-meats/turkey.qmd), Italy, and the United States, their introduction to India is a relatively modern phenomenon, driven by global trade and the increasing demand for diverse ingredients in processed foods. While lacking deep linguistic roots in Indian languages, their presence has grown significantly in contemporary Indian culinary discourse, largely due to their distinct flavour and versatility.
+
+## Home Kitchen Use
+
+In Indian home kitchens, hazelnuts are not a traditional staple but have gained popularity in modern baking and dessert preparations. They are often incorporated into Western-style cakes, cookies, granolas, and as a sophisticated garnish for various sweet dishes. Roasted hazelnuts, whether whole or chopped, are particularly favoured for their enhanced aroma and crunch, adding a gourmet touch to homemade treats. Their usage reflects a growing trend towards incorporating global ingredients into the evolving Indian culinary landscape.
+
+## Industrial Applications
+
+Industrially, hazelnuts are a cornerstone in the FMCG sector, especially in confectionery. [Hazelnut](hazelnut.qmd) paste is a critical ingredient for popular chocolate spreads, fillings for chocolates, and ice creams, providing a rich, nutty flavour and smooth texture. Hazelnut pieces, often roasted, are widely used in chocolate bars, cookies, and energy bars to impart a desirable crunch and flavour burst. The processing into paste, pieces, or purée allows for diverse applications, from flavouring agents to textural components in a wide array of packaged goods.
+
+## Distinctions and Common Confusion
+
+Consumers in India often encounter hazelnuts as an imported, premium nut, sometimes leading to a general conflation with other common nuts like almonds or cashews. However, hazelnuts possess a unique buttery, slightly sweet, and earthy flavour profile that sets them apart. Unlike almonds or cashews, which are deeply embedded in traditional Indian sweets and savouries, hazelnuts are predominantly featured in modern, Western-influenced Indian cuisine and confectionery, offering a distinct taste and textural experience.

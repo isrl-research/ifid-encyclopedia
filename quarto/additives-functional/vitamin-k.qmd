@@ -1,0 +1,24 @@
+---
+title: "Vitamin K"
+slug: vitamin-k
+category: "Additives & Functional"
+category-slug: additives-functional
+keywords: ["Vitamin K", "Phylloquinone", "Menaquinone", "Vitamin K1", "Vitamin K2", "Blood Clotting", "Bone Health", "Cardiovascular Health"]
+description: "Vitamin K, derived from the German \"Koagulationsvitamin\" due to its pivotal role in blood clotting, was first identified by Danish biochemist Henrik Dam in t..."
+---
+
+## History and Sourcing
+
+[Vitamin K](vitamin-k.qmd), derived from the German "Koagulationsvitamin" due to its pivotal role in blood clotting, was first identified by Danish biochemist Henrik Dam in the 1930s. This fat-soluble vitamin exists in several forms, primarily as Phylloquinone (Vitamin K1) and a group of Menaquinones (Vitamin K2). Vitamin K1 is predominantly found in green leafy vegetables such as spinach, kale, and mustard greens, which are staples in various Indian regional cuisines. Vitamin K2, on the other hand, is synthesized by gut bacteria and found in fermented foods, though its presence in traditional Indian fermented products like curd is generally lower than in specific items like Japanese natto.
+
+## Home Kitchen Use
+
+In Indian home kitchens, [Vitamin K](vitamin-k.qmd) is not an ingredient added directly but is naturally consumed through a diet rich in its sources. Green leafy vegetables like *palak* (spinach), *sarson ka saag* (mustard greens), and *methi* (fenugreek leaves) are integral to daily meals across the subcontinent, providing ample Vitamin K1. These are often prepared in simple stir-fries, curries, or incorporated into flatbreads, ensuring a consistent dietary intake of this essential nutrient. While specific K2-rich fermented foods are less common in the mainstream Indian diet, the consumption of various greens contributes significantly to overall Vitamin K status.
+
+## Industrial Applications
+
+Industrially, [Vitamin K](vitamin-k.qmd) finds significant application in the health and wellness sector. Both Vitamin K1 (Phytomenadione) and Vitamin K2 (Menaquinone-7, or MK-7) are widely used in dietary supplements, often combined with [Vitamin D](vitamin-d.qmd) for synergistic effects on bone health. It is also a common fortifying agent in infant formulas and certain functional foods, addressing potential deficiencies. In pharmaceuticals, Vitamin K1 is crucial for reversing the effects of anticoagulant medications, while K2 is increasingly recognized for its role in cardiovascular health and bone mineralization, leading to its inclusion in specialized nutraceuticals.
+
+## Distinctions and Common Confusion
+
+Consumers often encounter confusion regarding the different forms of [Vitamin K](vitamin-k.qmd). The primary distinction lies between Vitamin K1 (Phylloquinone/Phytomenadione) and Vitamin K2 (Menaquinones, particularly MK-7). Vitamin K1, sourced mainly from plants, is primarily responsible for blood coagulation. In contrast, Vitamin K2, derived from bacterial synthesis and fermented foods, plays a crucial role in calcium metabolism, directing calcium to bones and teeth while preventing its deposition in arteries and soft tissues, thereby supporting bone density and cardiovascular health. While both are essential, their distinct physiological functions and dietary sources mean they are not interchangeable.

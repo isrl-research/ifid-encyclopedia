@@ -1,0 +1,24 @@
+---
+title: "Cashew"
+slug: cashew
+category: "Fruits, Veg & Botanicals"
+category-slug: fruits-veg-botanicals
+keywords: ["Kaju", "Anacardium occidentale", "Nut", "Indian cuisine", "Thickening agent", "Snack", "Plant-based"]
+description: "The cashew, known as kaju in India, is a highly prized and versatile ingredient with a rich history deeply intertwined with the subcontinent's culinary lands..."
+---
+
+## History and Sourcing
+
+The cashew, known as kaju in India, is a highly prized and versatile ingredient with a rich history deeply intertwined with the subcontinent's culinary landscape. Native to northeastern Brazil, the cashew tree (Anacardium occidentale) was introduced to India by Portuguese traders in the 16th century, primarily in Goa and Kerala, where it quickly adapted to the tropical climate. Today, India is one of the world's largest producers and processors of cashews, with significant cultivation in coastal states like Goa, Kerala, Karnataka, Maharashtra, Andhra Pradesh, and Odisha. Botanically, the cashew "nut" is actually the seed of the cashew apple, growing uniquely outside the fruit.
+
+## Home Kitchen Use
+
+In Indian home kitchens, cashews are celebrated for their creamy texture and mild, buttery flavour. They are a staple in both sweet and savoury preparations. Whole cashews are often roasted and salted as a snack, or fried and used as a garnish for biryanis, pulaos, and rich curries. Ground into a fine paste, cashews serve as a natural thickening agent for gravies, imparting a luxurious body and subtle sweetness to dishes like Shahi Paneer, Kaju Curry, and various kormas. They are also integral to traditional Indian sweets such as kaju katli, kaju barfi, and modaks.
+
+## Industrial Applications
+
+Industrially, cashews find extensive application across the food processing sector. Whole cashews are a premium ingredient in snack mixes, confectionery, and high-end desserts. [Cashew](cashew.qmd) pieces, often a more cost-effective option, are widely used in bakery products like cookies, cakes, and energy bars, as well as in breakfast cereals and granola. The increasing demand for plant-based alternatives has also led to the rise of cashew-based milks, cheeses, and creams, catering to vegan and lactose-intolerant consumers. Its emulsifying properties and rich flavour make it a valuable component in various FMCG products.
+
+## Distinctions and Common Confusion
+
+Consumers often encounter cashews in various forms, leading to some common distinctions. The term "kaju" is the widely recognized Indian name for cashew. While "whole cashews" are preferred for their aesthetic appeal and premium presentation, "cashew pieces" are frequently used in recipes where the nut is to be chopped or ground, offering a more economical choice without compromising flavour. It's also important to distinguish cashews from other nuts like almonds; cashews possess a unique crescent shape, a softer bite, and a distinct creamy profile that sets them apart from the firmer, more assertive flavour of almonds, despite sometimes being grouped together in mixed nut products.

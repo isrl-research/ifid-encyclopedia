@@ -1,0 +1,24 @@
+---
+title: "Liquorice"
+slug: liquorice
+category: "Spices & Seasonings"
+category-slug: spices-seasonings
+keywords: ["Liquorice", "Mulethi", "Glycyrrhiza glabra", "Ayurveda", "Natural Sweetener", "Herbal Remedy", "Glycyrrhizin"]
+description: "Liquorice, known in India primarily as Mulethi, is derived from the root of *Glycyrrhiza glabra*, a perennial legume"
+---
+
+## History and Sourcing
+
+[Liquorice](liquorice.qmd), known in India primarily as Mulethi, is derived from the root of *Glycyrrhiza glabra*, a perennial legume. Its history is deeply intertwined with ancient medicinal traditions across the globe, including Ayurveda, Unani, and Traditional Chinese Medicine, dating back millennia. The name "Mulethi" is widely recognized in Hindi and other Indian languages, signifying its long-standing presence and use in the subcontinent. While historically imported, some limited cultivation occurs in cooler regions of northern India, such as Punjab and Uttar Pradesh, though a significant portion is still sourced internationally. The plant is prized for the sweet compounds in its roots, particularly glycyrrhizin.
+
+## Home Kitchen Use
+
+In traditional Indian home kitchens, Mulethi's direct culinary application as a primary spice is relatively niche compared to its medicinal prominence. It is most commonly employed in herbal remedies, particularly for soothing sore throats, alleviating coughs, and aiding digestion, often consumed as a decoction or chewed directly. Its distinct sweet, slightly earthy, and anisy flavour profile makes it a popular ingredient in traditional mouth fresheners (mukhwas) and some regional herbal teas. Occasionally, powdered mulethi might be incorporated into certain traditional sweets or paan preparations for its unique taste and perceived health benefits, though it rarely features as a foundational flavour in everyday cooking.
+
+## Industrial Applications
+
+Beyond traditional uses, liquorice finds extensive application in modern food and pharmaceutical industries. Its primary active compound, glycyrrhizin, is extracted and utilized as a potent natural sweetener, often up to 50 times sweeter than sugar, making it valuable in sugar-free products. Industrially, liquorice extracts are widely used as flavouring agents in confectionery, including candies, chewing gums, and lozenges, as well as in certain beverages and tobacco products. In pharmaceuticals, it's a key ingredient in cough syrups, digestive aids, and anti-inflammatory formulations. The cosmetic industry also leverages its anti-inflammatory and skin-brightening properties in various skincare products.
+
+## Distinctions and Common Confusion
+
+A common point of confusion for consumers in India is the interchangeable use of "[Liquorice](liquorice.qmd)" and "Mulethi," which refer to the same botanical ingredient, *Glycyrrhiza glabra*. While "liquorice" is globally recognized, "mulethi" is its deeply entrenched Indian vernacular. It is crucial to understand that the primary part used is the root, not merely the bark. Furthermore, despite a similar anisy flavour note, liquorice is botanically distinct from aniseed or star anise, which are different plants with their own unique properties. Mulethi's primary identity in India remains rooted in its medicinal heritage rather than as a staple culinary spice.

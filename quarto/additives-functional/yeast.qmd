@@ -1,0 +1,24 @@
+---
+title: "Yeast"
+slug: yeast
+category: "Additives & Functional"
+category-slug: additives-functional
+keywords: ["Saccharomyces cerevisiae", "Fermentation", "Leavening agent", "Nutritional yeast", "Beta-glucan", "Baking", "Brewing"]
+description: "Yeast, primarily *Saccharomyces cerevisiae*, is a single-celled microorganism belonging to the fungus kingdom, revered for its transformative role in food an..."
+---
+
+## History and Sourcing
+
+[Yeast](yeast.qmd), primarily *Saccharomyces cerevisiae*, is a single-celled microorganism belonging to the fungus kingdom, revered for its transformative role in food and beverage production for millennia. Its history in India, though not always explicitly documented as "yeast" until modern microbiology, is deeply intertwined with ancient fermentation practices. The leavening of breads and the brewing of alcoholic beverages like *sura* or *toddy* (palm wine) across various regions of the subcontinent implicitly relied on wild yeast strains. Commercial yeast production, often utilizing molasses or beet sugar as a substrate, became widespread in India with the advent of industrial baking and brewing, making it a ubiquitous ingredient in modern food systems.
+
+## Home Kitchen Use
+
+In traditional Indian home kitchens, while wild yeasts contribute to the fermentation of batters for staples like *idli* and *dosa*, the direct addition of commercially produced yeast is primarily associated with Western-style baking. It is the indispensable agent for leavening breads, *naans*, and other baked goods, imparting a characteristic airy texture and subtle fermented flavour. Home brewers also utilize specific yeast strains for crafting beers and wines, though this practice is less pervasive than its culinary application in baking.
+
+## Industrial Applications
+
+Industrially, yeast and its derivatives are critical across a vast spectrum of applications. Dried yeast, available in active or instant forms, is a cornerstone of commercial bakeries, ensuring consistent leavening for mass-produced breads, buns, and biscuits. Beyond leavening, specific variants like Torula yeast are cultivated for their high protein content and mild flavour, finding use in processed foods as a nutritional supplement or flavour enhancer. Baker's yeast beta-glucan is extracted for its functional properties, particularly its role in immune support, and is incorporated into health supplements. Furthermore, fermented nutritional yeast protein, deactivated and often fortified with B vitamins, serves as a popular vegan flavouring agent, imparting a cheesy, umami note to snacks, gravies, and plant-based alternatives.
+
+## Distinctions and Common Confusion
+
+Consumers often encounter various forms of yeast, leading to some confusion. The most common distinction is between active dry yeast (requiring activation) and instant yeast (which can be mixed directly with dry ingredients) for baking. It is crucial to differentiate these from nutritional yeast, which is a deactivated form, grown specifically for its nutritional profile and savoury flavour, and is not suitable for leavening. Similarly, brewer's yeast, a byproduct of beer brewing, is also deactivated and consumed for its nutritional value, distinct from the live yeast used in fermentation. The specialized derivatives like "baker's yeast beta glucan" and "fermented nutritional yeast protein" represent highly processed, functional ingredients derived from yeast, rather than the whole organism itself.

@@ -1,0 +1,24 @@
+---
+title: "Vallarai"
+slug: vallarai
+category: "Fruits, Veg & Botanicals"
+category-slug: fruits-veg-botanicals
+keywords: ["Vallarai", "Centella asiatica", "Gotu Kola", "Indian Pennywort", "Ayurvedic herb", "Siddha medicine", "South Indian cuisine"]
+description: "Vallarai, botanically known as Centella asiatica, is a revered herbaceous perennial plant deeply embedded in India's traditional medicinal systems, particula..."
+---
+
+## History and Sourcing
+
+[Vallarai](vallarai.qmd), botanically known as Centella asiatica, is a revered herbaceous perennial plant deeply embedded in India's traditional medicinal systems, particularly Ayurveda and Siddha. Its name, derived from Tamil, refers to its creeping growth habit and circular leaves. Often called Gotu Kola internationally or Indian Pennywort, Vallarai thrives in marshy and tropical regions across India, with significant presence in the southern states. Historically, it has been celebrated for its adaptogenic properties and its purported benefits for cognitive function, wound healing, and overall vitality, making it a cornerstone of ancient herbal remedies.
+
+## Home Kitchen Use
+
+In traditional Indian home kitchens, [Vallarai](vallarai.qmd) is predominantly utilized in South Indian cuisine, especially in Tamil Nadu and Kerala. Its slightly bitter, earthy, and peppery notes lend themselves well to various preparations. Fresh leaves are commonly incorporated into thuvaiyal (chutneys), kootu (lentil and vegetable stews), and poriyal (stir-fries). It is also used to fortify rasam or added to dosai and adai batters, offering both flavour and nutritional value. Beyond cooked dishes, the fresh leaves are sometimes consumed raw in salads or as a garnish, valued for their refreshing quality.
+
+## Industrial Applications
+
+While not a primary ingredient in large-scale industrial food processing, [Vallarai](vallarai.qmd) finds its niche in the modern nutraceutical and herbal supplement industries. Extracts of Centella asiatica are widely used in health supplements marketed for memory enhancement, stress reduction, and skin health, owing to its triterpenoid compounds like asiaticoside. It is also an ingredient in some herbal teas, health drinks, and cosmetic formulations, particularly those targeting skin rejuvenation and anti-aging. Its functional benefits are typically harnessed in concentrated forms rather than as a bulk foodstuff in FMCG products.
+
+## Distinctions and Common Confusion
+
+A common point of confusion arises from [Vallarai](vallarai.qmd) often being colloquially referred to as "[Brahmi](brahmi.qmd)" in some regions. While both are highly valued in Ayurveda for their cognitive benefits, they are botanically distinct plants: Vallarai is Centella asiatica, characterized by its fan-shaped leaves, whereas true Brahmi is Bacopa monnieri, which has smaller, oval leaves. This distinction is crucial for accurate identification and therapeutic application. Furthermore, its international name "Indian Pennywort" can sometimes lead to confusion with other unrelated pennywort species.

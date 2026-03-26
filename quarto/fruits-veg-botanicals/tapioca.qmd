@@ -1,0 +1,24 @@
+---
+title: "Tapioca"
+slug: tapioca
+category: "Fruits, Veg & Botanicals"
+category-slug: fruits-veg-botanicals
+keywords: ["Tapioca", "Cassava", "Sabudana", "Tapioca Starch", "Gluten-free", "Kerala", "Thickener"]
+description: "Tapioca, derived from the starchy root of the cassava plant (Manihot esculenta), holds a significant place in India's culinary landscape, particularly in the..."
+---
+
+## History and Sourcing
+
+[Tapioca](tapioca.qmd), derived from the starchy root of the cassava plant (Manihot esculenta), holds a significant place in India's culinary landscape, particularly in the southern states. Originating in South America, cassava was introduced to India, notably Kerala, by Portuguese traders in the 17th century, where it quickly became a vital staple, especially during periods of food scarcity. Known as 'Kappa' in Malayalam and 'Maravalli Kizhangu' in Tamil, its cultivation is widespread in Kerala, Tamil Nadu, and parts of Andhra Pradesh, thriving in tropical climates. Its resilience and high carbohydrate yield made it an indispensable part of the local diet and economy.
+
+## Home Kitchen Use
+
+In traditional Indian homes, tapioca is consumed in various forms. The root itself is boiled, steamed, or fried, often served with fish curries or spicy chutneys in Kerala. It is also processed into 'sabudana' (tapioca pearls), a popular ingredient across India, especially during fasting periods (vrat). Sabudana is used to prepare dishes like sabudana khichdi, vada, and kheer, valued for its energy content and ease of digestion. [Tapioca](tapioca.qmd) starch, extracted from the root, is also used as a thickening agent in gravies and desserts, offering a neutral flavour and clear finish.
+
+## Industrial Applications
+
+Industrially, tapioca starch is a versatile and widely utilized ingredient in the FMCG sector. Its excellent thickening, binding, and gelling properties make it a preferred choice in processed foods such as instant noodles, sauces, soups, and bakery products. Being naturally gluten-free, tapioca starch is a crucial component in gluten-free flours and products, catering to dietary restrictions and health trends. It also finds application in the production of biodegradable plastics, textiles, and pharmaceuticals, highlighting its broad industrial utility beyond food.
+
+## Distinctions and Common Confusion
+
+A common point of confusion arises from the term "tapioca" itself, which can refer to the whole root, the processed pearls (sabudana), or the pure starch. Consumers often conflate these forms, not realizing their distinct applications. While the root is a direct vegetable staple and sabudana is a processed food item, tapioca starch is primarily a functional ingredient used for its thickening and textural properties. It is also important to distinguish tapioca starch from other common starches like corn starch or potato starch; tapioca starch typically yields a clearer gel and a chewier texture, making it unique for specific culinary and industrial applications.

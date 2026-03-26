@@ -1,0 +1,24 @@
+---
+title: "Palmolein"
+slug: palmolein
+category: "Oils & Fats"
+category-slug: oils-fats
+keywords: ["Palm oil", "Fractionated oil", "Edible oil", "Frying oil", "Vegetable oil", "FMCG", "Indian cuisine", "Superolein"]
+description: "Palmolein, a widely consumed edible vegetable oil in India, is a liquid fraction derived from palm oil"
+---
+
+## History and Sourcing
+
+[Palmolein](palmolein.qmd), a widely consumed edible vegetable oil in India, is a liquid fraction derived from palm oil. Originating from the fruit of the oil palm tree (Elaeis guineensis), native to West Africa, palm oil was introduced to Southeast Asia in the early 20th century, where Malaysia and Indonesia now dominate global production. India, a major importer, relies heavily on these regions to meet its domestic demand. The term "Palmolein" itself signifies its nature: "palm" from its source, and "olein" referring to the liquid, unsaturated fatty acid fraction, primarily oleic acid, which remains liquid at ambient temperatures. Its widespread adoption in India is a relatively modern phenomenon, driven by its economic viability and functional properties.
+
+## Home Kitchen Use
+
+In Indian home kitchens, refined palmolein is a ubiquitous cooking medium, particularly favoured for deep-frying due to its high smoke point and oxidative stability. It is commonly used for preparing a vast array of traditional snacks and savouries such as puri, pakoras, samosas, and various bhajiyas. Its neutral flavour profile ensures it doesn't overpower the intricate spice blends characteristic of Indian cuisine, making it suitable for general cooking, sautéing, and tempering (tadka) across diverse regional dishes. Its affordability has made it a staple for many households, offering a cost-effective solution for daily culinary needs.
+
+## Industrial Applications
+
+Industrially, palmolein is a cornerstone of the Indian food processing sector. Its stability and liquid form make it ideal for frying a multitude of FMCG products, including potato chips, namkeen, instant noodles, and ready-to-eat meals, contributing to their extended shelf life and desirable texture. Beyond frying, it is a key ingredient in the formulation of margarines, shortenings, and various confectionery items, often blended with other fats to achieve specific functional properties. "Palm Superolein," a further fractionated and even more liquid form, is sometimes employed in applications requiring a lower cloud point or enhanced fluidity, such as in salad dressings or specialized frying oils.
+
+## Distinctions and Common Confusion
+
+Consumers often conflate "[Palm Oil](palm-oil.qmd)" with "[Palmolein](palmolein.qmd)," leading to confusion. Palm oil, the crude oil extracted from the fruit, is semi-solid at room temperature, while palmolein is its liquid fraction, obtained through a controlled cooling and crystallization process called fractionation. This process separates the liquid olein from the solid stearin (palm stearin). Palmolein is distinct from hydrogenated vegetable fats like Vanaspati, which undergo a chemical process to solidify liquid oils, often using palm oil as a base. Unlike Vanaspati, palmolein is not hydrogenated; it is naturally liquid due to its fatty acid composition and the fractionation process.

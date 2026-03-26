@@ -1,0 +1,24 @@
+---
+title: "Fumaric Acid"
+slug: fumaric-acid
+category: "Additives & Functional"
+category-slug: additives-functional
+keywords: ["Acidulant", "pH regulator", "Food additive", "Tartness", "Preservative", "Industrial food", "Citric acid"]
+description: "Fumaric acid, a dicarboxylic acid, is a naturally occurring compound found in various plants, including the fumitory plant (*Fumaria officinalis*), bolete mu..."
+---
+
+## History and Sourcing
+
+Fumaric acid, a dicarboxylic acid, is a naturally occurring compound found in various plants, including the fumitory plant (*Fumaria officinalis*), bolete mushrooms, and lichen. Historically, its presence in nature was noted, but its industrial synthesis and application as a food additive are relatively modern developments. While not indigenous to traditional Indian culinary practices as a standalone ingredient, its widespread use in processed foods means it is now a common component in the Indian food landscape, primarily sourced through industrial chemical synthesis.
+
+## Home Kitchen Use
+
+In the context of traditional Indian home cooking, fumaric acid is not a direct ingredient. Indian households typically rely on natural acidulants like tamarind, kokum, lemon, or curd for imparting sourness to dishes. However, with the advent of packaged foods and beverages, products containing fumaric acid have become ubiquitous in Indian kitchens, albeit indirectly. It contributes to the tartness and preservation of many convenience foods consumed daily.
+
+## Industrial Applications
+
+Industrially, fumaric acid is a highly valued food additive (INS 297) due to its strong acidity, low hygroscopicity, and cost-effectiveness. It functions primarily as an acidulant, pH regulator, and leavening agent. Its low solubility makes it ideal for dry mixes, powdered beverages, and baking applications like tortillas and bread, where it provides a slow, sustained release of acid. It is also used in fruit juices, jams, jellies, and confectionery to enhance tartness and act as a preservative, extending the shelf life of various FMCG products prevalent in the Indian market.
+
+## Distinctions and Common Confusion
+
+Consumers often encounter fumaric acid in ingredient lists without fully understanding its role, frequently conflating it with more common acidulants like citric acid. While both impart sourness, fumaric acid is significantly stronger per unit weight and exhibits lower solubility and hygroscopicity compared to citric acid. This makes it particularly suitable for dry food systems where moisture absorption is undesirable. Its tartness profile is also distinct, often described as more lingering and less sharp than citric acid, making it preferred in specific applications where a sustained sour note is desired.

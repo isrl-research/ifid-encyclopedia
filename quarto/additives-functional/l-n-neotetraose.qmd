@@ -1,0 +1,24 @@
+---
+title: "L-N-Neotetraose"
+slug: l-n-neotetraose
+category: "Additives & Functional"
+category-slug: additives-functional
+keywords: ["Human Milk Oligosaccharide", "HMO", "Prebiotic", "Infant Formula", "Gut Health", "Functional Ingredient", "LNnT"]
+description: "L-N-Neotetraose (LNnT) is a prominent Human Milk Oligosaccharide (HMO) naturally found in human breast milk, recognized for its crucial role in infant develo..."
+---
+
+## History and Sourcing
+
+[L-N-Neotetraose](l-n-neotetraose.qmd) (LNnT) is a prominent Human Milk Oligosaccharide (HMO) naturally found in human breast milk, recognized for its crucial role in infant development. While not a traditional Indian culinary ingredient, scientific understanding of HMOs has grown, highlighting their unique benefits. For commercial use, LNnT is produced via biotechnological processes like microbial fermentation, making it available as a purified food ingredient.
+
+## Home Kitchen Use
+
+LNnT has no direct culinary application in traditional Indian home cooking, as it is not used for flavour, texture, or as a staple. Its primary 'home' relevance stems from its natural presence in breast milk, the ideal source of infant nutrition. As a functional ingredient, it is not added to dishes by home cooks but is understood for its benefits in infant health.
+
+## Industrial Applications
+
+Industrially, LNnT is a key ingredient in modern infant formula, aiming to replicate breast milk's composition. It functions as a prebiotic, fostering beneficial gut bacteria for a healthy microbiome and immune system in infants. Its potential is also being explored in other functional foods and dietary supplements for adult gut health and immune support, aligning with global trends in beneficial ingredients.
+
+## Distinctions and Common Confusion
+
+LNnT is often confused with general prebiotics or lactose. It is a specific HMO with a unique structure and targeted benefits, distinct from broader prebiotics like [FOS](fos.qmd) or GOS. Crucially, LNnT is not lactose; it is a complex sugar undigested by human enzymes in the upper GI tract, unlike lactose, which is a primary energy source. This distinction underscores LNnT's role as a functional compound, not a simple nutrient.

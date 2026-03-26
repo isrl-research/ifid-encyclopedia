@@ -1,0 +1,24 @@
+---
+title: "Kombucha"
+slug: kombucha
+category: "Additives & Functional"
+category-slug: additives-functional
+keywords: ["Kombucha", "Fermented Tea", "SCOBY", "Probiotic Beverage", "Functional Drink", "Health & Wellness", "Acetic Acid Bacteria"]
+description: "Kombucha is a fermented tea beverage, globally recognized for its distinctive tangy flavour and purported health benefits"
+---
+
+## History and Sourcing
+
+[Kombucha](kombucha.qmd) is a fermented tea beverage, globally recognized for its distinctive tangy flavour and purported health benefits. While its origins trace back to ancient East Asia, particularly China and Manchuria, where it was revered as the "Elixir of Immortality," its introduction and popularisation in India are a relatively recent phenomenon, largely driven by global wellness trends. There are no traditional Indian linguistic roots for Kombucha, and its production in India is primarily concentrated in urban centres and by artisanal brewers, rather than specific agricultural regions. The core of Kombucha production relies on a Symbiotic Culture of Bacteria and [Yeast](yeast.qmd) (SCOBY), often referred to as the "mother," which ferments sweetened tea.
+
+## Home Kitchen Use
+
+In Indian home kitchens, [Kombucha](kombucha.qmd) is not a traditional culinary ingredient but rather a health-oriented beverage. Home brewing has gained traction among health-conscious individuals, who experiment with various tea bases (black, green) and flavourings like ginger, lemon, mint, or Indian spices post-fermentation. It is consumed chilled, typically as a standalone drink, valued for its probiotic content and refreshing qualities. Unlike traditional Indian fermented foods like kanji or pickles, Kombucha does not typically feature in daily meal preparations or as a cooking medium.
+
+## Industrial Applications
+
+Commercially, [Kombucha](kombucha.qmd) has found a significant niche in India's burgeoning health and wellness market. It is widely available in bottled form across supermarkets and health food stores, often infused with a variety of fruit purees, herbal extracts, or spice blends to cater to diverse palates. Manufacturers leverage its image as a natural, probiotic-rich, and low-sugar alternative to conventional soft drinks. The industrial application focuses on controlled fermentation processes to ensure consistent flavour, carbonation, and microbial stability, making it a popular choice in the FMCG sector for functional beverages.
+
+## Distinctions and Common Confusion
+
+A common point of confusion arises from the term "[Kombucha](kombucha.qmd) culture" itself. Consumers often perceive Kombucha as a single entity, but it is a complex ecosystem. The "culture" refers to the SCOBY, a gelatinous pellicle composed of cellulose and a diverse community of microorganisms, including various acetic acid bacteria (like *Komagataeibacter sp.*, *Acetobacter musti*, *Acetobacter tropicalis*) and yeasts. These specific microbial variants are not different forms of Kombucha but rather the essential biological agents responsible for its unique fermentation profile, converting sugars into organic acids, carbon dioxide, and trace amounts of alcohol. It is distinct from other fermented drinks like kefir (which uses a different culture and often milk) or traditional Indian ferments, primarily due to its tea base and specific microbial consortium.

@@ -1,0 +1,24 @@
+---
+title: "Potassium Iodate"
+slug: potassium-iodate
+category: "Additives & Functional"
+category-slug: additives-functional
+keywords: ["Iodine Fortification", "Iodized Salt", "Micronutrient", "Thyroid Health", "Food Additive", "NIDDCP", "Mineral Supplement"]
+description: "Potassium Iodate (KIO₃) is a chemical compound primarily used to combat iodine deficiency disorders (IDD)"
+---
+
+## History and Sourcing
+
+[Potassium [Iodate](iodate.qmd)](potassium-iodate.qmd) (KIO₃) is a chemical compound primarily used to combat iodine deficiency disorders (IDD). While not native to India, its widespread adoption is a testament to global and national efforts to address this nutritional challenge. Synthesized chemically, often from potassium iodide through oxidation, its pervasive use in India is directly linked to the National Iodine Deficiency Disorders Control Programme (NIDDCP), which mandated universal salt iodization. This ensures adequate iodine intake, a vital micronutrient for thyroid hormone production, crucial for growth, metabolism, and cognitive development, especially in regions with limited natural iodine sources.
+
+## Home Kitchen Use
+
+In the Indian home kitchen, [Potassium [Iodate](iodate.qmd)](potassium-iodate.qmd) is not a direct culinary ingredient. Instead, it is consumed indirectly as a fortificant within iodized common salt, a fundamental staple. This fortified salt is incorporated into virtually every dish, from tempering dals and curries to seasoning vegetables and doughs. Its inclusion ensures that households, regardless of their socioeconomic status or dietary patterns, receive the necessary daily intake of iodine, supporting overall health and development.
+
+## Industrial Applications
+
+Industrially, [Potassium [Iodate](iodate.qmd)](potassium-iodate.qmd) is the preferred fortificant for salt iodization in many parts of the world, including India, due to its superior chemical stability compared to potassium iodide. This stability is particularly beneficial in tropical and subtropical climates with high humidity and temperature, which can degrade less stable iodine compounds. Food manufacturers utilize iodized salt containing [Potassium](potassium.qmd) Iodate in a vast array of processed foods, including snacks, bakery products, ready-to-eat meals, and condiments. Its robust nature ensures consistent iodine content throughout a product's shelf life, even under challenging storage and distribution conditions, making it ideal for large-scale food fortification programs.
+
+## Distinctions and Common Confusion
+
+Consumers often confuse 'iodine,' '[Potassium Iodide](potassium-iodide.qmd),' and '[Potassium [Iodate](iodate.qmd)](potassium-iodate.qmd)' in the context of iodized salt. While all relate to iodine supplementation, [Potassium](potassium.qmd) Iodate (KIO₃) is distinct from Potassium Iodide (KI) and elemental iodine. Both Potassium Iodate and Potassium Iodide are used to iodize salt, but Potassium Iodate is generally favored in India due to its greater oxidative stability. This means it is less prone to loss when exposed to moisture, heat, or impurities in salt, ensuring more reliable iodine delivery. Elemental iodine is a volatile solid and not directly used for salt fortification. Potassium Iodate's resilience makes it a more effective vehicle for iodine delivery in challenging environmental conditions, forming a cornerstone of India's public health strategy.

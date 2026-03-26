@@ -1,0 +1,24 @@
+---
+title: "Balm"
+slug: balm
+category: "Fruits, Veg & Botanicals"
+category-slug: fruits-veg-botanicals
+keywords: ["Lemon Balm", "Melissa officinalis", "herbal tea", "aromatic herb", "essential oil", "medicinal ointment", "calming properties"]
+description: "Balm, primarily referring to Lemon Balm (Melissa officinalis), is an aromatic herb with a rich history originating from the Mediterranean region and Central ..."
+---
+
+## History and Sourcing
+
+[Balm](balm.qmd), primarily referring to Lemon Balm (Melissa officinalis), is an aromatic herb with a rich history originating from the Mediterranean region and Central Asia. Known since antiquity, its name "Melissa" is derived from the Greek word for honeybee, reflecting its strong attraction to pollinators. While not indigenous to India, the herb has found its way into herbal gardens across the subcontinent, valued for its distinctive aroma and purported calming properties. Commercial cultivation for culinary or industrial purposes in India remains niche, primarily confined to specialized herbal farms or home gardens rather than large-scale agricultural operations.
+
+## Home Kitchen Use
+
+In home kitchens, the leaves of Lemon [Balm](balm.qmd) impart a delicate, citrusy, and subtly minty flavour. It is predominantly used in herbal infusions and teas, often consumed for its soothing qualities. The fresh leaves can also serve as an elegant garnish for salads, fruit-based desserts, and refreshing beverages, adding a bright, lemony note. However, its presence in traditional Indian culinary practices is limited, as indigenous herbs like pudina (mint) or dhaniya (coriander) are more commonly employed for similar aromatic profiles.
+
+## Industrial Applications
+
+Industrially, balm is primarily processed for its essential oil, which is highly valued in the flavour and fragrance sectors. This essential oil finds application in certain beverages, confectionery, and cosmetic products, contributing a refreshing and uplifting aroma. Dried balm leaves are also a common component in various herbal tea blends and dietary supplements, marketed for their traditional uses in promoting relaxation and aiding digestion. Extracts from the plant are occasionally incorporated into modern health and wellness products, leveraging its historical reputation.
+
+## Distinctions and Common Confusion
+
+In India, the term "balm" frequently leads to significant confusion, as it is widely associated with topical medicinal ointments (e.g., pain relief balms like Amrutanjan or Vicks VapoRub). It is crucial to distinguish the herb [Balm](balm.qmd) (specifically Lemon Balm, Melissa officinalis), which is a culinary and aromatic ingredient, from these external medicinal preparations. Medicinal balms are complex formulations containing active ingredients such as menthol, camphor, and eucalyptus oil, designed for external application and not for ingestion, unlike the herb which is a botanical with a distinct lemony flavour profile used in food and beverages.

@@ -1,0 +1,24 @@
+---
+title: "Chilli"
+slug: chilli
+category: "Spices & Seasonings"
+category-slug: spices-seasonings
+keywords: ["Chilli", "Mirch", "Capsicum", "Spice", "Pungency", "Scoville", "Kashmiri Chilli"]
+description: "Chilli, known in India predominantly as *Mirch* (Hindi) or *Milagai* (Tamil), refers to the fruit of plants from the *Capsicum* genus, primarily *Capsicum an..."
+---
+
+## History and Sourcing
+
+Chilli, known in India predominantly as *Mirch* (Hindi) or *Milagai* (Tamil), refers to the fruit of plants from the *Capsicum* genus, primarily *Capsicum annuum* and *Capsicum frutescens*. Originating in the Americas, chillies were introduced to India by Portuguese traders in the 16th century, rapidly integrating into and revolutionizing the subcontinent's culinary landscape. Today, India is one of the world's largest producers and consumers of chillies, with major cultivation hubs in Andhra Pradesh (famous for Guntur Sannam), Telangana, Karnataka (Byadagi), Maharashtra, and Rajasthan (Mathania). The diverse Indian climate supports a wide array of cultivars, each with unique flavour profiles and heat levels.
+
+## Home Kitchen Use
+
+In Indian home kitchens, chillies are indispensable, used in various forms to impart pungency, flavour, and colour. Fresh green chillies are a staple for tempering (tadka), chutneys, curries, and stir-fries, offering a sharp, immediate heat. Dried red chillies, either whole or broken, are used to infuse oils, flavour pickles, and form the base of many spice blends. Red chilli powder is a ubiquitous ingredient, providing both heat and a vibrant hue to dals, vegetable preparations, and meat dishes. Specific regional varieties like Kashmiri chilli powder are prized for their brilliant red colour and mild heat, often used when aesthetic appeal is as important as flavour.
+
+## Industrial Applications
+
+Industrially, chillies are a cornerstone of the Indian food processing sector. Chilli powder, flakes, and paste are essential components in a vast array of FMCG products, from snack seasonings (for namkeen, chips) to ready-to-eat meals, sauces, pickles, and marinades. Green chilli paste and puree are widely used in convenience foods and ready-to-cook curry bases. Furthermore, chilli oleoresins, concentrated extracts of capsaicin (for heat) and capsanthin (for colour), are employed in the food, pharmaceutical, and cosmetic industries for their potent properties, allowing for precise flavour and colour control in manufactured goods.
+
+## Distinctions and Common Confusion
+
+A common point of confusion for consumers lies in the vast spectrum of chilli varieties and their varying heat levels, often measured in Scoville Heat Units (SHU). Distinguishing between fresh green chillies, which offer a bright, sharp heat, and dried red chillies, which provide a deeper, more lingering warmth, is crucial. Within red chilli powders, there's significant differentiation: Kashmiri chilli powder is primarily used for its vibrant red colour and mild heat, while varieties like Guntur or Teja are chosen for their intense pungency. Consumers often use "chilli powder" generically, leading to inconsistent results if the specific variety and its heat profile are not considered. This also extends to distinguishing between chilli flakes, which provide textural contrast and bursts of heat, and finely ground powder, which integrates smoothly into dishes.

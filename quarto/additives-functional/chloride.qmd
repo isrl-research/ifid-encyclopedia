@@ -1,0 +1,24 @@
+---
+title: "Chloride"
+slug: chloride
+category: "Additives & Functional"
+category-slug: additives-functional
+keywords: ["Electrolyte", "Sodium Chloride", "Salt", "Mineral", "Preservation", "Seasoning", "Food Additive"]
+description: "Chloride, an essential electrolyte and ubiquitous anion, is fundamental to natural systems and human sustenance"
+---
+
+## History and Sourcing
+
+[Chloride](chloride.qmd), an essential electrolyte and ubiquitous anion, is fundamental to natural systems and human sustenance. Its historical significance in India is linked to common salt (sodium chloride), a vital commodity. The term 'chloride' derives from Greek 'chloros' (pale green). In India, primary sources are sea salt pans, inland salt lakes (e.g., Sambhar), and rock salt mines (e.g., Sendha Namak). It is crucial for osmotic balance and nerve function.
+
+## Home Kitchen Use
+
+In Indian home kitchens, chloride's role is inseparable from salt. It is the primary agent for seasoning, enhancing flavours in curries, dals, and vegetables. Beyond taste, it acts as a traditional preservative in pickles (achaar), chutneys, and fermented foods, extending shelf life and contributing to texture. It is vital for balancing spices and ingredients across diverse regional cuisines.
+
+## Industrial Applications
+
+Industrially, chloride, mainly as sodium chloride, is a cornerstone of food processing. It functions as a flavour enhancer, preservative, and texturizer in FMCG products like packaged snacks, ready-to-eat meals, cheeses, and baked goods. [Potassium](potassium.qmd) chloride is used as a salt substitute in low-sodium products. It is also a critical component in electrolyte beverages and rehydration solutions.
+
+## Distinctions and Common Confusion
+
+A common confusion is between 'chloride' and 'sodium chloride'. While sodium chloride is the most prevalent dietary source, chloride is an ion forming part of many salts, not exclusively common table salt. Consumers often conflate the two, overlooking that chloride is a fundamental chemical component essential for bodily functions. It is also distinct from elemental chlorine, a toxic gas used for disinfection.

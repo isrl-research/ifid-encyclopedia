@@ -1,0 +1,24 @@
+---
+title: "Chamomile"
+slug: chamomile
+category: "Fruits, Veg & Botanicals"
+category-slug: fruits-veg-botanicals
+keywords: ["Chamomile", "Matricaria chamomilla", "Herbal Tea", "Calming Infusion", "Wellness Beverage", "Traditional Medicine", "Botanical"]
+description: "Chamomile, primarily derived from the flowers of Matricaria chamomilla (German Chamomile), boasts a rich history dating back to ancient Egypt, Greece, and Ro..."
+---
+
+## History and Sourcing
+
+[Chamomile](chamomile.qmd), primarily derived from the flowers of Matricaria chamomilla (German Chamomile), boasts a rich history dating back to ancient Egypt, Greece, and Rome, where it was revered for its medicinal properties. The name itself, "chamomile," originates from the Greek "chamai melon," meaning "ground apple," a nod to its distinctive apple-like fragrance. While not indigenous to India, chamomile has been introduced and is cultivated in certain temperate regions, though a significant portion is imported to meet the growing demand for herbal remedies and wellness products. Its delicate white petals and yellow center make it easily recognizable, and its heritage is deeply intertwined with traditional European herbalism.
+
+## Home Kitchen Use
+
+In Indian home kitchens, chamomile is predominantly consumed as a soothing herbal infusion or tea. Valued for its calming and mild sedative properties, it is a popular choice for promoting relaxation, aiding sleep, and alleviating mild digestive discomforts like indigestion and bloating. Unlike many traditional Indian spices or botanicals used directly in cooking, chamomile's primary culinary role is in beverages, often enjoyed plain or with a touch of honey, serving as a gentle, caffeine-free alternative to conventional teas.
+
+## Industrial Applications
+
+Industrially, chamomile finds extensive application within the FMCG sector, particularly in the burgeoning wellness and nutraceutical markets. It is a staple ingredient in a wide array of herbal teas, often blended with other botanicals like lavender or mint to enhance its calming effects or flavour profile. Beyond beverages, chamomile extracts are incorporated into dietary supplements, cosmetics, and aromatherapy products, leveraging its anti-inflammatory and skin-soothing attributes. The "organic chamomile flower" variant highlights its prominence in the organic food and health sector, catering to consumers seeking natural and sustainably sourced ingredients.
+
+## Distinctions and Common Confusion
+
+Consumers often encounter chamomile primarily as a dried flower for infusions, sometimes leading to confusion with other herbal teas or even true teas derived from Camellia sinensis. It is crucial to distinguish chamomile as an herbal infusion, celebrated for its unique phytochemical composition, particularly bisabolol and chamazulene, which contribute to its therapeutic benefits, rather than the stimulating properties of traditional tea. Furthermore, while Matricaria chamomilla (German Chamomile) is the most common variety, Chamaemelum nobile (Roman Chamomile) also exists, though the former is more prevalent in commercial herbal products in India.

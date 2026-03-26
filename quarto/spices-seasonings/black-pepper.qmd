@@ -1,0 +1,24 @@
+---
+title: "Black Pepper"
+slug: black-pepper
+category: "Spices & Seasonings"
+category-slug: spices-seasonings
+keywords: ["Black Pepper", "Kali Mirch", "Piper Nigrum", "Spice", "Malabar Coast", "Pungency", "Seasoning", "Indian Cuisine", "Pippali"]
+description: "Black pepper, the 'King of Spices,' is derived from the dried, unripe berries of Piper nigrum, a flowering vine native to India's Malabar Coast"
+---
+
+## History and Sourcing
+
+Black pepper, the 'King of Spices,' is derived from the dried, unripe berries of Piper nigrum, a flowering vine native to India's Malabar Coast. Historically, it was a cornerstone of ancient spice trade, with linguistic roots in Sanskrit 'Maricha' and regional names like 'Kali Mirch' (Hindi) and 'Milagu' (Tamil). India, particularly Kerala, Karnataka, and Tamil Nadu, remains a significant producer.
+
+## Home Kitchen Use
+
+In Indian home kitchens, black pepper is a versatile spice. Whole peppercorns are used in tempering (tadka) for dals and curries. Coarsely crushed pepper seasons marinades, rubs, and finishes soups and salads. Finely ground powder is a staple in spice blends like garam masala, adding a pungent kick to South Indian rasam and North Indian curries.
+
+## Industrial Applications
+
+Industrially, black pepper is vital for FMCG. Powdered forms are used in seasoning blends for instant noodles, ready-to-eat meals, processed meats, and snacks like chips and namkeen. Black pepper bits provide texture and visual appeal. Roasted powder offers specific flavour profiles. Oleoresins are extracted for concentrated flavour in beverages, sauces, and pharmaceuticals.
+
+## Distinctions and Common Confusion
+
+Black pepper (dried, unripe berry) is distinct from white pepper (decorticated black pepper) and green pepper (preserved unripe berries). A common confusion arises with [Long Pepper](long-pepper.qmd) (Pippali or Thippili, Piper longum), a different species with a more complex, earthy flavour, primarily used in Ayurveda and specific regional dishes, unlike black pepper's everyday culinary role.

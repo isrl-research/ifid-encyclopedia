@@ -1,0 +1,12 @@
+---
+title: "Dairy & Alternatives"
+listing:
+  contents: "*.qmd"
+  sort: "title asc"
+  type: table
+  fields: [title, description]
+  exclude:
+    slug: "dairy-alternatives"
+---
+
+*23 ingredients in this category.*

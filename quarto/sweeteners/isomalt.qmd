@@ -1,0 +1,24 @@
+---
+title: "Isomalt"
+slug: isomalt
+category: "Sweeteners"
+category-slug: sweeteners
+keywords: ["Isomalt", "sugar alcohol", "polyol", "sweetener", "low calorie", "non-cariogenic", "confectionery", "sugar-free"]
+description: "Isomalt is a sugar alcohol (polyol) derived from sucrose, developed in the 1960s through a two-stage enzymatic and hydrogenation process"
+---
+
+## History and Sourcing
+
+[Isomalt](isomalt.qmd) is a sugar alcohol (polyol) derived from sucrose, developed in the 1960s through a two-stage enzymatic and hydrogenation process. It lacks traditional Indian historical or linguistic roots, being a modern food additive. Its introduction to India is primarily via imported and domestically produced sugar-free and low-calorie food products. Isomalt is not an agricultural product but is manufactured industrially from beet sugar.
+
+## Home Kitchen Use
+
+[Isomalt](isomalt.qmd) is not a traditional ingredient in Indian home cooking. Its limited use in home kitchens is typically for modern, health-conscious baking or confectionery, particularly for creating sugar-free hard candies, decorative sugar work, or as a bulk sweetener in recipes where sugar reduction is desired. It has not become a staple in everyday Indian culinary practices.
+
+## Industrial Applications
+
+In the Indian food industry, [Isomalt](isomalt.qmd) is crucial for the sugar-free and low-calorie segment. It is extensively used in confectionery (hard candies, chewing gums, chocolates) and baked goods. Its low hygroscopicity, high melting point, and stability make it excellent for products requiring long shelf life and structural integrity, such as sugar artistry. It functions as a bulking agent, providing texture and mouthfeel while offering fewer calories and being non-cariogenic.
+
+## Distinctions and Common Confusion
+
+[Isomalt](isomalt.qmd) is often confused with regular sugar (sucrose) or high-intensity artificial sweeteners. Unlike sucrose, Isomalt has a lower caloric value (2 kcal/g), a reduced glycemic impact, and is non-cariogenic. It differs from high-intensity sweeteners (e.g., sucralose) as it is a bulk sweetener, providing volume and texture similar to sugar, rather than just intense sweetness in minute quantities.

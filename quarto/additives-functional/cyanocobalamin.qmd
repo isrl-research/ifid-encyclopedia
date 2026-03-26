@@ -1,0 +1,24 @@
+---
+title: "Cyanocobalamin"
+slug: cyanocobalamin
+category: "Additives & Functional"
+category-slug: additives-functional
+keywords: ["Vitamin B12", "Fortification", "Supplement", "Vegan", "Vegetarian", "Nutrient", "Deficiency"]
+description: "Cyanocobalamin is a synthetic, stable form of Vitamin B12, an essential water-soluble vitamin crucial for numerous bodily functions"
+---
+
+## History and Sourcing
+
+[Cyanocobalamin](cyanocobalamin.qmd) is a synthetic, stable form of [Vitamin B12](vitamin-b12.qmd), an essential water-soluble vitamin crucial for numerous bodily functions. Its discovery and synthesis in the mid-20th century were pivotal in understanding and treating pernicious anemia, a severe B12 deficiency. Unlike other vitamins, B12 is not produced by plants or animals directly but by certain bacteria. In India, where vegetarian and vegan diets are prevalent, natural dietary sources of B12 (primarily animal products like meat, dairy, and eggs) can be limited, making fortification and supplementation with forms like cyanocobalamin particularly important for public health.
+
+## Home Kitchen Use
+
+In traditional Indian home kitchens, cyanocobalamin is not an ingredient used directly in cooking. Its role is entirely as a nutritional supplement. It is vital for nerve tissue health, brain function, and the production of red blood cells and DNA. A deficiency can lead to anemia, neurological issues, and fatigue. Therefore, while not a culinary component, its presence in the Indian diet, often through fortified foods or supplements, is critical for maintaining overall health, especially for those adhering to plant-based diets.
+
+## Industrial Applications
+
+Industrially, cyanocobalamin is the most common form of [Vitamin B12](vitamin-b12.qmd) used for food fortification and in dietary supplements due to its excellent stability and cost-effectiveness. It is widely incorporated into a range of FMCG products in India, including breakfast cereals, plant-based milks (soy, almond, oat), nutritional yeasts, energy drinks, and multivitamin formulations. Its inclusion helps address widespread B12 deficiencies, particularly among vulnerable populations, ensuring that essential micronutrient intake is met through everyday consumables.
+
+## Distinctions and Common Confusion
+
+Consumers often use "[Vitamin B12](vitamin-b12.qmd)" and "[Cyanocobalamin](cyanocobalamin.qmd)" interchangeably, leading to some confusion. It is important to understand that cyanocobalamin is *one specific, synthetic form* of Vitamin B12. Other naturally occurring forms, such as methylcobalamin and adenosylcobalamin, are metabolically active forms found in the body and some supplements. While cyanocobalamin is synthetic, the body efficiently converts it into these active forms. The primary distinction lies in its origin and stability, making it the preferred choice for fortification due to its robust nature and longer shelf life compared to other B12 analogues.

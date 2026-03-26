@@ -1,0 +1,24 @@
+---
+title: "Truffle"
+slug: truffle
+category: "Fruits, Veg & Botanicals"
+category-slug: fruits-veg-botanicals
+keywords: ["Tuber", "Black Truffle", "Gourmet Fungi", "Truffle Oil", "Truffle Extract", "Subterranean Fungus", "Exotic Ingredient"]
+description: "Truffles are highly prized, subterranean fruiting bodies of ascomycete fungi, primarily from the *Tuber* genus"
+---
+
+## History and Sourcing
+
+Truffles are highly prized, subterranean fruiting bodies of ascomycete fungi, primarily from the *Tuber* genus. Revered in European culinary traditions, their name derives from the Latin 'tuber'. Unlike common mushrooms, truffles grow underground in symbiotic relationships with specific tree roots. Their introduction to India is recent, driven by the gourmet market, making them a luxury import. Sought-after varieties like black truffle (*Tuber melanosporum*) are harvested using trained animals, highlighting their rarity and high value.
+
+## Home Kitchen Use
+
+In India, fresh truffles are not a traditional home ingredient due to cost and availability. However, among affluent culinary enthusiasts, they are occasionally shaved over dishes like risottos, pastas, or eggs for their intense, earthy, and musky aroma. Their potent flavour means small quantities suffice. The use of fresh truffles is largely confined to high-end dining and experimental home cooking, not everyday Indian culinary practices.
+
+## Industrial Applications
+
+Industrial and modern applications in India focus on processed forms like black truffle extract, black truffle oil, and black truffle seasoning. These products enable the distinctive truffle flavour to be incorporated into FMCG items, bypassing the cost and perishability of fresh truffles. [Truffle](truffle.qmd) oils, often infused with truffle essence (sometimes synthetic), are popular in gourmet snacks, salad dressings, and specialty condiments. Extracts and seasonings are used in premium chips, sauces, and ready-to-eat meals, offering a sophisticated flavour profile to a broader consumer base.
+
+## Distinctions and Common Confusion
+
+Confusion often arises between fresh truffles and truffle-flavoured products. Many truffle oils, especially cheaper ones, use synthetic compounds like 2,4-dithiapentane to mimic the aroma, which can misrepresent genuine truffle flavour. It's crucial to understand that truffles are distinct from common above-ground mushrooms, possessing a far more intense and unique aroma profile that positions them as a singular culinary ingredient.

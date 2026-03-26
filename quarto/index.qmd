@@ -1,0 +1,37 @@
+---
+title: "Encyclopedia of Indian Food Ingredients"
+subtitle: "IFID v2.0 · 623 ingredients · 8 categories"
+---
+
+## About This Encyclopedia
+
+The **Indian Food Ingredients Database (IFID)** is a standardized taxonomy of food components found in the Indian food ecosystem — from traditional botanicals and Ayurvedic herbs to modern food additives and functional ingredients.
+
+This encyclopedia bridges traditional knowledge and contemporary FMCG standards, providing structured, sourced descriptions of each ingredient across four dimensions:
+
+- **History & Sourcing** — origin, cultivation, and historical use in India
+- **Home Kitchen Use** — how the ingredient appears in domestic cooking
+- **Industrial Applications** — role in packaged food manufacturing
+- **Distinctions & Common Confusion** — how to tell it apart from similar ingredients
+
+**Version:** 0.2.0-alpha
+**DOI:** [https://doi.org/10.5281/zenodo.18650862](https://doi.org/10.5281/zenodo.18650862)
+**License:** Open Data Commons Attribution License (ODC-By)
+**Author:** Lalitha A R, Interdisciplinary Systems Research Lab (iSRL)
+
+---
+
+## Categories
+
+- **[Additives & Functional](additives-functional/index.qmd)** — 263 ingredients
+- **[Dairy & Alternatives](dairy-alternatives/index.qmd)** — 23 ingredients
+- **[Fruits, Veg & Botanicals](fruits-veg-botanicals/index.qmd)** — 164 ingredients
+- **[Oils & Fats](oils-fats/index.qmd)** — 36 ingredients
+- **[Proteins & Meats](proteins-meats/index.qmd)** — 10 ingredients
+- **[Spices & Seasonings](spices-seasonings/index.qmd)** — 68 ingredients
+- **[Staples (Grains/Dals)](staples/index.qmd)** — 41 ingredients
+- **[Sweeteners](sweeteners/index.qmd)** — 18 ingredients
+
+---
+
+*Cite as: Lalitha A R (2026). Encyclopedia of Indian Food Ingredients. Interdisciplinary Systems Research Lab (iSRL). DOI: https://doi.org/10.5281/zenodo.18650862*

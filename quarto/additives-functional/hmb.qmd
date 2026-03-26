@@ -1,0 +1,24 @@
+---
+title: "HMB"
+slug: hmb
+category: "Additives & Functional"
+category-slug: additives-functional
+keywords: ["HMB", "Calcium Beta-Hydroxy-Beta-Methylbutyrate", "Sports Nutrition", "Muscle Recovery", "Anti-catabolic", "Leucine Metabolite", "Dietary Supplement"]
+description: "HMB, or calcium β-hydroxy-β-methylbutyrate monohydrate, is a naturally occurring metabolite of the essential branched-chain amino acid (BCAA) leucine"
+---
+
+## History and Sourcing
+
+[HMB](hmb.qmd), or calcium β-hydroxy-β-methylbutyrate monohydrate, is a naturally occurring metabolite of the essential branched-chain amino acid (BCAA) leucine. Identified in the 1980s, it gained prominence for its anti-catabolic properties, helping prevent muscle breakdown. It is not a traditional Indian ingredient or part of ancient Ayurvedic practices. Synthetically produced as a calcium salt (CaHMB) for stability and bioavailability, its introduction to India is primarily through the global sports nutrition and supplement market, reflecting its roots in Western scientific discovery and application.
+
+## Home Kitchen Use
+
+[HMB](hmb.qmd) has no historical or traditional culinary usage in Indian home kitchens. It is not a spice, grain, fat, or any ingredient used for flavour, aroma, or texture in daily cooking. It does not feature in traditional Indian food preparation or remedies. Instead, it is consumed as a functional dietary supplement, typically mixed into beverages like water, juice, or protein shakes, purely for its physiological benefits rather than any culinary purpose.
+
+## Industrial Applications
+
+In industrial and modern applications, [HMB](hmb.qmd) is a key ingredient in the sports nutrition and functional food industries. It is widely incorporated into dietary supplements such as powders, capsules, and ready-to-drink formulations for athletes, bodybuilders, and fitness enthusiasts. Its functional benefits include enhancing muscle recovery, reducing exercise-induced muscle damage, increasing lean muscle mass, and improving strength, particularly during intense training or calorie restriction. Beyond sports, HMB is also being explored in clinical nutrition to combat muscle wasting (sarcopenia) in the elderly or individuals with chronic diseases, finding its way into specialized medical food products.
+
+## Distinctions and Common Confusion
+
+Consumers often confuse [HMB](hmb.qmd) with other amino acids or general protein supplements. It is crucial to understand that HMB is not a protein source itself, nor is it merely another amino acid like leucine. While derived from leucine, HMB operates through distinct mechanisms, primarily by inhibiting protein degradation and supporting muscle cell membrane integrity, rather than directly stimulating protein synthesis to the same extent as leucine. Therefore, it complements, rather than replaces, protein intake. Its role is more specialized, focusing on muscle preservation and recovery, especially under catabolic conditions, distinguishing it from broad-spectrum muscle builders.

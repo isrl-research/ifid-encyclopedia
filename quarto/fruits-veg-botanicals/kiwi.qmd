@@ -1,0 +1,24 @@
+---
+title: "Kiwi"
+slug: kiwi
+category: "Fruits, Veg & Botanicals"
+category-slug: fruits-veg-botanicals
+keywords: ["Kiwi", "Kiwifruit", "Juice Concentrate", "Fruit", "Himalayan regions", "Beverages", "Desserts"]
+description: "Kiwi, or *Actinidia deliciosa*, originally known as the 'Chinese gooseberry', hails from China and was later popularised and renamed in New Zealand"
+---
+
+## History and Sourcing
+
+[Kiwi](kiwi.qmd), or *Actinidia deliciosa*, originally known as the 'Chinese gooseberry', hails from China and was later popularised and renamed in New Zealand. Its introduction to India is a relatively modern phenomenon, gaining prominence in the late 20th century. Cultivation has since expanded to India's cooler, high-altitude regions, including Himachal Pradesh, Uttarakhand, Jammu & Kashmir, Sikkim, and Arunachal Pradesh, where the climate supports its growth.
+
+## Home Kitchen Use
+
+In Indian home kitchens, fresh kiwi is a popular choice for direct consumption, often peeled and sliced. Its distinctive tangy-sweet profile makes it a favoured ingredient in fruit salads, smoothies, and contemporary desserts like tarts and custards. Though not indigenous to traditional Indian cuisine, it has been readily adopted into modern culinary practices, frequently used as a vibrant garnish for dishes and in various sweet preparations and mocktails.
+
+## Industrial Applications
+
+[Kiwi](kiwi.qmd) juice concentrate is a significant industrial ingredient, valued for its extended shelf life and cost-effectiveness in storage and transport. This concentrated form, often packaged in cans, is extensively used in the FMCG sector for producing packaged juices, nectars, squashes, and other fruit-based beverages. It also serves as a key flavouring agent in yogurts, jams, jellies, and confectionery, providing consistent flavour, natural acidity, and nutritional benefits like Vitamin C to a wide array of products.
+
+## Distinctions and Common Confusion
+
+Consumers often conflate fresh kiwi fruit with kiwi juice concentrate. Fresh kiwi offers the complete sensory experience, including its unique texture and full flavour profile. In contrast, kiwi juice concentrate is a processed form where water has been removed, resulting in a more intense flavour and higher sugar concentration per volume. While the concentrate is essential for industrial applications requiring stability and consistency, it differs significantly from the whole fruit in terms of texture and the presence of certain volatile compounds.

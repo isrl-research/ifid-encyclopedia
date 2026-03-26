@@ -1,0 +1,24 @@
+---
+title: "Butter"
+slug: butter
+category: "Dairy & Alternatives"
+category-slug: dairy-alternatives
+keywords: ["Dairy", "Milk Fat", "Ghee", "Navaneeta", "Emulsion", "Spreads", "Baking", "Indian Cuisine", "Traditional"]
+description: "Butter, a fundamental dairy product, holds a profound historical and cultural significance, particularly within the Indian subcontinent"
+---
+
+## History and Sourcing
+
+Butter, a fundamental dairy product, holds a profound historical and cultural significance, particularly within the Indian subcontinent. Its origins are widely traced back to ancient Central Asia or the Middle East, from where its production and consumption spread globally. In India, butter, known in Sanskrit as "navaneeta" (fresh butter) and its clarified form as "ghrita" (ghee), has been revered since Vedic times, deeply embedded in religious rituals, Ayurvedic medicine, and daily culinary practices. As the world's largest milk producer, India sees widespread butter production, primarily from cow or buffalo milk. "White butter" specifically refers to unsalted, uncolored butter, often traditionally churned at home from cream or malai.
+
+## Home Kitchen Use
+
+In Indian home kitchens, butter is cherished for its creamy texture and rich, milky flavour. It is a ubiquitous accompaniment to breakfast items like parathas, toast, and pav bhaji, and is frequently added as a generous dollop to hot dals, sabzis, and rice dishes to enhance their richness and mouthfeel. Beyond everyday meals, butter is a key ingredient in numerous traditional sweets and desserts, contributing to their characteristic melt-in-the-mouth quality and delicate flavour. While ghee is more commonly used for deep-frying and tempering (tadka) due to its higher smoke point, fresh butter is sometimes employed for lighter sautéing or as a finishing touch to impart a distinct, delicate taste.
+
+## Industrial Applications
+
+Industrially, butter is a highly versatile ingredient in the Fast-Moving Consumer Goods (FMCG) sector. Its unique fat profile and emulsifying properties make it indispensable in the production of a wide array of processed foods. It is extensively utilized in the bakery industry for manufacturing biscuits, cakes, pastries, and cookies, where it contributes significantly to texture, flavour, and overall palatability. In confectionery, butter lends richness to chocolates, toffees, and fudges. It also finds application in ready-to-eat meals, sauces, and various spreads, acting as a natural flavour enhancer and a source of desirable fat, valued for its ability to create flaky textures and tender crumbs in commercial food production.
+
+## Distinctions and Common Confusion
+
+A common point of confusion, particularly in the Indian context, lies in distinguishing fresh butter from ghee (clarified butter). While both originate from milk fat, butter is an emulsion containing approximately 80% fat, 15-18% water, and 1-2% milk solids. Ghee, on the other hand, is pure butterfat, produced by simmering butter to remove its water and milk solids. This clarification process gives ghee a significantly higher smoke point, a longer shelf life, and a distinct nutty aroma, making it ideal for high-heat cooking and tempering. Foreign terms like "beurre fondu" or "burro fuso" (melted butter) refer to a state akin to ghee. Furthermore, butter is distinct from margarine, which is a vegetable fat-based spread designed as a butter substitute.

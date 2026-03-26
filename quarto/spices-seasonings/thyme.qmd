@@ -1,0 +1,24 @@
+---
+title: "Thyme"
+slug: thyme
+category: "Spices & Seasonings"
+category-slug: spices-seasonings
+keywords: ["Thyme", "Mediterranean herb", "Aromatic herb", "Western cuisine", "Seasoning blend", "Herbal flavour", "FMCG ingredient"]
+description: "Thyme, from the Greek 'thymos' (courage, perfume), is an aromatic herb originating from the Mediterranean"
+---
+
+## History and Sourcing
+
+[Thyme](thyme.qmd), from the Greek 'thymos' (courage, perfume), is an aromatic herb originating from the Mediterranean. Though not native to India, its culinary presence grew through global exchange and modern cuisine trends. Historically valued for both culinary and medicinal uses, its limited commercial cultivation in India means much of the market relies on imports or small-scale temperate region farming.
+
+## Home Kitchen Use
+
+In Indian home kitchens, thyme is primarily used in Western-inspired dishes. It's a popular choice for marinades for meats and poultry, imparting an earthy, minty, and lemony flavour. It enhances soups, stews, roasted vegetables, and pasta sauces, where its robust profile holds up well during cooking. While not a traditional Indian spice, it occasionally features in fusion or experimental recipes.
+
+## Industrial Applications
+
+Industrially, thyme is a key ingredient in FMCG products, especially in seasoning blends for processed foods like chips, instant noodles, and global-flavoured ready-to-eat meals. Its essential oil is extracted for flavourings, and dried leaves are used for both taste and visual appeal in herb mixes, pizza seasonings, and Western bakery items. Its antimicrobial properties also find use in food preservation and herbal products.
+
+## Distinctions and Common Confusion
+
+Indian consumers often encounter thyme within 'mixed herbs' or 'Italian seasoning' blends, leading to a general flavour recognition rather than specific identification. It's important to distinguish thyme from traditional Indian aromatic herbs like curry leaves, mint, or coriander, as its earthy, floral, and citrusy flavour profile is distinct and serves different culinary roles. Unlike many Indian spices, thyme is typically used whole or lightly crushed, rather than toasted or ground into masalas.

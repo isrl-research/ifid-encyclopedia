@@ -1,0 +1,24 @@
+---
+title: "Manganese"
+slug: manganese
+category: "Additives & Functional"
+category-slug: additives-functional
+keywords: ["Essential mineral", "Trace element", "Manganese citrate", "Fortification", "Enzyme cofactor", "Micronutrient", "Indian diet"]
+description: "Manganese is an essential trace mineral, vital for numerous physiological functions in the human body"
+---
+
+## History and Sourcing
+
+[Manganese](manganese.qmd) is an essential trace mineral, vital for numerous physiological functions in the human body. While its elemental form is not directly consumed, it is naturally present in a wide array of plant-based foods that form the bedrock of Indian cuisine. Historically, its importance was understood through the nutritional benefits derived from a diverse diet rich in whole grains, nuts, seeds, and leafy greens. Though not a focus of ancient Indian texts as a standalone element, its presence in revered Ayurvedic ingredients like turmeric and black pepper underscores its inherent role in traditional dietary wisdom. Major dietary sources in India include millets, legumes, and spices, which contribute significantly to its intake.
+
+## Home Kitchen Use
+
+In traditional Indian home cooking, manganese is not an ingredient added directly but is intrinsically consumed through a diet rich in whole foods. It is abundant in staples like ragi (finger millet), bajra (pearl millet), and various dals (lentils). Spices such as cloves, cinnamon, and black pepper are particularly rich sources, contributing to the mineral profile of curries, masalas, and other preparations. Its presence supports metabolic processes without being a consciously manipulated culinary component, rather a natural endowment of a balanced, plant-forward Indian diet.
+
+## Industrial Applications
+
+In modern food science and industrial applications, manganese, often in forms like manganese citrate, is utilized as a fortifying agent in various processed foods and nutritional supplements. [Manganese](manganese.qmd) citrate, a highly bioavailable salt, is preferred for its stability and absorption, making it suitable for infant formulas, fortified cereals, and multivitamin supplements. It plays a crucial role as a cofactor for many enzymes involved in metabolism, bone development, and antioxidant defense. Its inclusion in FMCG products aims to address potential dietary gaps, ensuring consumers receive adequate levels of this vital micronutrient.
+
+## Distinctions and Common Confusion
+
+Consumers often encounter '[Manganese](manganese.qmd)' in nutritional labels, which refers to the essential trace element itself. However, specific forms like 'manganese citrate' denote a particular salt used for supplementation or fortification due to its enhanced bioavailability. It is important to distinguish this from other trace minerals like iron or zinc, each with unique physiological roles, though they are often found together in multimineral supplements. Unlike fats or oils, where fractionation creates distinct culinary products, manganese forms like citrate are chosen for their functional properties in nutrient delivery rather than altering the physical characteristics of food.

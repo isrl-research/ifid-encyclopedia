@@ -1,0 +1,24 @@
+---
+title: "Lactase"
+slug: lactase
+category: "Additives & Functional"
+category-slug: additives-functional
+keywords: ["Lactase", "Beta-galactosidase", "Enzyme", "Lactose intolerance", "Dairy", "Lactose-free", "Digestion", "Functional ingredient"]
+description: "Lactase, also known as beta-galactosidase, is an enzyme that hydrolyzes lactose, the sugar in dairy"
+---
+
+## History and Sourcing
+
+[Lactase](lactase.qmd), also known as beta-galactosidase, is an enzyme that hydrolyzes lactose, the sugar in dairy. While naturally present in the mammalian small intestine, commercial lactase is sourced via microbial fermentation, typically from *Aspergillus oryzae* or *Kluyveromyces lactis*. Its relevance in India is significant due to high rates of lactose intolerance amidst widespread traditional dairy consumption, offering a solution for continued dairy enjoyment.
+
+## Home Kitchen Use
+
+[Lactase](lactase.qmd) is not a traditional cooking ingredient but is used at home as a dietary supplement. [Lactose](lactose.qmd)-intolerant individuals take lactase enzyme preparations (tablets, capsules, or drops) with dairy products to aid lactose digestion and prevent discomfort. Less commonly, liquid lactase drops can be used to pre-treat milk at home to create lactose-free versions.
+
+## Industrial Applications
+
+Industrially, lactase is essential for producing lactose-free dairy products like milk, yogurt, cheese, and ice cream. It breaks down lactose into glucose and galactose, making these products digestible for lactose-intolerant consumers without compromising taste or nutrition. Specialized formulations, such as 'ultrasorb tech lactase,' are developed for enhanced efficiency and stability in large-scale food manufacturing.
+
+## Distinctions and Common Confusion
+
+Consumers often confuse 'lactase' with 'lactose.' [Lactose](lactose.qmd) is the milk sugar, while lactase is the enzyme that breaks it down. [Lactase](lactase.qmd) is distinct from general digestive enzymes, which target various macronutrients, and from probiotics, which are live microorganisms. Lactase's action is specific to lactose, directly addressing lactose intolerance by facilitating proper sugar digestion.

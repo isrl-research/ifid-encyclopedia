@@ -1,0 +1,24 @@
+---
+title: "Black Cumin"
+slug: black-cumin
+category: "Spices & Seasonings"
+category-slug: spices-seasonings
+keywords: ["Black Cumin", "Shahi Jeera", "Kala Jeera", "Bunium persicum", "Kashmiri cuisine", "Mughlai cuisine", "Spice"]
+description: "Black Cumin, botanically known as *Bunium persicum*, is a distinctive spice with a rich history, particularly in the culinary traditions of Western Asia, Nor..."
+---
+
+## History and Sourcing
+
+[Black Cumin](black-cumin.qmd), botanically known as *Bunium persicum*, is a distinctive spice with a rich history, particularly in the culinary traditions of Western Asia, North Africa, and parts of India. Often referred to as 'Shahi Jeera' (royal cumin) or 'Kala Jeera' (black cumin) in Hindi, its origins trace back to the mountainous regions of Central Asia and the Himalayan foothills. Unlike its more common cousin, *Cuminum cyminum* (regular cumin), *Bunium persicum* is less widely cultivated and primarily sourced from wild or semi-wild plants, making it a more prized and sometimes rarer commodity. Its introduction to Indian cuisine is deeply rooted in the Mughal era, where it became a staple in the royal kitchens, lending its unique aroma to elaborate dishes.
+
+## Home Kitchen Use
+
+In traditional Indian home kitchens, true black cumin (*Bunium persicum*) finds its most prominent application in specific regional cuisines, notably Kashmiri Wazwan and certain Mughlai preparations. Its flavour profile is distinctively earthy, smoky, and slightly nutty, with a subtle bitterness that sets it apart. It is often dry-roasted and ground, or used whole in tempering (tadka) for rich curries, biryanis, and pulaos, where its robust aroma can truly shine. It also features in some traditional breads like naan and kulcha, imparting a characteristic depth. Its usage is generally more nuanced and less ubiquitous than regular cumin, reserved for dishes where its unique character is desired.
+
+## Industrial Applications
+
+While not a primary ingredient in large-scale industrial food production, *Bunium persicum* does find its way into niche and gourmet food applications. It is occasionally incorporated into premium spice blends, ethnic food lines, and artisanal bakery products that aim to replicate authentic regional flavours. Its distinct aroma makes it a valuable flavouring agent in specialty snacks, ready-to-eat meals, and marinades targeting consumers seeking traditional or exotic taste experiences. However, its relatively higher cost and limited availability compared to other cumin varieties restrict its widespread industrial adoption.
+
+## Distinctions and Common Confusion
+
+A significant source of confusion arises from the common nomenclature of "black cumin" in India. Consumers often conflate *Bunium persicum* (true black cumin or Shahi Jeera) with *Nigella sativa*, which is widely known as Kalonji or Nigella seeds. While both are dark-coloured seeds, they are botanically distinct and possess vastly different flavour profiles. *Bunium persicum* seeds are longer, thinner, and have a smoky, earthy taste, whereas Kalonji seeds are small, tear-drop shaped, jet black, and offer a pungent, oniony, and slightly bitter flavour. Furthermore, both are distinct from *Cuminum cyminum* (regular cumin or Jeera), which is lighter in colour and has a warm, earthy, and slightly pungent taste.

@@ -1,0 +1,24 @@
+---
+title: "Mango Flavouring"
+slug: mango-flavouring
+category: "Additives & Functional"
+category-slug: additives-functional
+keywords: ["Mango", "Flavouring", "Additive", "Confectionery", "Beverage", "Industrial", "Artificial", "Natural", "Raw Mango"]
+description: "Mango flavouring is a concentrated additive designed to impart the characteristic taste and aroma of mango, India's revered \"king of fruits,\" without the use..."
+---
+
+## History and Sourcing
+
+[Mango](../fruits-veg-botanicals/mango.qmd) flavouring is a concentrated additive designed to impart the characteristic taste and aroma of mango, India's revered "king of fruits," without the use of actual fruit pulp. The mango (Mangifera indica) has a rich history in India, cultivated for over 4,000 years, with its name derived from the Tamil "mankay" or Malayalam "manna." While the fruit itself is deeply embedded in Indian culture and cuisine, the concept of flavouring emerged to replicate its diverse profiles, from the sweet Alphonso to the tangy Totapuri, offering a consistent and year-round sensory experience.
+
+## Home Kitchen Use
+
+In traditional Indian home cooking, the fresh fruit, whether ripe or raw, is paramount. Ripe mangoes are enjoyed as aamras, in desserts, or simply sliced, while raw mangoes are integral to chutneys, pickles (aam ka achar), and refreshing summer drinks like aam panna. [Mango](../fruits-veg-botanicals/mango.qmd) flavouring, however, finds its niche in modern home kitchens for convenience, particularly in regions or seasons where fresh mangoes are scarce or expensive. It is commonly used in homemade ice creams, custards, milkshakes, and baked goods to infuse a consistent mango essence.
+
+## Industrial Applications
+
+Industrially, mango flavouring is a cornerstone of the Indian food and beverage sector. Its applications are vast, ranging from fruit-based beverages, soft drinks, and squashes to a wide array of confectionery items like candies, jellies, and chewing gums. It is also extensively used in dairy products such as yogurts, ice creams, and lassis, as well as in bakery goods like cakes, biscuits, and pastries. The primary advantages for FMCG manufacturers include cost-effectiveness, extended shelf-life, consistent flavour profile irrespective of seasonal fruit availability, and the ability to create specific taste notes, such as the tartness of "raw mango flavouring" for tangy products.
+
+## Distinctions and Common Confusion
+
+A common point of confusion arises between "mango flavouring" and actual "mango fruit" or "mango pulp." While flavouring aims to mimic the taste and aroma, it lacks the nutritional value, fibre, and complex textural attributes of the natural fruit. Furthermore, flavourings can be either natural (derived from mango or other natural sources) or artificial (synthetically produced). Within flavourings, distinctions exist, such as "raw mango flavouring," which specifically targets the sour, green, and slightly astringent notes of unripe mango, contrasting sharply with the sweet, floral, and juicy profile of ripe mango flavourings.

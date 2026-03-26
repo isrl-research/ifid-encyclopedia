@@ -1,0 +1,24 @@
+---
+title: "Copper"
+slug: copper
+category: "Additives & Functional"
+category-slug: additives-functional
+keywords: ["Copper", "Trace Mineral", "Micronutrient", "Copper Sulphate", "Ayurveda", "Tamra Jal", "Essential Nutrient"]
+description: "Copper (Sanskrit: Tamra) holds a profound historical and cultural significance in India, being one of the earliest metals discovered and utilized by humanity"
+---
+
+## History and Sourcing
+
+[Copper](copper.qmd) (Sanskrit: Tamra) holds a profound historical and cultural significance in India, being one of the earliest metals discovered and utilized by humanity. Its use dates back to ancient civilizations, where it was prized for its malleability, conductivity, and antimicrobial properties. In India, copper has been integral to Ayurvedic practices for millennia, with the tradition of storing water in copper vessels (Tamra Jal) believed to impart health benefits. While elemental copper is a naturally occurring metal, as a trace mineral, it is sourced from various food groups including legumes, nuts, whole grains, leafy green vegetables, and organ meats.
+
+## Home Kitchen Use
+
+In traditional Indian home kitchens, copper is not used as a direct culinary ingredient in its elemental form. Instead, its presence is naturally inherent in a diverse range of staple foods that form the bedrock of the Indian diet. The practice of drinking water stored in copper pots, a tradition deeply rooted in Ayurveda, is perhaps the most direct "culinary" interaction with copper, believed to infuse the water with beneficial properties. Beyond this, the daily intake of copper comes from consuming a balanced diet rich in plant-based foods and, for non-vegetarians, certain meats.
+
+## Industrial Applications
+
+In modern food science and industry, copper is primarily recognized and utilized as an essential micronutrient. Its compounds, such as copper sulphate (also known as cupric sulphate), are commonly employed in the fortification of foods and beverages, as well as in dietary supplements. These forms ensure precise dosage and bioavailability. [Copper](copper.qmd) plays a critical role in numerous physiological processes, including the formation of red blood cells, iron absorption, energy production, and the maintenance of healthy bones, connective tissue, and the immune system. It is also a vital cofactor for many enzymes.
+
+## Distinctions and Common Confusion
+
+A common point of confusion arises between elemental copper, the essential trace mineral, and its chemical compounds like copper sulphate. While copper sulphate is a salt of copper used in supplements and fortification, it is not the same as the metallic copper found in utensils. It is crucial to understand that copper is an essential nutrient required in very small amounts; excessive intake, particularly from unregulated sources or prolonged contact with acidic foods in unlined copper cookware, can lead to toxicity. It is distinct from other bulk minerals and should be consumed within recommended dietary allowances.

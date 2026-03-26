@@ -1,0 +1,24 @@
+---
+title: "Lemon"
+slug: lemon
+category: "Fruits, Veg & Botanicals"
+category-slug: fruits-veg-botanicals
+keywords: ["Lemon", "Nimbu", "Citrus", "Lemon Juice", "Lemon Concentrate", "Lemon Powder", "Candied Lemon Peel"]
+description: "The lemon, known in India as *nimbu*, is a ubiquitous citrus fruit deeply embedded in the subcontinent's culinary, medicinal, and cultural fabric"
+---
+
+## History and Sourcing
+
+The lemon, known in India as *nimbu*, is a ubiquitous citrus fruit deeply embedded in the subcontinent's culinary, medicinal, and cultural fabric. While its precise origins are debated, genetic studies suggest its ancestral home lies in Northeast India, northern Myanmar, or China, from where it spread globally. The Sanskrit term "nimbūka" points to its ancient presence and significance in India, long before its widespread cultivation in the Mediterranean. Today, India is one of the world's largest producers of lemons, with significant cultivation in states like Andhra Pradesh, Maharashtra, Gujarat, Karnataka, and Tamil Nadu, where diverse varieties thrive in tropical and subtropical climates.
+
+## Home Kitchen Use
+
+In Indian home kitchens, the fresh lemon is indispensable. Its tart juice is a cornerstone for *nimbu pani*, a refreshing summer drink, and a vital ingredient in marinades for meats and vegetables, lending acidity and tenderizing properties. It brightens up *dal*, *sabzis*, and *chaats*, often squeezed fresh just before serving. Lemon zest is used to impart a fragrant, citrusy aroma to desserts and savoury dishes, while the whole fruit is famously transformed into *nimbu ka achaar* (lemon pickle), a staple condiment in many households. Its role extends beyond flavour, acting as a natural preservative and a digestive aid in traditional remedies.
+
+## Industrial Applications
+
+Industrially, lemon finds extensive application across the food and beverage sector. Lemon juice concentrate is a primary ingredient in packaged beverages, sauces, dressings, and confectionery, offering consistent flavour and acidity. Lemon powder and lemon fruit powder are utilized in instant mixes, seasoning blends, bakery products, and snack foods, providing a convenient, shelf-stable form of lemon flavour. Candied lemon peels are a popular inclusion in baked goods, ice creams, and sweet treats, adding a chewy texture and intense citrus note. These processed forms are valued for their ease of storage, extended shelf life, and standardized flavour profile, crucial for large-scale food manufacturing.
+
+## Distinctions and Common Confusion
+
+Consumers often encounter various forms of lemon, leading to some confusion regarding their applications. While fresh lemon provides a vibrant, complex flavour profile, lemon juice concentrate offers a more intense, standardized acidity and flavour, making it ideal for industrial formulations requiring consistency. Lemon powder, derived from either the juice or the whole fruit, provides a dry, convenient form for flavouring and acidity in powdered products. It is also important to distinguish between the botanical lemon (*Citrus limon*) and lime (*Citrus aurantifolia* or *Citrus latifolia*), both commonly referred to as *nimbu* in India. While both are tart citrus fruits, lemons are typically larger, oval, and yellow when ripe, with a thicker rind, whereas limes are smaller, rounder, and green, often with a more intense sourness.

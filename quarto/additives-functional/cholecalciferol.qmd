@@ -1,0 +1,24 @@
+---
+title: "Cholecalciferol"
+slug: cholecalciferol
+category: "Additives & Functional"
+category-slug: additives-functional
+keywords: ["Vitamin D3", "Fortification", "Bone Health", "Ergocalciferol", "Lanolin", "Sunlight", "Dietary Supplement"]
+description: "Cholecalciferol, commonly known as Vitamin D3, is a fat-soluble secosteroid essential for human health, primarily synthesized in the skin upon exposure to ul..."
+---
+
+## History and Sourcing
+
+[Cholecalciferol](cholecalciferol.qmd), commonly known as Vitamin D3, is a fat-soluble secosteroid essential for human health, primarily synthesized in the skin upon exposure to ultraviolet B (UVB) radiation from sunlight. While historically obtained through sun exposure and diets rich in fatty fish, its recognition as a vital nutrient gained prominence in the early 20th century with the understanding of its role in preventing rickets. In India, where sunlight is abundant, [Vitamin D](vitamin-d.qmd) deficiency remains paradoxically widespread due to lifestyle changes, indoor occupations, and cultural practices. Commercial Cholecalciferol is typically sourced from the lanolin of sheep's wool, though vegan forms derived from lichen are also available, catering to diverse dietary preferences.
+
+## Home Kitchen Use
+
+In traditional Indian home cooking, [Cholecalciferol](cholecalciferol.qmd) is not an ingredient added directly. Instead, its presence is naturally derived from foods like certain fish (though less common in vegetarian diets), egg yolks, and fortified dairy products. Many Indian households consume milk and cereals that are fortified with Vitamin D3, making it an indirect but crucial part of the daily diet. Its role in calcium absorption and bone health is well-understood, and families often rely on a combination of sun exposure and fortified foods to meet their daily requirements.
+
+## Industrial Applications
+
+Industrially, [Cholecalciferol](cholecalciferol.qmd) is a critical additive in the Indian food and supplement sectors. It is widely used for fortifying milk, dairy products like yogurt and cheese, breakfast cereals, edible oils, and infant formulas to address widespread [Vitamin D](vitamin-d.qmd) deficiency. Its inclusion allows manufacturers to make health claims related to bone health and immunity. Beyond food, Cholecalciferol is a primary ingredient in dietary supplements, available in various forms such as tablets, capsules, and drops, playing a significant role in public health initiatives aimed at combating nutritional deficiencies across the subcontinent.
+
+## Distinctions and Common Confusion
+
+Consumers often encounter confusion regarding the different forms of [Vitamin D](vitamin-d.qmd). [Cholecalciferol](cholecalciferol.qmd) (Vitamin D3) is distinct from [Ergocalciferol](ergocalciferol.qmd) (Vitamin D2). While both are forms of Vitamin D, D3 is primarily animal-derived (or from lichen) and is generally considered more potent and effective in raising and maintaining serum Vitamin D levels in humans compared to D2, which is plant or fungal-derived. The general term "Vitamin D" encompasses both, but D3 is the preferred form for fortification and supplementation due to its superior bioavailability and efficacy.

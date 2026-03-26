@@ -1,0 +1,24 @@
+---
+title: "Wheat Flour"
+slug: wheat-flour
+category: "Staples (Grains/Dals)"
+category-slug: staples
+keywords: ["Wheat", "Atta", "Maida", "Roti", "Chapati", "Fortified", "Gluten", "Staple", "India"]
+description: "Wheat flour, known as *gehun ka atta* in Hindi, holds an ancient and pivotal place in Indian culinary history, with evidence of its cultivation dating back t..."
+---
+
+## History and Sourcing
+
+Wheat flour, known as *gehun ka atta* in Hindi, holds an ancient and pivotal place in Indian culinary history, with evidence of its cultivation dating back to the Indus Valley Civilization. Originating from the Fertile Crescent, wheat was introduced to the Indian subcontinent millennia ago and quickly became a staple, particularly in the northern and western regions. Today, India is one of the world's largest producers of wheat, with major growing areas concentrated in states like Punjab, Haryana, Uttar Pradesh, Madhya Pradesh, and Rajasthan, where diverse varieties are cultivated to suit various climatic conditions and culinary needs.
+
+## Home Kitchen Use
+
+In Indian home kitchens, wheat flour is indispensable. Its most iconic application is in the preparation of unleavened flatbreads such as *roti*, *chapati*, *paratha*, and *puri*, which form the backbone of daily meals across the country. Beyond flatbreads, wheat flour is also used in traditional sweets like *atta halwa* and *laddoos*, and as a thickening agent in various gravies and sauces. Its versatility stems from its gluten content, which provides elasticity and structure, making it ideal for dough-based preparations.
+
+## Industrial Applications
+
+Industrially, wheat flour is a cornerstone of the Indian food processing sector. It is extensively utilized in the production of a vast array of FMCG products, including breads, biscuits, cakes, pastries, noodles, and pasta. Fortified wheat flour, enriched with essential micronutrients like calcium, iron, niacin (Vitamin B3), and thiamin (Vitamin B1), plays a crucial role in public health initiatives aimed at combating nutritional deficiencies, particularly among vulnerable populations. This fortification enhances the nutritional value of commonly consumed wheat-based products without altering their taste or texture.
+
+## Distinctions and Common Confusion
+
+Consumers often encounter "wheat flour" as a broad term, leading to confusion between its primary forms in India: *Atta* and *Maida*. *Atta* refers to whole wheat flour, which includes the bran, germ, and endosperm, making it rich in fiber and nutrients, and is traditionally used for *chapatis*. *Maida*, on the other hand, is refined wheat flour, where the bran and germ are removed, resulting in a finer, whiter flour with less fiber, commonly used for bakery items, *naan*, and *bhature*. While both are derived from wheat, their processing, nutritional profiles, and culinary applications are distinct.

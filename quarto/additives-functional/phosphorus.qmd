@@ -1,0 +1,24 @@
+---
+title: "Phosphorus"
+slug: phosphorus
+category: "Additives & Functional"
+category-slug: additives-functional
+keywords: ["Mineral", "Nutrient", "Phosphates", "Bone Health", "Food Additive", "Metabolism", "Essential Element"]
+description: "Phosphorus, from the Greek 'phosphoros' (light-bringing), is a fundamental chemical element and the second most abundant mineral in the human body"
+---
+
+## History and Sourcing
+
+[Phosphorus](phosphorus.qmd), from the Greek 'phosphoros' (light-bringing), is a fundamental chemical element and the second most abundant mineral in the human body. While not a direct culinary ingredient, it is ubiquitous in the Indian diet, naturally occurring in a vast array of foods. Its scientific discovery dates to the 17th century, but its biological importance has been recognized through centuries of traditional diets. In India, phosphorus is sourced indirectly through the consumption of diverse agricultural produce, dairy, and animal products, reflecting its essential role in all living organisms.
+
+## Home Kitchen Use
+
+In home kitchens across India, phosphorus is not added as a standalone ingredient but is inherently present in staple foods. Dairy products (milk, paneer, curd), legumes (dals), nuts, seeds, and whole grains (ragi, bajra, wheat) are significant natural sources. Its presence ensures the nutritional integrity of dishes, supporting vital bodily functions without being a consciously manipulated culinary component.
+
+## Industrial Applications
+
+Industrially, phosphorus compounds, primarily phosphates, play crucial functional roles in food processing. They are widely used as food additives (e.g., INS 339, 340, 341, 450, 451, 452) for their diverse properties. Phosphates act as leavening agents in baked goods, emulsifiers in processed cheeses, stabilizers in dairy products, and acidity regulators in beverages. They are also key components in fortifying foods like cereals and milk powders to enhance nutritional profiles and are essential in animal feed formulations.
+
+## Distinctions and Common Confusion
+
+A common confusion lies in distinguishing between elemental phosphorus and dietary phosphorus. Elemental phosphorus is a highly reactive substance not consumed directly. The 'phosphorus' referred to in nutrition is actually in the form of phosphate compounds, naturally present in foods or added as mineral salts. Consumers often focus on calcium for bone health, overlooking that phosphorus is equally critical and works synergistically with calcium. It is also distinct from other minerals like iron or zinc, each having unique roles, and should not be mistaken for a flavouring agent or spice.

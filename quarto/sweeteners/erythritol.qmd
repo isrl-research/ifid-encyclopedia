@@ -1,0 +1,24 @@
+---
+title: "Erythritol"
+slug: erythritol
+category: "Sweeteners"
+category-slug: sweeteners
+keywords: ["Erythritol", "Sugar Substitute", "Polyol", "Low Calorie Sweetener", "Sugar Alcohol", "Diabetic Friendly", "Non-cariogenic"]
+description: "Erythritol is a polyol, or sugar alcohol, naturally occurring in some fruits like grapes, pears, and melons, and in fermented foods such as wine and soy sauce"
+---
+
+## History and Sourcing
+
+[Erythritol](erythritol.qmd) is a polyol, or sugar alcohol, naturally occurring in some fruits like grapes, pears, and melons, and in fermented foods such as wine and soy sauce. First isolated in 1848 by Scottish chemist John Stenhouse, its industrial production primarily involves the fermentation of glucose by specific yeasts, a process that has made it commercially viable as a bulk sweetener. While not indigenous to traditional Indian cuisine, its introduction to the Indian market is a relatively modern phenomenon, driven by increasing health consciousness, the rising prevalence of lifestyle diseases like diabetes, and a growing demand for low-calorie food alternatives.
+
+## Home Kitchen Use
+
+In Indian home kitchens, [Erythritol](erythritol.qmd) is increasingly adopted as a sugar substitute, particularly by individuals managing diabetes or seeking to reduce their caloric intake. It finds use in a variety of sweet preparations, from traditional Indian desserts like kheer and halwa (in modified, sugar-free versions) to Western-style baked goods and beverages. Its mild sweetness, approximately 70% that of sucrose, and clean taste profile make it a versatile ingredient, often blended with other high-intensity sweeteners like stevia or monk fruit to achieve a more balanced sweetness and mouthfeel akin to sugar.
+
+## Industrial Applications
+
+Industrially, [Erythritol](erythritol.qmd) is a key ingredient in India's burgeoning "sugar-free" and "no added sugar" food and beverage segments. It is extensively utilized in confectionery, chewing gums, chocolates, baked goods, dairy products like yogurts and ice creams, and various health drinks. Its functional benefits include providing bulk and texture, masking off-notes from other high-intensity sweeteners, and offering a pleasant cooling sensation. Furthermore, its non-cariogenic nature makes it a preferred choice for oral care products, while its low caloric value (nearly zero) and high digestive tolerance contribute to its widespread adoption in dietetic formulations.
+
+## Distinctions and Common Confusion
+
+Consumers often encounter confusion when differentiating [Erythritol](erythritol.qmd) from other sugar substitutes available in the Indian market. Unlike artificial sweeteners such as sucralose or aspartame, Erythritol is a sugar alcohol, similar to xylitol or sorbitol. However, a key distinction lies in its metabolic pathway: Erythritol is largely absorbed in the small intestine and excreted unchanged in urine, leading to significantly fewer gastrointestinal side effects (like bloating or laxation) compared to other polyols. It also boasts a near-zero caloric content (0.2 kcal/g) and a negligible impact on blood glucose levels, setting it apart from other sweeteners that may have higher caloric values or different digestive profiles.

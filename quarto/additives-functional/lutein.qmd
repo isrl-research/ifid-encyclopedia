@@ -1,0 +1,24 @@
+---
+title: "Lutein"
+slug: lutein
+category: "Additives & Functional"
+category-slug: additives-functional
+keywords: ["Carotenoid", "Marigold", "Eye Health", "Natural Colorant", "Zeaxanthin", "INS 161g", "Antioxidant"]
+description: "Lutein is a naturally occurring xanthophyll carotenoid, a type of organic pigment found abundantly in plants"
+---
+
+## History and Sourcing
+
+[Lutein](lutein.qmd) is a naturally occurring xanthophyll carotenoid, a type of organic pigment found abundantly in plants. Its name is derived from the Latin word "luteus," meaning yellow, reflecting its characteristic hue. While not synthesized by the human body, lutein is crucial for vision and is obtained through diet. In India, it is naturally present in a variety of common vegetables, particularly dark leafy greens like spinach (palak), mustard greens (sarson), and fenugreek leaves (methi), as well as in corn and egg yolks. Commercially, a significant source for lutein extraction is the marigold flower (Tagetes erecta), cultivated in regions globally, including parts of India, for its high lutein content.
+
+## Home Kitchen Use
+
+In traditional Indian home cooking, lutein is consumed as an integral part of the diet through the regular inclusion of carotenoid-rich vegetables. It is not typically added as a standalone ingredient. The vibrant yellow and green colours of many Indian dishes, from a simple dal tadka to a complex saag, are partly attributed to the natural presence of lutein and other carotenoids in the ingredients. Its consumption is thus deeply embedded in the nutritional fabric of Indian culinary practices, contributing to the overall health benefits of a balanced diet.
+
+## Industrial Applications
+
+Industrially, lutein finds significant application as a natural food colourant (INS 161g), imparting a desirable yellow to orange hue to various processed foods, beverages, and confectionery items. Beyond its role as a pigment, lutein is highly valued in the functional food and nutraceutical sectors, primarily for its antioxidant properties and its crucial role in eye health. It is often formulated as a "lutein-zeaxanthin complex" in dietary supplements, targeting age-related macular degeneration and other vision-related concerns. It is also used in poultry feed to enhance the colour of egg yolks and broiler skin.
+
+## Distinctions and Common Confusion
+
+Consumers often encounter lutein in different forms, leading to some confusion. It is important to distinguish between lutein as a naturally occurring compound in whole foods and its isolated form used as a food additive (INS 161g). While both are chemically identical, the latter is concentrated and added for specific functional or aesthetic purposes. Furthermore, lutein is frequently discussed alongside zeaxanthin, another carotenoid, as they often co-exist in nature and work synergistically in the human eye. This "lutein-zeaxanthin complex" is distinct from other carotenoids like beta-carotene, which is a precursor to [Vitamin A](vitamin-a.qmd), as lutein does not convert to Vitamin A in the body.

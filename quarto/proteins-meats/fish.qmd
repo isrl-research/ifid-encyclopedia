@@ -1,0 +1,24 @@
+---
+title: "Fish"
+slug: fish
+category: "Proteins & Meats"
+category-slug: proteins-meats
+keywords: ["Omega-3", "Fish Oil", "Cod Liver Oil", "Mackerel", "Sardines", "EPA/DHA", "Marine Nutrition"]
+description: "India’s vast coastline has fostered a deep-rooted heritage of fish consumption, with varieties like Mackerel (Bangda), Sardines (Tarli), and Anchovies (Nethi..."
+---
+
+## History and Sourcing
+
+India’s vast coastline has fostered a deep-rooted heritage of fish consumption, with varieties like Mackerel (Bangda), Sardines (Tarli), and Anchovies (Nethili) being staples in regional coastal cuisines. Historically, these small pelagic fish were the primary protein source for the Konkan and Malabar regions. While Salmon and Cod are largely imported, they have become prominent in the Indian urban market due to their nutritional profile.
+
+## Home Kitchen Use
+
+In Indian kitchens, fish is prepared according to regional traditions: Mackerel is often pan-fried with spices, Sardines are used in tamarind-rich curries, and Anchovies are frequently sun-dried or deep-fried. These oily fish are culturally revered as 'brain food' across India, often integrated into daily meals to provide essential nutrients and high-quality protein.
+
+## Industrial Applications
+
+Industrially, fish is processed into high-value oils (M-OIL) rich in Omega-3 fatty acids (EPA/DHA). These are used to fortify health drinks, infant formula, and supplements. Cod Liver Oil remains a specific therapeutic category for [Vitamin A](../additives-functional/vitamin-a.qmd) and D delivery, while oils from Anchovies and Sardines are the industrial standard for Omega-3 fortification in functional foods.
+
+## Distinctions and Common Confusion
+
+A key distinction exists between [Fish](fish.qmd) Oil (from the flesh of oily fish like Sardines) and Cod Liver Oil (specifically from cod livers). While both provide Omega-3s, Cod Liver Oil is uniquely high in Vitamins A and D. Additionally, Anchovies are often confused with small Sardines, but they offer a much more intense umami flavor and are botanically distinct.

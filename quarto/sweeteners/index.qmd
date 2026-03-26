@@ -1,0 +1,12 @@
+---
+title: "Sweeteners"
+listing:
+  contents: "*.qmd"
+  sort: "title asc"
+  type: table
+  fields: [title, description]
+  exclude:
+    slug: "sweeteners"
+---
+
+*18 ingredients in this category.*

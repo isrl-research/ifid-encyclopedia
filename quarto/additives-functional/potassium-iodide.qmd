@@ -1,0 +1,24 @@
+---
+title: "Potassium Iodide"
+slug: potassium-iodide
+category: "Additives & Functional"
+category-slug: additives-functional
+keywords: ["Iodine", "Iodized Salt", "Fortification", "Micronutrient", "NIDDCP", "Salt Additive", "Thyroid Health"]
+description: "Potassium Iodide is an inorganic salt, a chemical compound of potassium and iodine, primarily recognized for its crucial role in human nutrition and health"
+---
+
+## History and Sourcing
+
+[Potassium Iodide](potassium-iodide.qmd) is an inorganic salt, a chemical compound of potassium and iodine, primarily recognized for its crucial role in human nutrition and health. While not a traditional ingredient cultivated or sourced from specific regions in India, its significance in the Indian context is deeply rooted in public health initiatives. Historically, iodine deficiency has been a widespread issue globally, leading to various health complications. In India, the National Iodine Deficiency Disorders Control Programme (NIDDCP), launched in 1962, mandated the universal iodization of salt, making potassium iodide (or potassium iodate) a vital component in the nation's fight against iodine deficiency disorders.
+
+## Home Kitchen Use
+
+In Indian home kitchens, [Potassium Iodide](potassium-iodide.qmd) is not used as a standalone ingredient or seasoning. Its presence is almost exclusively through iodized common salt, which is a staple in every household. It serves as a critical micronutrient, essential for the synthesis of thyroid hormones, which regulate metabolism, growth, and development. By incorporating it into daily salt, the government ensures a consistent and accessible intake of iodine, preventing conditions like goitre, cretinism, and impaired cognitive development, particularly in children.
+
+## Industrial Applications
+
+Industrially, [Potassium Iodide](potassium-iodide.qmd) is a key fortificant in the production of iodized salt for the Fast-Moving Consumer Goods (FMCG) sector. Its stability and bioavailability make it an effective choice for this purpose, though potassium iodate is often preferred in humid climates due to its superior stability. Beyond salt fortification, [Potassium](potassium.qmd) Iodide finds applications in pharmaceuticals, particularly in thyroid medications and as an expectorant, and historically in photography. Its industrial application in India is almost entirely driven by the public health mandate for universal salt iodization, ensuring that a fundamental nutritional requirement is met through a widely consumed commodity.
+
+## Distinctions and Common Confusion
+
+Consumers often do not distinguish between "iodine," "potassium iodide," and "iodized salt." It is crucial to understand that potassium iodide is a specific chemical compound, a source of the essential micronutrient iodine, which is then added to common salt to create "iodized salt." It is not a seasoning in itself but a functional additive within a seasoning. Furthermore, while both potassium iodide and potassium iodate are used for salt iodization, they are distinct compounds, with potassium iodate often chosen for its enhanced stability in challenging storage conditions prevalent in many parts of India.

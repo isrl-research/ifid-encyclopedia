@@ -1,0 +1,24 @@
+---
+title: "FOS"
+slug: fos
+category: "Additives & Functional"
+category-slug: additives-functional
+keywords: ["Prebiotic", "Fructo-oligosaccharides", "Dietary Fiber", "Gut Health", "Functional Food", "Sweetener", "Chicory"]
+description: "Fructo-oligosaccharides, or FOS, are naturally occurring carbohydrates found in numerous plants"
+---
+
+## History and Sourcing
+
+Fructo-oligosaccharides, or [FOS](fos.qmd), are naturally occurring carbohydrates found in numerous plants. While the industrial application of FOS is a modern development, the compounds have been consumed in India for millennia through indigenous sources like onions, garlic, bananas, and asparagus, which are staples in traditional Indian cuisine and medicine. The scientific identification and isolation of FOS as a distinct functional ingredient gained prominence globally in the 20th century, subsequently integrating into the Indian food industry.
+
+## Home Kitchen Use
+
+[FOS](fos.qmd) is not utilized as a standalone ingredient in traditional Indian home cooking. Its benefits are instead derived naturally from the regular consumption of FOS-rich vegetables and fruits. Onions and garlic are foundational to a vast array of Indian dishes, from curries to dals, contributing both flavour and their inherent FOS content. Similarly, bananas are a widely consumed fruit, and asparagus, though regionally varied, also contributes to the natural intake of FOS.
+
+## Industrial Applications
+
+In industrial applications, [FOS](fos.qmd) is highly prized as a prebiotic fibre and a low-calorie sweetener. It is extensively incorporated into functional foods, dietary supplements, and health-conscious products throughout India. Its mild sweetness and proven gut health benefits make it a popular additive in yogurts, infant formulas, health drinks, energy bars, and specific baked goods. Food technologists leverage FOS to enhance the nutritional profile of products, offering a sugar-reducing and fibre-boosting alternative that caters to the increasing consumer demand for wellness-oriented food options.
+
+## Distinctions and Common Confusion
+
+Consumers frequently encounter [FOS](fos.qmd) and may mistakenly conflate it with other forms of dietary fibre or artificial sweeteners. The crucial distinction is that FOS is a *prebiotic* fibre, meaning it specifically fosters the growth and activity of beneficial gut bacteria in the colon, a targeted action not necessarily shared by all dietary fibres. Moreover, while FOS imparts a mild sweetness, it is a naturally derived carbohydrate, not an artificial sweetener. It remains undigested in the upper digestive tract, providing fewer calories than sucrose and contributing to gut health rather than merely flavour.

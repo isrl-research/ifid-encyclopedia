@@ -1,0 +1,12 @@
+---
+title: "Spices & Seasonings"
+listing:
+  contents: "*.qmd"
+  sort: "title asc"
+  type: table
+  fields: [title, description]
+  exclude:
+    slug: "spices-seasonings"
+---
+
+*68 ingredients in this category.*

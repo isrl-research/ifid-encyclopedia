@@ -1,0 +1,24 @@
+---
+title: "Paprika Extract (INS 160c)"
+slug: paprika-extract-ins-160c
+category: "Additives & Functional"
+category-slug: additives-functional
+keywords: ["Paprika", "Paprika Extract", "Paprika Oleoresin", "INS 160c", "Natural Food Color", "Capsicum annuum", "Colorant"]
+description: "Paprika Extract, also known as Paprika Oleoresin (INS 160c), is a natural food colour derived from the fruit of *Capsicum annuum*, the same plant species tha..."
+---
+
+## History and Sourcing
+
+[Paprika](../spices-seasonings/paprika.qmd) Extract, also known as Paprika [Oleoresin](../spices-seasonings/oleoresin.qmd) (INS 160c), is a natural food colour derived from the fruit of *Capsicum annuum*, the same plant species that yields bell peppers, chillies, and the spice paprika. Originating in the Americas, *Capsicum annuum* was introduced to India by the Portuguese in the 16th century, quickly integrating into the subcontinent's culinary landscape. While the term "paprika" itself is Hungarian, referring to a mild, dried, and ground form of the pepper, the plant thrives in various Indian climates, contributing to a diverse range of chilli varieties. The extract is a concentrated form, capturing the vibrant carotenoid pigments responsible for the characteristic red-orange hue.
+
+## Home Kitchen Use
+
+In traditional Indian home kitchens, the direct use of [Paprika](../spices-seasonings/paprika.qmd) Extract is uncommon. Instead, the dried and ground spice, paprika powder, or more commonly, Kashmiri chilli powder, is employed to impart a rich red colour and mild flavour to dishes. It is a staple in marinades for tandoori preparations, various curries, and lentil dishes, where its primary role is aesthetic, enhancing the visual appeal without adding excessive heat. The spice is often bloomed in oil or ghee at the beginning of cooking to release its fat-soluble pigments effectively.
+
+## Industrial Applications
+
+Industrially, [Paprika Extract (INS 160c)](paprika-extract-ins-160c.qmd) is a highly valued natural colourant in the FMCG sector. Its fat-soluble nature and good heat stability make it ideal for a wide array of processed foods. It is extensively used in snacks like namkeen, chips, and extruded products to provide an appealing orange-red tint. Beyond snacks, it finds application in sauces, processed meats, dairy alternatives, seasonings, and even some beverages, offering a clean label alternative to synthetic colours. Food technologists leverage its consistent colouring properties to achieve desired visual standards across product lines.
+
+## Distinctions and Common Confusion
+
+Consumers often confuse [Paprika](../spices-seasonings/paprika.qmd) Extract with the spice paprika powder. While both originate from *Capsicum annuum*, the extract is a highly concentrated oleoresin primarily used for its colouring properties, with minimal flavour contribution. Paprika powder, on the other hand, is a spice that offers both colour and a distinct, mild, often sweet flavour. Furthermore, Paprika Extract stands apart from other natural red colourants like [Beetroot Red (INS 162)](beetroot-red-ins-162.qmd) or [Annatto (INS 160b)](annatto-ins-160b.qmd) due to its specific carotenoid profile, and it is distinctly different from synthetic red dyes such as [Ponceau 4R (INS 124)](ponceau-4r-ins-124.qmd) or [Allura Red (INS 129)](allura-red-ins-129.qmd), being a naturally derived ingredient.

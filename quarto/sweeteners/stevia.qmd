@@ -1,0 +1,24 @@
+---
+title: "Stevia"
+slug: stevia
+category: "Sweeteners"
+category-slug: sweeteners
+keywords: ["Stevia", "Steviol Glycosides", "Natural Sweetener", "Sugar Substitute", "Zero Calorie", "Rebaudioside A", "INS 960"]
+description: "Stevia, derived from the leaves of the *Stevia rebaudiana* plant, is a natural, high-intensity sweetener native to the subtropical regions of Paraguay and Br..."
+---
+
+## History and Sourcing
+
+[Stevia](stevia.qmd), derived from the leaves of the *Stevia rebaudiana* plant, is a natural, high-intensity sweetener native to the subtropical regions of Paraguay and Brazil, where it has been traditionally used for centuries to sweeten local beverages and medicines. Its introduction to India is relatively recent, gaining traction in the last two decades as a 'natural' alternative to sugar and artificial sweeteners. While commercial cultivation of the stevia plant in India is limited, primarily in states like Karnataka and Maharashtra, the market largely relies on imported steviol glycoside extracts. The plant's leaves contain various sweet compounds, collectively known as steviol glycosides, which are responsible for its intense sweetness.
+
+## Home Kitchen Use
+
+In Indian home kitchens, stevia is primarily utilized as a tabletop sweetener for hot and cold beverages like tea, coffee, and lemonades, catering to individuals seeking to reduce their sugar intake for health reasons such as diabetes management or weight control. It is also increasingly incorporated into home baking and dessert preparations, though its distinct taste profile and lack of bulk compared to sugar require careful formulation adjustments. Unlike traditional Indian sweeteners like jaggery or honey, stevia does not contribute to the texture or caramelization properties of food, limiting its direct substitution in many traditional recipes without modification.
+
+## Industrial Applications
+
+Industrially, stevia, specifically its purified steviol glycosides (INS 960), has become a cornerstone in the formulation of 'sugar-free' or 'diet' products across the Fast-Moving Consumer Goods (FMCG) sector in India. Its zero-calorie nature and natural origin appeal strongly to health-conscious consumers. It is extensively used in carbonated soft drinks, juices, dairy products (yogurts, flavored milk), confectionery, and baked goods. Rebaudioside A (Reb-A), a specific steviol glycoside, is particularly favored for its cleaner taste profile and reduced bitterness compared to other steviol glycosides, making it a popular choice for manufacturers aiming for optimal sensory attributes.
+
+## Distinctions and Common Confusion
+
+A common point of confusion arises between the raw stevia leaf or plant and the highly purified steviol glycoside extracts used commercially. While the plant itself is sweet, the 'sweetener' sold as [Stevia](stevia.qmd) (INS 960) is a concentrated extract of specific steviol glycosides, such as Reb-A, which are hundreds of times sweeter than sugar. Consumers may also conflate stevia with other artificial sweeteners like aspartame or sucralose; however, stevia is often marketed on its 'natural' plant-derived origin. It is also important to note that some stevia extracts, particularly less purified forms, can impart a slight licorice-like or bitter aftertaste, which manufacturers continuously work to mitigate through advanced extraction and purification techniques.

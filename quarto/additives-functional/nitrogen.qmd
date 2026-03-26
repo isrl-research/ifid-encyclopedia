@@ -1,0 +1,24 @@
+---
+title: "Nitrogen"
+slug: nitrogen
+category: "Additives & Functional"
+category-slug: additives-functional
+keywords: ["Nitrogen", "INS 941", "Packaging Gas", "Propellant", "Inert Gas", "Food Preservation", "Modified Atmosphere Packaging"]
+description: "Nitrogen, an inert gaseous element (N₂), constitutes approximately 78% of Earth's atmosphere"
+---
+
+## History and Sourcing
+
+[Nitrogen](nitrogen.qmd), an inert gaseous element (N₂), constitutes approximately 78% of Earth's atmosphere. Discovered by Scottish physician Daniel Rutherford in 1772, its name derives from the Greek "nitron genes," meaning "soda forming." While not an agricultural product, its industrial sourcing involves cryogenic distillation of air, a process widely adopted globally, including in India, to separate nitrogen from oxygen and argon. Its application in the Indian food industry mirrors global trends, becoming indispensable with the growth of packaged and processed foods, ensuring product integrity and extending shelf life across diverse climatic conditions.
+
+## Home Kitchen Use
+
+In traditional Indian home kitchens, elemental nitrogen holds no direct culinary application as an ingredient. It is not added to dishes for flavour, texture, or nutritional value. However, its indirect role in preserving the freshness of various packaged ingredients—from spices and flours to snacks and dairy products—means that many staples used in Indian homes benefit from its protective properties before they even reach the consumer's pantry.
+
+## Industrial Applications
+
+Industrially, nitrogen (INS 941) is a critical functional additive. Its primary role is as a packaging gas in Modified Atmosphere Packaging (MAP), where it displaces oxygen in food packets. This inert environment significantly retards oxidative spoilage, rancidity, and microbial growth, thereby extending the shelf life of products like namkeen, chips, coffee, and dairy items. Furthermore, it serves as a propellant in aerosol cans for products such as whipped cream and cooking sprays, ensuring efficient and controlled dispensing. Its non-reactive nature makes it ideal for maintaining the quality and sensory attributes of sensitive food products throughout their distribution chain.
+
+## Distinctions and Common Confusion
+
+Consumers often encounter nitrogen in packaged foods without fully understanding its function. It is crucial to distinguish nitrogen (INS 941) as an inert processing aid and packaging gas from other food additives that impart flavour, colour, or texture. Unlike active ingredients, nitrogen is not consumed directly but rather creates a protective atmosphere. It is also distinct from other packaging gases like carbon dioxide, which can have antimicrobial properties or affect pH, as nitrogen's role is primarily to prevent oxidation and maintain package integrity without altering the food's intrinsic characteristics.

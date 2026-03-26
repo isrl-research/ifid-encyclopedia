@@ -1,0 +1,24 @@
+---
+title: "Date Fiber"
+slug: date-fiber
+category: "Additives & Functional"
+category-slug: additives-functional
+keywords: ["Date", "Fiber", "Dietary Fiber", "Khajur", "Functional Ingredient", "Prebiotic", "Natural Sweetener"]
+description: "Date fiber is a natural dietary fiber extracted from the fruit of the date palm (Phoenix dactylifera)"
+---
+
+## History and Sourcing
+
+Date fiber is a natural dietary fiber extracted from the fruit of the date palm (Phoenix dactylifera). [Dates](../fruits-veg-botanicals/dates.qmd), known as khajur in Hindi, have a rich history in India, having been introduced centuries ago from their native Middle Eastern and North African regions. While dates are cultivated in arid parts of India, particularly Rajasthan, Gujarat, and some southern states, the industrial extraction of date fiber is a more recent development, often utilizing byproducts from date processing. This fiber is primarily derived from the fruit's pulp, offering a concentrated source of both soluble and insoluble dietary components.
+
+## Home Kitchen Use
+
+In traditional Indian home kitchens, date fiber is not used as a standalone ingredient. Instead, the whole date fruit is a cherished component, consumed fresh or dried. [Dates](../fruits-veg-botanicals/dates.qmd) are incorporated into various sweets, desserts, milkshakes, and energy bars, and are often enjoyed simply as a nutritious snack. The fiber, along with the natural sugars, vitamins, and minerals, is consumed as an integral part of the whole fruit, valued for its energy-boosting and digestive properties.
+
+## Industrial Applications
+
+Industrially, date fiber is a versatile functional ingredient in the FMCG sector. It is widely incorporated into health bars, breakfast cereals, baked goods (such as breads, cookies, and muffins), dairy alternatives, and functional beverages. Its applications stem from its ability to enhance the nutritional profile by boosting fiber content, improve texture, and act as a natural humectant, helping to retain moisture in products. It also contributes a mild, naturally sweet flavor and a darker hue, making it a desirable additive for clean-label products.
+
+## Distinctions and Common Confusion
+
+A common point of confusion arises between '[Date Fiber](date-fiber.qmd)' and the consumption of 'whole dates' or 'date paste.' While whole dates naturally provide dietary fiber alongside a spectrum of sugars, vitamins, and minerals, date fiber is a concentrated extract, often processed to maximize fiber content while potentially reducing sugar. This distinction is crucial for formulators aiming for specific nutritional targets. Furthermore, date fiber offers a unique flavor and functional profile compared to other common dietary fibers like psyllium husk (Isabgol) or oat fiber, which possess different gelling and textural properties.

@@ -1,0 +1,24 @@
+---
+title: "Potassium Sorbate (INS 202)"
+slug: potassium-sorbate-ins-202
+category: "Additives & Functional"
+category-slug: additives-functional
+keywords: ["Potassium sorbate", "INS 202", "preservative", "food additive", "sorbic acid", "shelf life", "antimicrobial"]
+description: "Potassium sorbate, identified by the INS number 202, is the potassium salt of sorbic acid"
+---
+
+## History and Sourcing
+
+[Potassium](potassium.qmd) sorbate, identified by the INS number 202, is the potassium salt of sorbic acid. Sorbic acid was first isolated in 1859 from the berries of the European rowan tree (Sorbus aucuparia), hence its name derived from the Latin "sorbus." While its natural precursor has ancient roots, potassium sorbate as a food additive is a modern innovation, gaining widespread acceptance in the mid-20th century. In India, its use aligns with the growth of the processed food industry, where it is synthetically produced for commercial applications rather than being sourced from natural botanical extracts.
+
+## Home Kitchen Use
+
+Unlike traditional Indian spices or ingredients, potassium sorbate holds no place in conventional home cooking or traditional Indian culinary practices. It is not an ingredient added by home cooks for flavour or immediate preservation. Its role is strictly functional, employed at the industrial level to extend the shelf life of packaged food products, preventing spoilage that would otherwise occur rapidly in a home-prepared dish.
+
+## Industrial Applications
+
+[Potassium](potassium.qmd) sorbate is a highly effective and widely utilized preservative in the Indian food industry. Its primary function is to inhibit the growth of molds, yeasts, and certain bacteria, particularly in acidic food environments. It is extensively found in a diverse range of FMCG products, including baked goods, dairy products (like yogurt and cheese), fruit juices, jams, pickles, sauces, and processed meat products. Its efficacy in preventing microbial spoilage makes it indispensable for maintaining product quality and safety across the supply chain, especially given India's varied climatic conditions.
+
+## Distinctions and Common Confusion
+
+Consumers often encounter potassium sorbate as an "E-number" (INS 202) on ingredient labels, leading to general confusion with other synthetic additives. A key distinction lies in its specific antimicrobial action, primarily against fungi and yeasts, making it particularly suitable for products prone to mold. While sorbic acid occurs naturally, the potassium sorbate used commercially is almost always synthetically produced. It is also distinct from other common preservatives like sodium benzoate (INS 211), which has a broader spectrum of activity but can sometimes impart a phenolic taste, or nitrites, which are used for different preservation purposes in cured meats.

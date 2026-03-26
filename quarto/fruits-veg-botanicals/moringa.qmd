@@ -1,0 +1,24 @@
+---
+title: "Moringa"
+slug: moringa
+category: "Fruits, Veg & Botanicals"
+category-slug: fruits-veg-botanicals
+keywords: ["Moringa", "Drumstick", "Sahjan", "Ayurveda", "Superfood", "Nutraceutical", "Botanical", "Moringa Extract"]
+description: "Moringa, or *Moringa oleifera*, is a fast-growing, drought-resistant tree native to the sub-Himalayan regions of India"
+---
+
+## History and Sourcing
+
+[Moringa](moringa.qmd), or *Moringa oleifera*, is a fast-growing, drought-resistant tree native to the sub-Himalayan regions of India. Known as the 'drumstick tree' or 'Sahjan' (Hindi), its name 'Moringa' likely stems from the Tamil 'murungai'. Revered in ancient Ayurvedic and Siddha medicine, it is now extensively cultivated across India, particularly in southern states like Tamil Nadu, Andhra Pradesh, and Karnataka, where it is a cornerstone of local diets and traditional healing.
+
+## Home Kitchen Use
+
+In Indian home kitchens, [Moringa](moringa.qmd) is highly versatile. Its nutrient-dense leaves are used fresh or as a dried powder in dals, sambar, curries, stir-fries, and parathas. The distinctive drumstick pods are a staple in South Indian cuisine, featuring prominently in sambar, avial, and various curries. Even the delicate flowers are occasionally used in regional preparations, such as light fries or stir-fries, highlighting the plant's comprehensive culinary application.
+
+## Industrial Applications
+
+[Moringa](moringa.qmd)'s exceptional nutritional profile has positioned it as a 'superfood' in the industrial food and nutraceutical sectors. Moringa leaf powder is widely incorporated into health supplements, protein bars, and functional beverages for its rich content of vitamins, minerals, and antioxidants. Moringa oil, extracted from its seeds, is utilized in cosmetics. Moringa extract, a concentrated form, is particularly valued in nutraceuticals for its higher potency and standardized bioactive compounds, enabling its use in targeted health supplements and functional food formulations.
+
+## Distinctions and Common Confusion
+
+Consumers often conflate whole [Moringa](moringa.qmd) (especially dried leaf powder) with Moringa extract. Moringa leaf powder is simply dried and ground leaves, providing a broad spectrum of nutrients and fiber. In contrast, Moringa extract is a concentrated form obtained through specific extraction processes, designed to isolate and concentrate particular bioactive compounds like polyphenols or isothiocyanates. This results in a product with higher potency, often standardized for specific health benefits, making the extract a more refined and targeted ingredient compared to the bulk nutritional and culinary powder.

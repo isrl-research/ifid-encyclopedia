@@ -1,0 +1,24 @@
+---
+title: "Curry Mix"
+slug: curry-mix
+category: "Spices & Seasonings"
+category-slug: spices-seasonings
+keywords: ["Spice blend", "Indian cuisine", "Garam Masala", "convenience food", "FMCG", "flavouring", "seasoning"]
+description: "The term 'Curry Mix' refers to a blend of ground spices, largely a colonial invention to simplify complex Indian flavours for Western palates"
+---
+
+## History and Sourcing
+
+The term '[Curry Mix](curry-mix.qmd)' refers to a blend of ground spices, largely a colonial invention to simplify complex Indian flavours for Western palates. While 'curry' derives from the Tamil 'kari' (sauce/gravy), pre-packaged mixes are not traditional to Indian home cooking, where spices were freshly ground. However, they have been adopted in India for convenience, with blends often adapted to local tastes.
+
+## Home Kitchen Use
+
+In contemporary Indian homes, curry mixes serve as a convenient shortcut, used as a foundational flavour base for various dishes including vegetable curries, dals, and non-vegetarian gravies. The mix is typically sautéed in oil or ghee early in the cooking process to release its aromatics, forming the backbone of the dish's flavour, making it versatile for quick meals.
+
+## Industrial Applications
+
+Industrially, curry mixes are vital in the processed food sector. They are widely used in ready-to-eat meals, instant noodles, snack seasonings, marinades, and sauces. Food technologists formulate these mixes for consistent flavour, aroma, and colour, crucial for large-scale manufacturing and the global distribution of Indian-inspired products.
+
+## Distinctions and Common Confusion
+
+[Curry Mix](curry-mix.qmd) is often confused with Garam Masala, but they differ significantly. A Curry Mix contains a broad range of spices like coriander, cumin, turmeric, and chilli, forming the primary flavour base of a dish. Garam Masala, meaning 'warm spice,' is a blend of aromatic spices (cardamom, cinnamon, cloves) added at the end of cooking or as a garnish for fragrance and depth, not as the main flavour foundation.
