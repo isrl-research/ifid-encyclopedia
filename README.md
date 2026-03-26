@@ -1,49 +1,91 @@
-# Encyclopedia of Indian Food Ingredients (v0.1.0)
-## As part of Indian Food ID Project
+# Encyclopedia of Indian Food Ingredients
 
-**DOI:** [10.13140/RG.2.2.27821.55529](https://doi.org/10.13140/RG.2.2.27821.55529)
-
-**Documentation:** [ifid.readthedocs.io](https://ifid.readthedocs.io/en/latest/)
-
-**Updates:** [ifid.substack.com](https://ifid.substack.com)
+**Version:** v2.0 (IFID v0.2.0-alpha)
+**DOI:** [10.5281/zenodo.18650862](https://doi.org/10.5281/zenodo.18650862)
+**License:** [Open Data Commons Attribution License (ODC-By)](https://opendatacommons.org/licenses/by/)
+**Author:** Lalitha A R · [Interdisciplinary Systems Research Lab (iSRL)](https://isrl-research.github.io/)
 
 ---
 
 ## Overview
 
-The Encyclopedia of Indian Food Ingredients is a core component of the **Indian Food Informatics Data (IFID)** project. It provides a standardized taxonomy and high-density metadata for over 600 food components found within the Indian ecosystem.
+The **Encyclopedia of Indian Food Ingredients** is a core output of the **Indian Food Informatics Data (IFID)** project. It provides a standardized taxonomy and structured descriptions for **623 food components** found in the Indian food ecosystem — from traditional Ayurvedic botanicals and regional spices to modern industrial food additives.
 
-This repository bridges the gap between traditional Indian culinary knowledge, Ayurvedic botanicals, and modern industrial FMCG standards. By providing machine-readable formats (JSON and Markdown), IFID serves as a foundational layer for food-tech applications, nutritional AI, and academic research.
+Each ingredient is documented across four dimensions:
 
-## Structure
+| Field | Description |
+|---|---|
+| `history_and_sourcing` | Origin, cultivation, and historical use in India |
+| `culinary_usage_home` | How the ingredient appears in domestic cooking |
+| `industrial_applications` | Role in packaged food manufacturing |
+| `distinction_and_confusion` | How to distinguish it from similar ingredients |
+
+---
+
+## Repository Structure
+
+```
+encyclopedia/
+├── data/
+│   ├── v010/                       # v0.1.0 archive (JSON + MD + LaTeX)
+│   ├── v020/                       # v0.2.0 intermediate build
+│   ├── v030/
+│   │   └── ifid_encyclopedia_v020.json   # ← source of truth (623 ingredients)
+│   └── v0.1-v0.2_audit.csv         # taxonomy audit log
+├── quarto/                         # Quarto project (HTML website + PDF book)
+│   ├── _quarto.yml                 # website config
+│   ├── _quarto-book.yml            # PDF book config
+│   ├── custom.scss                 # iSRL brand styles
+│   ├── index.qmd                   # main landing page
+│   └── {category}/
+│       ├── index.qmd               # category listing page
+│       └── {slug}.qmd              # ingredient page (×623)
+└── scripts/
+    ├── generate_qmd.py             # ← primary pipeline: JSON → .qmd
+    ├── build_encyclopedia.py       # old pipeline (HTML via pandoc), archived
+    ├── delete_entries.py           # utility: remove entries from JSON
+    ├── flagger.py                  # v0.1→v0.2 audit tool
+    ├── interlink.py                # old interlinking reference
+    └── slug_list.py                # full slug list constant
+```
+
+---
+
+## Data
+
+### Source of Truth
+
+`data/v030/ifid_encyclopedia_v020.json`
+
 ```json
 {
   "metadata": {
     "title": "Encyclopedia of Indian Food Ingredients",
-    "project": "Indian Food Informatics Data (IFID)",
-    "version": "0.1.0-alpha",
-    "release_date": "2026-02-11",
-    "doi": "https://doi.org/10.13140/RG.2.2.27821.55529",
+    "version": "0.2.0-alpha",
+    "release_date": "2026-02-25",
+    "doi": "https://doi.org/10.5281/zenodo.18650862",
     "license": "Open Data Commons Attribution License (ODC-By)",
     "author": "Lalitha A R",
-    "institution": "Interdisciplinary Systems Research Lab",
-    "documentation": "https://ifid.readthedocs.io/en/latest/",
-    "journal": "https://ifid.substack.com",
-    "contact": "https://ifid.substack.com/about",
-    "description": "A standardized taxonomy of 600+ food components..."
+    "institution": "Interdisciplinary Systems Research Lab (iSRL)"
   },
   "statistics": {
     "total_categories": 8,
-    "total_ingredients": 661
+    "total_ingredients": 623
   },
   "data": {
     "Additives & Functional": {
-      "2'-Fucosyllactose": {
-        "slug": "2'-fucosyllactose",
+      "Acetic Acid (INS 260)": {
+        "slug": "acetic-acid-ins-260",
         "json": {
-          "ingredient_name": "2'-Fucosyllactose",
+          "ingredient_name": "Acetic Acid (INS 260)",
           "category": "Additives & Functional",
-          "keywords": ["2'-FL", "HMO", "Prebiotic"]
+          "description": {
+            "history_and_sourcing": "...",
+            "culinary_usage_home": "...",
+            "industrial_applications": "...",
+            "distinction_and_confusion": "..."
+          },
+          "keywords": ["Acetic acid", "INS 260", "Acidity regulator"]
         }
       }
     }
@@ -51,59 +93,104 @@ This repository bridges the gap between traditional Indian culinary knowledge, A
 }
 ```
 
-## Key Features
+### Categories
 
-* **Standardized Taxonomy:** Normalized nomenclature for 661+ ingredients across various categories.
-* **Multi-Format Distribution:** Available in JSON (for developers), Markdown (for RAG/LLM applications), and LaTeX (for academic publishing).
-* **Cross-Referenced Metadata:** Data points include historical sourcing, traditional culinary usage, industrial applications, and common consumer distinctions.
-* **Graph-Ready:** Features over 4,000 internal links between ingredients to support knowledge graph construction.
+| Category | Slug | Count |
+|---|---|---|
+| Additives & Functional | `additives-functional` | 263 |
+| Fruits, Veg & Botanicals | `fruits-veg-botanicals` | 164 |
+| Spices & Seasonings | `spices-seasonings` | 68 |
+| Staples (Grains/Dals) | `staples` | 41 |
+| Oils & Fats | `oils-fats` | 36 |
+| Dairy & Alternatives | `dairy-alternatives` | 23 |
+| Sweeteners | `sweeteners` | 18 |
+| Proteins & Meats | `proteins-meats` | 10 |
 
-## Project Status: v0.1.0 (Alpha)
+---
 
-This is the inaugural "Alpha" release. As part of our commitment to the **Release Early, Iterate Often** philosophy of public digital goods, this version focuses on establishing a baseline nomenclature.
+## Pipeline
 
-Users should note:
+### Render HTML website
 
-1. This version is a work-in-progress and may contain errors or omissions.
-2. Subsequent versions (v0.2.0+) will introduce formalized contribution templates for community-driven refinement.
+```bash
+cd quarto/
+quarto render
+# Output: quarto/_site/index.html
+```
 
-## Usage for AI and LLM Developers
+### Render PDF book
 
-This dataset is specifically structured for **Retrieval-Augmented Generation (RAG)** and **Knowledge Graph** development.
+```bash
+cd quarto/
+quarto render --config _quarto-book.yml
+# Output: quarto/_book/
+```
 
-* **JSON Master:** Located in `/data/ifid_encyclopedia_v010.json`, this file includes a root metadata block and a flattened ingredient dictionary for easy parsing.
-* **Markdown Files:** Individual ingredient files are optimized for vector database ingestion, providing clear headings that LLMs can use for precise context retrieval.
+### Regenerate all .qmd source files
+
+```bash
+python3 scripts/generate_qmd.py
+# Reads: data/v030/ifid_encyclopedia_v020.json
+# Writes: quarto/ (all 632 .qmd files + configs)
+```
+
+---
+
+## Usage
+
+### For AI / RAG Developers
+
+The JSON is structured for direct ingestion into vector databases. Each ingredient entry has a clean slug, flat keyword list, and four prose fields — no HTML, no cross-link corruption.
+
+Parse with:
+```python
+import json
+
+with open("data/v030/ifid_encyclopedia_v020.json") as f:
+    data = json.load(f)
+
+for cat_name, items in data["data"].items():
+    for ing_name, ing_data in items.items():
+        slug = ing_data["slug"]
+        desc = ing_data["json"]["description"]
+        keywords = ing_data["json"]["keywords"]
+```
+
+### For Knowledge Graph Construction
+
+The dataset includes first-occurrence cross-links between ingredient pages, resolving to `{category}/{slug}.qmd`. The `SKIP_SLUGS` list (25 high-frequency terms) is excluded from interlinking. Approximately 4,000+ internal links across the corpus.
+
+---
 
 ## Citation
 
-If you use this dataset in your research or applications, please cite it as follows:
-
 ### APA 7th Edition
 ```
-Lalitha, A. R. (2026). Encyclopedia of Indian Food Ingredients (v0.1.0): A Standardized Taxonomy for Indian Food Informatics. Interdisciplinary Systems Research Lab. [https://doi.org/10.13140/RG.2.2.27821.55529](https://doi.org/10.13140/RG.2.2.27821.55529)
+Lalitha, A. R. (2026). Encyclopedia of Indian Food Ingredients (v2.0).
+Interdisciplinary Systems Research Lab (iSRL).
+https://doi.org/10.5281/zenodo.18650862
 ```
 
 ### BibTeX
-
 ```bibtex
 @misc{Lalitha2026IFID,
   author       = {Lalitha, A. R.},
-  title        = {Encyclopedia of Indian Food Ingredients (v0.1.0)},
+  title        = {Encyclopedia of Indian Food Ingredients (v2.0)},
   year         = {2026},
-  publisher    = {Interdisciplinary Systems Research Lab},
-  doi          = {10.13140/RG.2.2.27821.55529},
-  url          = {https://doi.org/10.13140/RG.2.2.27821.55529}
+  publisher    = {Interdisciplinary Systems Research Lab (iSRL)},
+  doi          = {10.5281/zenodo.18650862},
+  url          = {https://doi.org/10.5281/zenodo.18650862}
 }
-
 ```
+
+---
 
 ## License
 
-This dataset is made available under the **Open Data Commons Attribution License (ODC-By)**. You are free to share, create, and adapt the data, provided that you maintain attribution to the original author and the IFID project.
+This dataset is released under the **Open Data Commons Attribution License (ODC-By)**. You are free to share, use, and adapt the data, provided you credit the original author and the IFID project.
 
-## Contact and Contributions
+## Contact
 
-The IFID project is maintained by the **Interdisciplinary Systems Research Lab (ISRL)**.
-
-* **Substack:** [ifid.substack.com](https://ifid.substack.com) for methodological updates.
-* **Issues:** Please use the GitHub issue tracker to report errors or suggest taxonomic refinements.
+Maintained by the **Interdisciplinary Systems Research Lab (iSRL)**.
+- Lab: [isrl-research.github.io](https://isrl-research.github.io/)
+- Issues: GitHub issue tracker
