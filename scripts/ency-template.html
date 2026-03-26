@@ -1,0 +1,295 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>$title$ — iSRL</title>
+
+<!-- SEO core -->
+<meta name="description" content="$description$">
+<meta name="author" content="Lalitha A R">
+<meta name="keywords" content="$keywords$">
+<meta name="robots" content="index, follow">
+<link rel="canonical" href="$site_base$/$if(cat_slug)$$cat_slug$/$endif$">
+
+<!-- Open Graph -->
+<meta property="og:type" content="article">
+<meta property="og:title" content="$title$ — iSRL">
+<meta property="og:description" content="$description$">
+<meta property="og:site_name" content="iSRL — Interdisciplinary Systems Research Lab">
+<meta property="og:url" content="$site_base$/$if(cat_slug)$$cat_slug$/$endif$">
+
+<!-- Twitter -->
+<meta name="twitter:card" content="summary">
+<meta name="twitter:title" content="$title$ — iSRL">
+<meta name="twitter:description" content="$description$">
+
+<!-- Dublin Core -->
+<meta name="DC.title" content="$title$">
+<meta name="DC.creator" content="Lalitha A R">
+<meta name="DC.date" content="2026-02-25">
+<meta name="DC.type" content="Encyclopedia Entry">
+<meta name="DC.publisher" content="Interdisciplinary Systems Research Lab (iSRL)">
+<meta name="DC.rights" content="ODC-By">
+
+<!-- JSON-LD structured data -->
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Article",
+  "name": "$title$",
+  "headline": "$title$",
+  "description": "$description$",
+  "author": {
+    "@type": "Person",
+    "name": "Lalitha A R",
+    "affiliation": {
+      "@type": "Organization",
+      "name": "Interdisciplinary Systems Research Lab (iSRL)",
+      "url": "https://isrl-research.github.io"
+    }
+  },
+  "datePublished": "2026-02-25",
+  "publisher": {
+    "@type": "Organization",
+    "name": "Interdisciplinary Systems Research Lab (iSRL)",
+    "url": "https://isrl-research.github.io"
+  },
+  "license": "https://opendatacommons.org/licenses/by/1-0/",
+  "isPartOf": {
+    "@type": "Collection",
+    "name": "IFID Encyclopedia of Indian Food Ingredients",
+    "url": "$site_base$/ency.html"
+  },
+  "isAccessibleForFree": true,
+  "inLanguage": "en"
+}
+</script>
+
+<link rel="stylesheet" href="$css_path$" type="text/css">
+</head>
+<body>
+
+<a href="#ency-main" class="ency-skip-link">Skip to main content</a>
+
+<!-- ── Mobile header ── -->
+<header class="ency-mobile-header" role="banner">
+  <a href="$site_base$/ency.html" class="ency-mobile-logo" aria-label="IFID Encyclopedia home">
+    <span class="logo-i">i</span>SRL
+  </a>
+  <button
+    class="ency-hamburger"
+    id="ency-hamburger"
+    aria-label="Open navigation"
+    aria-expanded="false"
+    aria-controls="ency-mobile-drawer">
+    <span></span><span></span><span></span>
+  </button>
+</header>
+
+<!-- ── Mobile nav drawer ── -->
+<nav
+  class="ency-mobile-drawer"
+  id="ency-mobile-drawer"
+  aria-label="Mobile navigation"
+  aria-hidden="true">
+  <a href="$site_base$/ency.html" class="ency-mobile-drawer-logo" aria-label="IFID Encyclopedia">
+    <span class="logo-i">i</span>SRL
+  </a>
+  <ul class="ency-nav-list" role="list">
+    <li><a href="$ifid_home$">IFID Home</a></li>
+    <li><a href="$site_base$/ency.html">Encyclopedia</a></li>
+    <li><a href="$site_base$/additives-functional/index.html">Additives &amp; Functional</a></li>
+    <li><a href="$site_base$/dairy-alternatives/index.html">Dairy &amp; Alternatives</a></li>
+    <li><a href="$site_base$/fruits-veg-botanicals/index.html">Fruits, Veg &amp; Botanicals</a></li>
+    <li><a href="$site_base$/oils-fats/index.html">Oils &amp; Fats</a></li>
+    <li><a href="$site_base$/proteins-meats/index.html">Proteins &amp; Meats</a></li>
+    <li><a href="$site_base$/spices-seasonings/index.html">Spices &amp; Seasonings</a></li>
+    <li><a href="$site_base$/staples/index.html">Staples (Grains/Dals)</a></li>
+    <li><a href="$site_base$/sweeteners/index.html">Sweeteners</a></li>
+  </ul>
+</nav>
+
+<!-- ── Three-column shell ── -->
+<div class="ency-shell">
+
+  <!-- Left sidebar -->
+  <aside class="ency-sidebar" aria-label="Encyclopedia navigation">
+
+    <div class="ency-logo-block">
+      <span class="ency-logo-rule" aria-hidden="true"></span>
+      <a href="https://isrl-research.github.io/" class="ency-logo-wordmark" aria-label="iSRL home">
+        <span class="logo-i">i</span>SRL
+      </a>
+      <span class="ency-logo-sub">IFID Encyclopedia</span>
+    </div>
+
+    <!-- Categories nav -->
+    <nav aria-label="Categories">
+      <button
+        class="ency-nav-toggle"
+        aria-expanded="true"
+        aria-controls="ency-nav-panel"
+        id="ency-nav-toggle">
+        <span class="ency-nav-arrow" aria-hidden="true">▶</span>
+        Categories
+      </button>
+      <div class="ency-nav-panel open" id="ency-nav-panel">
+        <ul class="ency-nav-list" role="list">
+          <li><a href="$ifid_home$">← IFID Home</a></li>
+          <li><a href="$site_base$/ency.html">All Categories</a></li>
+          <li><a href="$site_base$/additives-functional/index.html"$if(cat_slug)$$if(cat_slug.additives-functional)$ class="active"$endif$$endif$>Additives &amp; Functional</a></li>
+          <li><a href="$site_base$/dairy-alternatives/index.html">Dairy &amp; Alternatives</a></li>
+          <li><a href="$site_base$/fruits-veg-botanicals/index.html">Fruits, Veg &amp; Botanicals</a></li>
+          <li><a href="$site_base$/oils-fats/index.html">Oils &amp; Fats</a></li>
+          <li><a href="$site_base$/proteins-meats/index.html">Proteins &amp; Meats</a></li>
+          <li><a href="$site_base$/spices-seasonings/index.html">Spices &amp; Seasonings</a></li>
+          <li><a href="$site_base$/staples/index.html">Staples (Grains/Dals)</a></li>
+          <li><a href="$site_base$/sweeteners/index.html">Sweeteners</a></li>
+        </ul>
+      </div>
+    </nav>
+
+    <div class="ency-toc-divider" aria-hidden="true"></div>
+
+    <div class="ency-sidebar-footer">
+      <p>ODC-By · iSRL<br>Data is a permanent public asset</p>
+    </div>
+
+  </aside>
+
+  <!-- Main content -->
+  <main id="ency-main" class="ency-main" aria-label="Ingredient article">
+    <div class="ency-content">
+
+      <span class="ency-doc-badge">Encyclopedia</span>
+
+      <!-- Breadcrumb -->
+      <nav class="ency-breadcrumb" aria-label="Breadcrumb">
+        <a href="$site_base$/ency.html">Encyclopedia</a>
+        <span class="sep" aria-hidden="true">›</span>
+        <a href="$site_base$/$cat_slug$/index.html">$cat_display$</a>
+$if(ingredient_name)$
+        <span class="sep" aria-hidden="true">›</span>
+        <span aria-current="page">$ingredient_name$</span>
+$endif$
+      </nav>
+
+      $body$
+
+      <nav class="ency-nav-footer" aria-label="Page navigation">
+        <a href="$site_base$/ency.html">← Encyclopedia Index</a>
+        <span class="sep" aria-hidden="true">·</span>
+        <a href="$site_base$/$cat_slug$/index.html">$cat_display$</a>
+        <span class="sep" aria-hidden="true">·</span>
+        <a href="$ifid_home$">IFID Home</a>
+      </nav>
+
+    </div>
+  </main>
+
+  <!-- Right sidebar -->
+  <aside class="ency-right" aria-label="Ingredient metadata">
+
+    <div class="ency-right-section">
+      <span class="ency-right-label">Category</span>
+      <div class="ency-right-meta">
+        <a href="$site_base$/$cat_slug$/index.html">$cat_display$</a>
+      </div>
+    </div>
+
+$if(keywords)$
+    <div class="ency-right-section">
+      <span class="ency-right-label">Keywords</span>
+      <div class="ency-right-meta">
+        <div class="ency-keywords" role="list">
+$for(keyword)$
+          <span class="ency-keyword" role="listitem">$keyword$</span>
+$endfor$
+        </div>
+      </div>
+    </div>
+$endif$
+
+    <div class="ency-right-section">
+      <span class="ency-right-label">Project</span>
+      <div class="ency-right-meta">
+        <a href="$ifid_home$">Indian Food Informatics Data</a><br>
+        IFID 2026
+      </div>
+    </div>
+
+    <div class="ency-right-section">
+      <span class="ency-right-label">License</span>
+      <div class="ency-right-meta">
+        <a href="https://opendatacommons.org/licenses/by/1-0/"
+           target="_blank" rel="noopener noreferrer">
+          ODC-By 1.0
+        </a><br>
+        Open Data Commons Attribution
+      </div>
+    </div>
+
+    <div class="ency-right-footer">
+      <p>ODC-By · iSRL<br>Data is a permanent public asset</p>
+    </div>
+
+  </aside>
+
+</div><!-- /.ency-shell -->
+
+
+<script>
+/* ── Nav toggle ── */
+(function () {
+  var btn   = document.getElementById('ency-nav-toggle');
+  var panel = document.getElementById('ency-nav-panel');
+  if (!btn || !panel) return;
+  btn.addEventListener('click', function () {
+    var open = panel.classList.toggle('open');
+    btn.setAttribute('aria-expanded', String(open));
+  });
+})();
+
+/* ── Mobile hamburger ── */
+(function () {
+  var hambtn = document.getElementById('ency-hamburger');
+  var drawer = document.getElementById('ency-mobile-drawer');
+  if (!hambtn || !drawer) return;
+
+  function close() {
+    hambtn.setAttribute('aria-expanded', 'false');
+    hambtn.setAttribute('aria-label', 'Open navigation');
+    drawer.classList.remove('open');
+    drawer.setAttribute('aria-hidden', 'true');
+  }
+
+  hambtn.addEventListener('click', function () {
+    var expanded = hambtn.getAttribute('aria-expanded') === 'true';
+    if (expanded) {
+      close();
+    } else {
+      hambtn.setAttribute('aria-expanded', 'true');
+      hambtn.setAttribute('aria-label', 'Close navigation');
+      drawer.classList.add('open');
+      drawer.setAttribute('aria-hidden', 'false');
+      var first = drawer.querySelector('a');
+      if (first) first.focus();
+    }
+  });
+
+  document.addEventListener('keydown', function (e) {
+    if (e.key === 'Escape' && drawer.classList.contains('open')) {
+      close();
+      hambtn.focus();
+    }
+  });
+
+  drawer.querySelectorAll('a').forEach(function (l) {
+    l.addEventListener('click', close);
+  });
+})();
+</script>
+
+</body>
+</html>

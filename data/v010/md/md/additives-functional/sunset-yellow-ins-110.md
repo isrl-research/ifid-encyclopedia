@@ -1,0 +1,11 @@
+# Sunset Yellow Ins 110
+
+**Sunset Yellow (INS 110)**
+
+Sunset Yellow FCF, identified by the International Numbering System (INS) code 110, is a synthetic azo dye widely employed as a food colorant. Unlike traditional Indian ingredients with ancient roots, Sunset Yellow is a product of modern chemical synthesis, introduced to India as part of the globalized food industry. Its name aptly describes the vibrant orange-yellow hue it imparts, reminiscent of a sunset. As a manufactured additive, it has no specific geographical sourcing within India but is imported or produced domestically by chemical manufacturers.
+
+In the realm of traditional Indian home cooking, synthetic colors like Sunset Yellow are largely absent. The rich palette of Indian cuisine historically derives its yellows and oranges from natural sources such as turmeric (haldi), saffron (kesar), and paprika. While some modern home cooks might use food colors for specific confectionery or dessert preparations, it is not a staple or a part of the inherited culinary wisdom passed down through generations for everyday meals.
+
+Industrially, Sunset Yellow (INS 110) is a ubiquitous colorant in the Indian FMCG sector. Its stability, cost-effectiveness, and vibrant hue make it a popular choice for a vast array of processed foods. It is commonly found in beverages like soft drinks and fruit-flavored drinks, confectionery items such as candies, jellies, and ice creams, as well as in packaged snacks (namkeen), bakery products, and certain dairy preparations. The dye's water-soluble form is ideal for clear liquids and aqueous systems, ensuring uniform coloration.
+
+A common point of confusion arises from the different forms of Sunset Yellow. While "Sunset Yellow (INS 110)" typically refers to the water-soluble dye, its "lake" form (e.g., Yellow 6 Lake) is also widely used. The lake form is an insoluble pigment, created by adsorbing the dye onto an inert substrate like alumina. This makes it suitable for fat-based products, coatings, or dry mixes where the color needs to be dispersed rather than dissolved, or where color migration is a concern. It is crucial to distinguish these synthetic colors from natural yellow colorants like turmeric or annatto, which are derived from botanical sources and carry different functional and regulatory profiles.

@@ -1,7 +1,19 @@
 api_key.py
 .env
-.env
 *Zone.Identifier
 __pycache__/
- *.log
 *.log
+
+# Quarto generated outputs (not source)
+quarto/_site/
+quarto/_book/
+quarto/.quarto/
+
+# Old generated site (replaced by Quarto output)
+data/v030/site/
+
+# Temp scripts
+temp.py
+temp2.py
+temp3.py
+tempdel1.py

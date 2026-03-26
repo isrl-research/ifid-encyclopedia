@@ -1,0 +1,27 @@
+# Dairy & Alternatives
+
+*23 ingredients in this category.*
+
+- [A2 Protein](https://isrl-research.github.io/ifid/ency/dairy-alternatives/a2-protein.html)
+- [Butter](https://isrl-research.github.io/ifid/ency/dairy-alternatives/butter.html)
+- [Buttermilk](https://isrl-research.github.io/ifid/ency/dairy-alternatives/buttermilk.html)
+- [Caseinate](https://isrl-research.github.io/ifid/ency/dairy-alternatives/caseinate.html)
+- [Chakka](https://isrl-research.github.io/ifid/ency/dairy-alternatives/chakka.html)
+- [Cheese](https://isrl-research.github.io/ifid/ency/dairy-alternatives/cheese.html)
+- [Cheese Powder](https://isrl-research.github.io/ifid/ency/dairy-alternatives/cheese-powder.html)
+- [Chhena](https://isrl-research.github.io/ifid/ency/dairy-alternatives/chhena.html)
+- [Condensed Milk](https://isrl-research.github.io/ifid/ency/dairy-alternatives/condensed-milk.html)
+- [Cow Milk](https://isrl-research.github.io/ifid/ency/dairy-alternatives/cow-milk.html)
+- [Cream](https://isrl-research.github.io/ifid/ency/dairy-alternatives/cream.html)
+- [Curd](https://isrl-research.github.io/ifid/ency/dairy-alternatives/curd.html)
+- [Dairy Whitener](https://isrl-research.github.io/ifid/ency/dairy-alternatives/dairy-whitener.html)
+- [Ice Cream](https://isrl-research.github.io/ifid/ency/dairy-alternatives/ice-cream.html)
+- [Khoa](https://isrl-research.github.io/ifid/ency/dairy-alternatives/khoa.html)
+- [Milk](https://isrl-research.github.io/ifid/ency/dairy-alternatives/milk.html)
+- [Milk Powder](https://isrl-research.github.io/ifid/ency/dairy-alternatives/milk-powder.html)
+- [Milk Protein](https://isrl-research.github.io/ifid/ency/dairy-alternatives/milk-protein.html)
+- [Milk Solids](https://isrl-research.github.io/ifid/ency/dairy-alternatives/milk-solids.html)
+- [Toned Milk](https://isrl-research.github.io/ifid/ency/dairy-alternatives/toned-milk.html)
+- [Whey Powder](https://isrl-research.github.io/ifid/ency/dairy-alternatives/whey-powder.html)
+- [Whey Protein](https://isrl-research.github.io/ifid/ency/dairy-alternatives/whey-protein.html)
+- [Yogurt](https://isrl-research.github.io/ifid/ency/dairy-alternatives/yogurt.html)

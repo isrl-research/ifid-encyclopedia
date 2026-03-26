@@ -1,0 +1,779 @@
+/*
+  IFID Encyclopedia — ency.css
+  Adapted from iSRL res-log.css for encyclopedia ingredient pages.
+  Three-column layout: sidebar (categories/ToC) | content | right meta.
+  AA accessible, fully responsive, 1.1rem body minimum.
+*/
+
+/* ─────────────────────────────────────────────────────────────
+   FONTS
+───────────────────────────────────────────────────────────── */
+@import url('https://fonts.googleapis.com/css2?family=Libre+Baskerville:ital,wght@0,400;0,700;1,400&family=Source+Serif+4:ital,opsz,wght@0,8..60,400;0,8..60,600;1,8..60,400&family=DM+Mono:wght@400;500&display=swap');
+
+/* ─────────────────────────────────────────────────────────────
+   RESET
+───────────────────────────────────────────────────────────── */
+*,
+*::before,
+*::after {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+/* ─────────────────────────────────────────────────────────────
+   CUSTOM PROPERTIES
+───────────────────────────────────────────────────────────── */
+:root {
+    --bg: #f7f6f2;
+    --ink: #111110;
+    --ink-mid: #3a3a38;
+    --ink-muted: #5a5a57;
+    --navy: #2c346b;
+    --red: #c0392b;
+    --rule: #d0cfc8;
+    --rule-light: #e4e3dd;
+
+    --font-title: 'Libre Baskerville', Georgia, serif;
+    --font-body: 'Source Serif 4', Georgia, serif;
+    --font-mono: 'DM Mono', 'Courier New', monospace;
+
+    --sidebar-w: 260px;
+    --right-w: 210px;
+    --content-max: 700px;
+}
+
+/* ─────────────────────────────────────────────────────────────
+   BASE
+───────────────────────────────────────────────────────────── */
+html {
+    font-size: 16px;
+    scroll-behavior: smooth;
+}
+
+body {
+    background: var(--bg);
+    color: var(--ink);
+    font-family: var(--font-body);
+    font-size: 1.1rem;
+    line-height: 1.75;
+    min-height: 100vh;
+}
+
+/* ─────────────────────────────────────────────────────────────
+   SKIP LINK (AA)
+───────────────────────────────────────────────────────────── */
+.ency-skip-link {
+    position: absolute;
+    top: -100%;
+    left: 1rem;
+    background: var(--navy);
+    color: #fff;
+    padding: 0.5rem 1rem;
+    font-family: var(--font-mono);
+    font-size: 0.9rem;
+    z-index: 1000;
+    text-decoration: none;
+    border-radius: 0 0 3px 3px;
+}
+
+.ency-skip-link:focus {
+    top: 0;
+}
+
+
+/* ═════════════════════════════════════════════════════════════
+   THREE-COLUMN SHELL
+   ═════════════════════════════════════════════════════════════*/
+.ency-shell {
+    display: grid;
+    grid-template-columns: var(--sidebar-w) 1fr var(--right-w);
+    min-height: 100vh;
+    align-items: start;
+}
+
+
+/* ═════════════════════════════════════════════════════════════
+   LEFT SIDEBAR
+   ═════════════════════════════════════════════════════════════*/
+.ency-sidebar {
+    grid-column: 1;
+    border-right: 1px solid var(--rule);
+    padding: 2rem 1.5rem 2rem 1.75rem;
+    position: sticky;
+    top: 0;
+    height: 100vh;
+    overflow-y: auto;
+    display: flex;
+    flex-direction: column;
+    scrollbar-width: thin;
+    scrollbar-color: var(--rule) transparent;
+}
+
+/* — Logo — */
+.ency-logo-block {
+    margin-bottom: 1.75rem;
+}
+
+.ency-logo-rule {
+    display: block;
+    width: 100%;
+    height: 2px;
+    background: var(--ink);
+    margin-bottom: 0.65rem;
+}
+
+.ency-logo-wordmark {
+    font-family: var(--font-title);
+    font-size: 1.4rem;
+    font-weight: 700;
+    color: var(--ink);
+    text-decoration: none;
+    display: block;
+    line-height: 1;
+    letter-spacing: -0.01em;
+}
+
+.ency-logo-wordmark .logo-i {
+    font-style: italic;
+}
+
+.ency-logo-sub {
+    font-family: var(--font-mono);
+    font-size: 0.7rem;
+    letter-spacing: 0.14em;
+    text-transform: uppercase;
+    color: var(--red);
+    margin-top: 0.3rem;
+    display: block;
+}
+
+/* — Collapsible nav — */
+.ency-nav-toggle {
+    background: none;
+    border: none;
+    cursor: pointer;
+    font-family: var(--font-mono);
+    font-size: 0.74rem;
+    letter-spacing: 0.1em;
+    text-transform: uppercase;
+    color: var(--ink-muted);
+    display: flex;
+    align-items: center;
+    gap: 0.4rem;
+    padding: 0;
+    width: 100%;
+    text-align: left;
+    transition: color 0.15s;
+}
+
+.ency-nav-toggle:hover {
+    color: var(--ink);
+}
+
+.ency-nav-toggle:focus-visible {
+    outline: 2px solid var(--navy);
+    outline-offset: 2px;
+}
+
+.ency-nav-arrow {
+    display: inline-block;
+    font-size: 0.55rem;
+    color: var(--ink-muted);
+    transition: transform 0.2s ease;
+    line-height: 1;
+    font-style: normal;
+}
+
+.ency-nav-toggle[aria-expanded="true"] .ency-nav-arrow {
+    transform: rotate(90deg);
+}
+
+.ency-nav-panel {
+    overflow: hidden;
+    max-height: 0;
+    transition: max-height 0.22s ease;
+}
+
+.ency-nav-panel.open {
+    max-height: 500px;
+}
+
+.ency-nav-list {
+    list-style: none;
+    padding: 0.6rem 0 0.5rem 0;
+    display: flex;
+    flex-direction: column;
+    gap: 0.38rem;
+}
+
+.ency-nav-list a {
+    font-family: var(--font-mono);
+    font-size: 0.77rem;
+    letter-spacing: 0.07em;
+    color: var(--ink-mid);
+    text-decoration: none;
+    display: flex;
+    align-items: center;
+    gap: 0.4rem;
+    transition: color 0.15s;
+}
+
+.ency-nav-list a::before {
+    content: '→';
+    color: var(--rule);
+    font-size: 0.75rem;
+    transition: color 0.15s, transform 0.15s;
+    display: inline-block;
+}
+
+.ency-nav-list a:hover {
+    color: var(--navy);
+}
+
+.ency-nav-list a:hover::before {
+    color: var(--navy);
+    transform: translateX(2px);
+}
+
+.ency-nav-list a.active {
+    color: var(--navy);
+    font-weight: 500;
+}
+
+.ency-nav-list a.active::before {
+    color: var(--navy);
+}
+
+.ency-nav-list a:focus-visible {
+    outline: 2px solid var(--navy);
+    outline-offset: 2px;
+    border-radius: 2px;
+}
+
+/* — Divider — */
+.ency-toc-divider {
+    height: 1px;
+    background: var(--rule-light);
+    margin: 0.8rem 0;
+    flex-shrink: 0;
+}
+
+/* — Breadcrumb — */
+.ency-breadcrumb {
+    font-family: var(--font-mono);
+    font-size: 0.72rem;
+    color: var(--ink-muted);
+    margin-bottom: 0.6rem;
+    letter-spacing: 0.04em;
+}
+
+.ency-breadcrumb a {
+    color: var(--ink-mid);
+    text-decoration: none;
+    transition: color 0.15s;
+}
+
+.ency-breadcrumb a:hover {
+    color: var(--navy);
+}
+
+.ency-breadcrumb .sep {
+    margin: 0 0.35rem;
+    color: var(--rule);
+}
+
+/* — Sidebar footer — */
+.ency-sidebar-footer {
+    padding-top: 1rem;
+    margin-top: auto;
+    border-top: 1px solid var(--rule-light);
+    flex-shrink: 0;
+}
+
+.ency-sidebar-footer p {
+    font-family: var(--font-mono);
+    font-size: 0.67rem;
+    letter-spacing: 0.06em;
+    text-transform: uppercase;
+    color: var(--ink-muted);
+    line-height: 1.65;
+}
+
+
+/* ═════════════════════════════════════════════════════════════
+   MAIN CONTENT
+   ═════════════════════════════════════════════════════════════*/
+.ency-main {
+    grid-column: 2;
+    border-right: 1px solid var(--rule);
+    padding: 3.25rem 3.75rem 5rem 3.75rem;
+    min-width: 0;
+}
+
+.ency-content {
+    max-width: var(--content-max);
+}
+
+/* — Document badge — */
+.ency-doc-badge {
+    display: inline-block;
+    font-family: var(--font-mono);
+    font-size: 0.68rem;
+    letter-spacing: 0.1em;
+    text-transform: uppercase;
+    color: #fff;
+    background: var(--navy);
+    padding: 0.18rem 0.55rem;
+    margin-bottom: 1.35rem;
+}
+
+/* — Title — */
+.ency-content h1 {
+    font-family: var(--font-title);
+    font-size: clamp(1.65rem, 3vw, 2.45rem);
+    font-weight: 700;
+    font-style: normal;
+    line-height: 1.18;
+    color: var(--ink);
+    margin-bottom: 1.35rem;
+    letter-spacing: -0.015em;
+    word-spacing: 0.01em;
+}
+
+/* — Sections — */
+.ency-content h2 {
+    font-family: var(--font-title);
+    font-size: 1.3rem;
+    font-weight: 700;
+    color: var(--ink);
+    line-height: 1.25;
+    margin-top: 2.75rem;
+    margin-bottom: 0.9rem;
+    padding-top: 1.5rem;
+    border-top: 1px solid var(--rule);
+    letter-spacing: -0.005em;
+}
+
+.ency-content h3 {
+    font-family: var(--font-title);
+    font-size: 1.1rem;
+    font-weight: 700;
+    font-style: italic;
+    color: var(--ink);
+    line-height: 1.3;
+    margin-top: 1.65rem;
+    margin-bottom: 0.65rem;
+}
+
+.ency-content h4 {
+    font-family: var(--font-body);
+    font-size: 1.05rem;
+    font-weight: 600;
+    color: var(--ink);
+    line-height: 1.38;
+    margin-top: 1.25rem;
+    margin-bottom: 0.5rem;
+}
+
+/* — Paragraphs — */
+.ency-content p {
+    font-family: var(--font-body);
+    font-size: 1.1rem;
+    line-height: 1.75;
+    color: var(--ink);
+    margin-bottom: 0.85rem;
+}
+
+/* — Emphasis — */
+.ency-content em {
+    font-style: italic;
+}
+
+.ency-content strong {
+    font-weight: 700;
+}
+
+/* — Links — */
+.ency-content a {
+    color: var(--navy);
+    text-decoration: underline;
+    text-underline-offset: 2px;
+    transition: color 0.15s;
+}
+
+.ency-content a:hover {
+    color: var(--ink);
+}
+
+.ency-content a:focus-visible {
+    outline: 2px solid var(--navy);
+    outline-offset: 2px;
+}
+
+/* — Lists — */
+.ency-content ul,
+.ency-content ol {
+    padding-left: 1.5rem;
+    margin: 0.55rem 0 0.85rem 0;
+}
+
+.ency-content li {
+    font-size: 1.1rem;
+    line-height: 1.72;
+    margin-bottom: 0.3rem;
+}
+
+/* — Horizontal rule — */
+.ency-content hr {
+    border: none;
+    border-top: 1px solid var(--rule);
+    margin: 2rem 0;
+}
+
+/* — Back link — */
+.ency-back-link {
+    font-family: var(--font-mono);
+    font-size: 0.82rem;
+    margin-top: 2.5rem;
+    padding-top: 1.25rem;
+    border-top: 1px solid var(--rule);
+}
+
+.ency-back-link a {
+    color: var(--navy);
+    text-decoration: none;
+    transition: color 0.15s;
+}
+
+.ency-back-link a:hover {
+    color: var(--ink);
+}
+
+/* — Navigation footer below content — */
+.ency-nav-footer {
+    display: flex;
+    gap: 1rem;
+    flex-wrap: wrap;
+    margin-top: 2rem;
+    padding-top: 1.25rem;
+    border-top: 1px solid var(--rule);
+    font-family: var(--font-mono);
+    font-size: 0.82rem;
+}
+
+.ency-nav-footer a {
+    color: var(--navy);
+    text-decoration: none;
+    transition: color 0.15s;
+}
+
+.ency-nav-footer a:hover {
+    color: var(--ink);
+}
+
+.ency-nav-footer .sep {
+    color: var(--rule);
+}
+
+
+/* ═════════════════════════════════════════════════════════════
+   RIGHT SIDEBAR
+   ═════════════════════════════════════════════════════════════*/
+.ency-right {
+    grid-column: 3;
+    padding: 3.25rem 1.5rem 2rem 1.5rem;
+    display: flex;
+    flex-direction: column;
+}
+
+.ency-right-section {
+    margin-bottom: 1.85rem;
+}
+
+.ency-right-label {
+    font-family: var(--font-mono);
+    font-size: 0.68rem;
+    font-weight: 500;
+    letter-spacing: 0.12em;
+    text-transform: uppercase;
+    color: var(--ink);
+    border-bottom: 1px solid var(--ink);
+    padding-bottom: 0.4rem;
+    margin-bottom: 0.8rem;
+    display: block;
+}
+
+.ency-right-meta {
+    font-family: var(--font-mono);
+    font-size: 0.76rem;
+    line-height: 1.8;
+    color: var(--ink-mid);
+}
+
+.ency-right-meta strong {
+    display: block;
+    color: var(--ink);
+    font-weight: 500;
+    margin-bottom: 0.15rem;
+}
+
+.ency-right-meta a {
+    color: var(--navy);
+    text-decoration: underline;
+    text-underline-offset: 2px;
+    transition: color 0.15s;
+}
+
+.ency-right-meta a:hover {
+    color: var(--ink);
+}
+
+.ency-right-meta a:focus-visible {
+    outline: 2px solid var(--navy);
+    outline-offset: 2px;
+}
+
+/* Keywords as tags */
+.ency-keywords {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 0.4rem;
+    margin-top: 0.4rem;
+}
+
+.ency-keyword {
+    font-family: var(--font-mono);
+    font-size: 0.68rem;
+    background: rgba(44, 52, 107, 0.08);
+    color: var(--ink-mid);
+    padding: 0.15rem 0.45rem;
+    border-radius: 2px;
+    letter-spacing: 0.02em;
+}
+
+.ency-right-footer {
+    margin-top: auto;
+    padding-top: 1.25rem;
+    border-top: 1px solid var(--rule-light);
+}
+
+.ency-right-footer p {
+    font-family: var(--font-mono);
+    font-size: 0.67rem;
+    letter-spacing: 0.06em;
+    text-transform: uppercase;
+    color: var(--ink-muted);
+    line-height: 1.65;
+}
+
+
+/* ═════════════════════════════════════════════════════════════
+   MOBILE HEADER & DRAWER
+   ═════════════════════════════════════════════════════════════*/
+.ency-mobile-header {
+    display: none;
+    position: sticky;
+    top: 0;
+    z-index: 200;
+    background: var(--bg);
+    border-bottom: 1px solid var(--rule);
+    padding: 1rem 1.5rem;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.ency-mobile-logo {
+    font-family: var(--font-title);
+    font-size: 1.2rem;
+    font-weight: 700;
+    color: var(--ink);
+    text-decoration: none;
+    letter-spacing: -0.01em;
+}
+
+.ency-mobile-logo .logo-i {
+    font-style: italic;
+}
+
+.ency-hamburger {
+    background: none;
+    border: none;
+    cursor: pointer;
+    padding: 0.2rem;
+    display: flex;
+    flex-direction: column;
+    gap: 5px;
+}
+
+.ency-hamburger span {
+    display: block;
+    width: 22px;
+    height: 2px;
+    background: var(--ink);
+    transition: transform 0.2s ease, opacity 0.2s ease;
+}
+
+.ency-hamburger[aria-expanded="true"] span:nth-child(1) {
+    transform: translateY(7px) rotate(45deg);
+}
+
+.ency-hamburger[aria-expanded="true"] span:nth-child(2) {
+    opacity: 0;
+}
+
+.ency-hamburger[aria-expanded="true"] span:nth-child(3) {
+    transform: translateY(-7px) rotate(-45deg);
+}
+
+.ency-hamburger:focus-visible {
+    outline: 2px solid var(--navy);
+    outline-offset: 3px;
+}
+
+.ency-mobile-drawer {
+    display: none;
+    position: fixed;
+    inset: 0;
+    background: var(--bg);
+    z-index: 199;
+    padding: 5rem 2rem 2rem;
+    overflow-y: auto;
+}
+
+.ency-mobile-drawer.open {
+    display: block;
+}
+
+.ency-mobile-drawer-logo {
+    position: absolute;
+    top: 1.1rem;
+    left: 1.5rem;
+    font-family: var(--font-title);
+    font-size: 1.2rem;
+    font-weight: 700;
+    color: var(--ink);
+    text-decoration: none;
+    letter-spacing: -0.01em;
+}
+
+.ency-mobile-drawer-logo .logo-i {
+    font-style: italic;
+}
+
+.ency-mobile-drawer .ency-nav-list {
+    gap: 1.1rem;
+    padding: 0;
+}
+
+.ency-mobile-drawer .ency-nav-list a {
+    font-size: 1rem;
+}
+
+
+/* ═════════════════════════════════════════════════════════════
+   INDEX PAGE STYLES
+   ═════════════════════════════════════════════════════════════*/
+.ency-content ul.ency-index-list {
+    list-style: none;
+    padding: 0;
+    columns: 2;
+    column-gap: 2rem;
+}
+
+.ency-content ul.ency-index-list li {
+    break-inside: avoid;
+    margin-bottom: 0.25rem;
+}
+
+.ency-content ul.ency-index-list a {
+    font-size: 1rem;
+    text-decoration: none;
+    border-bottom: 1px solid var(--rule-light);
+    display: block;
+    padding: 0.3rem 0;
+    transition: border-color 0.15s, color 0.15s;
+}
+
+.ency-content ul.ency-index-list a:hover {
+    border-bottom-color: var(--navy);
+}
+
+
+/* ═════════════════════════════════════════════════════════════
+   RESPONSIVE
+   ═════════════════════════════════════════════════════════════*/
+
+/* Tablet: drop right sidebar */
+@media (max-width: 1160px) {
+    :root {
+        --sidebar-w: 220px;
+    }
+
+    .ency-shell {
+        grid-template-columns: var(--sidebar-w) 1fr;
+    }
+
+    .ency-right {
+        display: none;
+    }
+
+    .ency-main {
+        border-right: none;
+        padding: 2.75rem 2.5rem 4rem;
+    }
+}
+
+/* Mobile: full collapse */
+@media (max-width: 780px) {
+    .ency-shell {
+        grid-template-columns: 1fr;
+    }
+
+    .ency-sidebar {
+        display: none;
+    }
+
+    .ency-mobile-header {
+        display: flex;
+    }
+
+    .ency-main {
+        grid-column: 1;
+        padding: 2rem 1.5rem 3.5rem;
+        border: none;
+    }
+
+    .ency-content h1 {
+        font-size: clamp(1.4rem, 6vw, 1.9rem);
+    }
+
+    .ency-content ul.ency-index-list {
+        columns: 1;
+    }
+}
+
+@media (max-width: 460px) {
+    .ency-main {
+        padding: 1.5rem 1.1rem 3rem;
+    }
+}
+
+
+/* ─────────────────────────────────────────────────────────────
+   ACCESSIBILITY
+───────────────────────────────────────────────────────────── */
+:focus-visible {
+    outline: 2px solid var(--navy);
+    outline-offset: 2px;
+}
+
+@media (prefers-reduced-motion: reduce) {
+
+    *,
+    *::before,
+    *::after {
+        transition: none !important;
+        animation: none !important;
+    }
+}
